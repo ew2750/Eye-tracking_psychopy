@@ -1,0 +1,518 @@
+3.5435 	ERROR 	Support for the `sounddevice` audio backend is not available this session. Please install `psychopy-sounddevice` and restart the session to enable support.
+9.8898 	INFO 	Loaded monitor calibration from ['2022_10_20 13:53']
+10.2860 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.2877 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.2896 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.2924 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.2949 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.2957 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.2976 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.3003 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.3007 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.3011 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.3030 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.3048 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.3063 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.3081 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.3094 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.3115 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.3132 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.3137 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.3146 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.3173 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.3178 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.3186 	DEBUG 	Uploading Texture Font fontname to graphics card
+10.3242 	DEBUG 	Upload of Texture Font fontname complete
+10.3520 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.3547 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.3573 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.3576 	DEBUG 	Uploading Texture Font fontname to graphics card
+10.3609 	DEBUG 	Upload of Texture Font fontname complete
+11.4501 	WARNING 	Couldn't measure a consistent frame rate!
+  - Is your graphics card set to sync to vertical blank?
+  - Are you running other processes on your computer?
+
+11.4520 	EXP 	Created window1 = Window(allowGUI=True, allowStencil=False, autoLog=True, backendConf=UNKNOWN, backgroundFit=<method-wrapper '__getattribute__' of attributeSetter object at 0x7fbc6b29a940>, backgroundImage=<method-wrapper '__getattribute__' of attributeSetter object at 0x7fbc6b29a8e0>, bitsMode=UNKNOWN, blendMode='avg', bpc=(8, 8, 8), color=array([0, 0, 0]), colorSpace='rgb', depthBits=8, fullscr=<method-wrapper '__getattribute__' of attributeSetter object at 0x7fbc6b29a760>, gamma=None, gammaErrorPolicy='raise', lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x7fbc7ab1a100>, multiSample=False, name='window1', numSamples=2, pos=[367.5, 239.0], screen=0, size=array([2940, 1912]), stencilBits=0, stereo=False, title='PsychoPy', units='height', useFBO=True, useRetina=True, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+11.4586 	EXP 	window1: mouseVisible = True
+11.4587 	EXP 	window1: backgroundImage = ''
+11.4587 	EXP 	window1: backgroundFit = 'none'
+11.4618 	EXP 	window1: Attempting to measure frame rate of screen (0) ...
+11.4618 	EXP 	window1: recordFrameIntervals = False
+11.5505 	EXP 	window1: recordFrameIntervals = True
+12.3840 	WARNING 	Couldn't measure a consistent frame rate!
+  - Is your graphics card set to sync to vertical blank?
+  - Are you running other processes on your computer?
+
+12.3847 	EXP 	window1: mouseVisible = False
+17.8966 	INFO 	keyboard.Keyboard is using iohub backend.
+17.8968 	EXP 	ETchi: status = STARTED
+17.9054 	EXP 	window1: mouseVisible = True
+17.9507 	EXP 	Created intro_1 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([-1., -1., -1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='NanumGothic', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='intro_1', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text=' Tasks', units='height', win=Window(...), wrapWidth=1)
+17.9547 	EXP 	window1: mouseVisible = True
+18.0249 	EXP 	Created intro_2 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([-1., -1., -1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='NanumGothic', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='intro_2', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='height', win=Window(...), wrapWidth=1)
+18.0249 	INFO 	keyboard.Keyboard is using iohub backend.
+18.0291 	EXP 	window1: mouseVisible = True
+18.0971 	EXP 	Created Intro_3 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([-1., -1., -1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='NanumGothic', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='Intro_3', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='height', win=Window(...), wrapWidth=1)
+18.0971 	INFO 	keyboard.Keyboard is using iohub backend.
+18.1032 	EXP 	window1: mouseVisible = True
+18.1045 	EXP 	Created pracintro = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([-1., -1., -1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='NanumGothic', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='pracintro', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+18.1045 	INFO 	keyboard.Keyboard is using iohub backend.
+18.1085 	EXP 	window1: mouseVisible = True
+18.1421 	EXP 	Created image = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, draggable=False, flipHoriz=False, flipVert=False, image='default.png', interpolate=True, mask=None, maskParams=None, name='image', opacity=1.0, ori=0.0, pos=array([0., 0.]), size=array([2. , 0.7]), texRes=128.0, units='height', win=Window(...))
+18.1461 	EXP 	window1: mouseVisible = True
+18.1503 	EXP 	Created early = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([-1., -1., -1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='early', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+18.1503 	INFO 	keyboard.Keyboard is using iohub backend.
+18.1540 	EXP 	window1: mouseVisible = True
+18.1554 	EXP 	Created late = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([-1., -1., -1.]), colorSpace='rgb', contrast=1.0, depth=-2.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='late', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+18.1590 	EXP 	window1: mouseVisible = True
+18.1604 	EXP 	Created pracfeedback = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.1, italic=False, languageStyle='LTR', name='pracfeedback', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+18.1639 	EXP 	window1: mouseVisible = True
+18.1814 	EXP 	Created intro_5 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([-1., -1., -1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='NanumGothic', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='intro_5', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='height', win=Window(...), wrapWidth=1)
+18.1814 	INFO 	keyboard.Keyboard is using iohub backend.
+18.1865 	EXP 	window1: mouseVisible = True
+18.2047 	EXP 	Created main_image_2 = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, image='default.png', interpolate=True, mask=None, maskParams=None, name='main_image_2', opacity=1.0, ori=0.0, pos=array([0., 0.]), size=array([2. , 0.7]), texRes=128.0, units='height', win=Window(...))
+18.2087 	EXP 	window1: mouseVisible = True
+18.2099 	EXP 	Created main_early = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([-1., -1., -1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='main_early', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+18.2099 	INFO 	keyboard.Keyboard is using iohub backend.
+18.2139 	EXP 	window1: mouseVisible = True
+18.2151 	EXP 	Created main_late = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([-1., -1., -1.]), colorSpace='rgb', contrast=1.0, depth=-3.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='main_late', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+18.2204 	EXP 	window1: mouseVisible = True
+18.2243 	EXP 	Created fix = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-4.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='fix', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='+', units='height', win=Window(...), wrapWidth=1)
+18.2279 	EXP 	window1: mouseVisible = True
+18.2290 	EXP 	Created text = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='text', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+18.2326 	EXP 	window1: mouseVisible = True
+18.2509 	EXP 	Created fengjing = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, draggable=False, flipHoriz=False, flipVert=False, image='default.png', interpolate=True, mask=None, maskParams=None, name='fengjing', opacity=1.0, ori=0.0, pos=array([0., 0.]), size=array([0.5, 0.5]), texRes=128.0, units='height', win=Window(...))
+18.2510 	INFO 	keyboard.Keyboard is using iohub backend.
+18.2544 	EXP 	window1: mouseVisible = True
+18.2724 	EXP 	Created main_image_2 = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, image='default.png', interpolate=True, mask=None, maskParams=None, name='main_image_2', opacity=1.0, ori=0.0, pos=array([0., 0.]), size=array([2. , 0.7]), texRes=128.0, units='height', win=Window(...))
+18.2759 	EXP 	window1: mouseVisible = True
+18.2770 	EXP 	Created main_early = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([-1., -1., -1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='main_early', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+18.2772 	INFO 	keyboard.Keyboard is using iohub backend.
+18.2828 	EXP 	window1: mouseVisible = True
+18.2839 	EXP 	Created main_late = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([-1., -1., -1.]), colorSpace='rgb', contrast=1.0, depth=-3.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='main_late', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+18.2873 	EXP 	window1: mouseVisible = True
+18.2907 	EXP 	Created fix = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-4.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='fix', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='+', units='height', win=Window(...), wrapWidth=1)
+18.2943 	EXP 	window1: mouseVisible = True
+18.2954 	EXP 	Created text = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='text', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+18.2992 	EXP 	window1: mouseVisible = True
+18.3173 	EXP 	Created fengjing = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, draggable=False, flipHoriz=False, flipVert=False, image='default.png', interpolate=True, mask=None, maskParams=None, name='fengjing', opacity=1.0, ori=0.0, pos=array([0., 0.]), size=array([0.5, 0.5]), texRes=128.0, units='height', win=Window(...))
+18.3173 	INFO 	keyboard.Keyboard is using iohub backend.
+18.3208 	EXP 	window1: mouseVisible = True
+18.3387 	EXP 	Created main_image_2 = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, image='default.png', interpolate=True, mask=None, maskParams=None, name='main_image_2', opacity=1.0, ori=0.0, pos=array([0., 0.]), size=array([2. , 0.7]), texRes=128.0, units='height', win=Window(...))
+18.3422 	EXP 	window1: mouseVisible = True
+18.3434 	EXP 	Created main_early = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([-1., -1., -1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='main_early', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+18.3434 	INFO 	keyboard.Keyboard is using iohub backend.
+18.3469 	EXP 	window1: mouseVisible = True
+18.3480 	EXP 	Created main_late = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([-1., -1., -1.]), colorSpace='rgb', contrast=1.0, depth=-3.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='main_late', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+18.3530 	EXP 	window1: mouseVisible = True
+18.3554 	EXP 	Created fix = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-4.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='fix', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='+', units='height', win=Window(...), wrapWidth=1)
+18.3589 	EXP 	window1: mouseVisible = True
+18.3601 	EXP 	Created text = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='text', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+18.3636 	EXP 	window1: mouseVisible = True
+18.3818 	EXP 	Created fengjing = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, draggable=False, flipHoriz=False, flipVert=False, image='default.png', interpolate=True, mask=None, maskParams=None, name='fengjing', opacity=1.0, ori=0.0, pos=array([0., 0.]), size=array([0.5, 0.5]), texRes=128.0, units='height', win=Window(...))
+18.3818 	INFO 	keyboard.Keyboard is using iohub backend.
+18.3866 	EXP 	window1: mouseVisible = True
+18.4045 	EXP 	Created main_image_2 = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, image='default.png', interpolate=True, mask=None, maskParams=None, name='main_image_2', opacity=1.0, ori=0.0, pos=array([0., 0.]), size=array([2. , 0.7]), texRes=128.0, units='height', win=Window(...))
+18.4083 	EXP 	window1: mouseVisible = True
+18.4094 	EXP 	Created main_early = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([-1., -1., -1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='main_early', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+18.4095 	INFO 	keyboard.Keyboard is using iohub backend.
+18.4130 	EXP 	window1: mouseVisible = True
+18.4142 	EXP 	Created main_late = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([-1., -1., -1.]), colorSpace='rgb', contrast=1.0, depth=-3.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='main_late', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+18.4198 	EXP 	window1: mouseVisible = True
+18.4221 	EXP 	Created fix = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-4.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='fix', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='+', units='height', win=Window(...), wrapWidth=1)
+18.4257 	EXP 	window1: mouseVisible = True
+18.4448 	EXP 	Created theend = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([-1., -1., -1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='NanumGothic', fontFiles=[], height=0.1, italic=False, languageStyle='LTR', name='theend', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='height', win=Window(...), wrapWidth=1)
+0.0688 	EXP 	intro_1: autoDraw = True
+0.6787 	WARNING 	t of last frame was 39.52ms (=1/25)
+2.0131 	INFO 	Keyboard events cleared
+2.0126 	EXP 	intro_1: autoDraw = False
+2.0126 	EXP 	intro_2: autoDraw = True
+2.2418 	INFO 	Keyboard events cleared
+2.2415 	WARNING 	t of last frame was 36.44ms (=1/27)
+2.2415 	EXP 	intro_2: autoDraw = False
+2.2415 	EXP 	Intro_3: autoDraw = True
+2.3173 	DATA 	Keypress: space
+2.3333 	WARNING 	t of last frame was 78.14ms (=1/12)
+2.3542 	WARNING 	t of last frame was 20.93ms (=1/47)
+2.3728 	EXP 	Created sequence: sequential, trialTypes=1, nReps=3, seed=None
+2.3731 	EXP 	New trial (rep=0, index=0): None
+2.4217 	DATA 	Keypress: space
+2.4260 	INFO 	Keyboard events cleared
+2.4260 	WARNING 	Multiple dropped frames have occurred - I'll stop bothering you about them!
+2.4257 	EXP 	Intro_3: autoDraw = False
+2.4257 	EXP 	pracintro: height = 0.05
+2.4257 	EXP 	pracintro: height = 0.05
+2.4257 	EXP 	pracintro: height = 0.05
+2.4257 	EXP 	pracintro: text = '在参与实验之前，我们先进行练习。 \n\n 为了通过练习，您必须在练习中答对 90%。 \n\n 如果您已理解，请按空格键以开始。 \n\nBefore participating in the experiment, we will pratice first.  \n\n In order to start the experiment, you must get at least 90% correct in the practice round. \n\n If you understand the explanation, please press the space bar. '
+2.4257 	EXP 	pracintro: autoDraw = True
+2.5707 	DEBUG 	Read excel file with openpyxl: Practice_Chi.xlsx
+2.5732 	EXP 	Imported Practice_Chi.xlsx as conditions, 8 conditions, 11 params
+2.5747 	EXP 	Created sequence: random, trialTypes=8, nReps=1, seed=None
+2.5749 	EXP 	New trial (rep=0, index=0): {'No': 3, 'Category': 'practice', 'earlier_stim': '星期一', 'later_stim': '星期二', 'conguency': 'congruent', 'orientation': 'Vert', 'instruction': 'early', 'corr_resp': 'up', 'Instruction_stim': 'image/Chi_early.png', 'early_position': [0, 0.3], 'late_position': [0, -0.3]}
+2.6099 	DATA 	Keypress: space
+2.6150 	EXP 	pracintro: autoDraw = False
+2.6150 	EXP 	image: image = 'image/Chi_early.png'
+2.6150 	EXP 	image: autoDraw = True
+2.6952 	DATA 	Keypress: space
+2.8262 	DATA 	Keypress: space
+3.5661 	INFO 	Keyboard events cleared
+3.5657 	EXP 	image: autoDraw = False
+3.5657 	EXP 	early: height = 0.05
+3.5657 	EXP 	early: height = 0.05
+3.5657 	EXP 	early: height = 0.05
+3.5657 	EXP 	early: text = '星期一'
+3.5657 	EXP 	late: height = 0.05
+3.5657 	EXP 	late: height = 0.05
+3.5657 	EXP 	late: height = 0.05
+3.5657 	EXP 	late: text = '星期二'
+3.5657 	EXP 	early: autoDraw = True
+3.5657 	EXP 	late: autoDraw = True
+4.6458 	DATA 	Keypress: up
+4.6508 	EXP 	early: autoDraw = False
+4.6508 	EXP 	late: autoDraw = False
+4.6508 	EXP 	pracfeedback: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+4.6508 	EXP 	pracfeedback: height = 0.1
+4.6508 	EXP 	pracfeedback: height = 0.1
+4.6508 	EXP 	pracfeedback: height = 0.1
+4.6508 	EXP 	pracfeedback: text = 'Correct! \nScore = 100.0%'
+4.6508 	EXP 	pracfeedback: autoDraw = True
+5.5559 	EXP 	New trial (rep=0, index=1): {'No': 5, 'Category': 'practice', 'earlier_stim': '星期二', 'later_stim': '星期一', 'conguency': 'incongruent', 'orientation': 'Hori', 'instruction': 'early', 'corr_resp': 'right', 'Instruction_stim': 'image/Chi_early.png', 'early_position': [-0.3, 0], 'late_position': [0.3, 0]}
+5.5910 	EXP 	pracfeedback: autoDraw = False
+5.5910 	EXP 	image: image = 'image/Chi_early.png'
+5.5910 	EXP 	image: autoDraw = True
+6.5719 	INFO 	Keyboard events cleared
+6.5716 	EXP 	image: autoDraw = False
+6.5716 	EXP 	early: height = 0.05
+6.5716 	EXP 	early: height = 0.05
+6.5716 	EXP 	early: height = 0.05
+6.5716 	EXP 	early: text = '星期二'
+6.5716 	EXP 	late: height = 0.05
+6.5716 	EXP 	late: height = 0.05
+6.5716 	EXP 	late: height = 0.05
+6.5716 	EXP 	late: text = '星期一'
+6.5716 	EXP 	early: autoDraw = True
+6.5716 	EXP 	late: autoDraw = True
+7.2179 	DATA 	Keypress: right
+7.2380 	EXP 	early: autoDraw = False
+7.2380 	EXP 	late: autoDraw = False
+7.2380 	EXP 	pracfeedback: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+7.2380 	EXP 	pracfeedback: text = 'Correct! \nScore = 100.0%'
+7.2380 	EXP 	pracfeedback: autoDraw = True
+8.2228 	EXP 	New trial (rep=0, index=2): {'No': 7, 'Category': 'practice', 'earlier_stim': '星期三 ', 'later_stim': '星期二', 'conguency': 'incongruent', 'orientation': 'Vert', 'instruction': 'early', 'corr_resp': 'down', 'Instruction_stim': 'image/Chi_early.png', 'early_position': [0, 0.3], 'late_position': [0, -0.3]}
+8.2581 	EXP 	pracfeedback: autoDraw = False
+8.2581 	EXP 	image: image = 'image/Chi_early.png'
+8.2581 	EXP 	image: autoDraw = True
+9.2414 	INFO 	Keyboard events cleared
+9.2411 	EXP 	image: autoDraw = False
+9.2411 	EXP 	early: height = 0.05
+9.2411 	EXP 	early: height = 0.05
+9.2411 	EXP 	early: height = 0.05
+9.2411 	EXP 	early: text = '星期三 '
+9.2411 	EXP 	late: height = 0.05
+9.2411 	EXP 	late: height = 0.05
+9.2411 	EXP 	late: height = 0.05
+9.2411 	EXP 	late: text = '星期二'
+9.2411 	EXP 	early: autoDraw = True
+9.2411 	EXP 	late: autoDraw = True
+10.0447 	DATA 	Keypress: down
+10.0487 	EXP 	early: autoDraw = False
+10.0487 	EXP 	late: autoDraw = False
+10.0487 	EXP 	pracfeedback: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+10.0487 	EXP 	pracfeedback: text = 'Correct! \nScore = 100.0%'
+10.0487 	EXP 	pracfeedback: autoDraw = True
+11.0393 	EXP 	New trial (rep=0, index=3): {'No': 8, 'Category': 'practice', 'earlier_stim': '星期六', 'later_stim': '星期五', 'conguency': 'incongruent', 'orientation': 'Vert', 'instruction': 'late', 'corr_resp': 'up', 'Instruction_stim': 'image/Chi_late.png', 'early_position': [0, 0.3], 'late_position': [0, -0.3]}
+11.0757 	EXP 	pracfeedback: autoDraw = False
+11.0757 	EXP 	pracfeedback: autoDraw = False
+11.0757 	EXP 	image: image = 'image/Chi_late.png'
+11.0757 	EXP 	image: autoDraw = True
+12.0628 	INFO 	Keyboard events cleared
+12.0624 	EXP 	image: autoDraw = False
+12.0624 	EXP 	early: height = 0.05
+12.0624 	EXP 	early: height = 0.05
+12.0624 	EXP 	early: height = 0.05
+12.0624 	EXP 	early: text = '星期六'
+12.0624 	EXP 	late: height = 0.05
+12.0624 	EXP 	late: height = 0.05
+12.0624 	EXP 	late: height = 0.05
+12.0624 	EXP 	late: text = '星期五'
+12.0624 	EXP 	early: autoDraw = True
+12.0624 	EXP 	late: autoDraw = True
+13.3645 	DATA 	Keypress: up
+13.3703 	EXP 	early: autoDraw = False
+13.3703 	EXP 	late: autoDraw = False
+13.3703 	EXP 	pracfeedback: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+13.3703 	EXP 	pracfeedback: text = 'Correct! \nScore = 100.0%'
+13.3703 	EXP 	pracfeedback: autoDraw = True
+14.3560 	EXP 	New trial (rep=0, index=4): {'No': 2, 'Category': 'practice', 'earlier_stim': '星期五', 'later_stim': '星期六', 'conguency': 'congruent', 'orientation': 'Hori', 'instruction': 'late', 'corr_resp': 'right', 'Instruction_stim': 'image/Chi_late.png', 'early_position': [-0.3, 0], 'late_position': [0.3, 0]}
+14.3948 	EXP 	pracfeedback: autoDraw = False
+14.3948 	EXP 	pracfeedback: autoDraw = False
+14.3948 	EXP 	image: image = 'image/Chi_late.png'
+14.3948 	EXP 	image: autoDraw = True
+15.3864 	INFO 	Keyboard events cleared
+15.3861 	EXP 	image: autoDraw = False
+15.3861 	EXP 	early: height = 0.05
+15.3861 	EXP 	early: height = 0.05
+15.3861 	EXP 	early: height = 0.05
+15.3861 	EXP 	early: text = '星期五'
+15.3861 	EXP 	late: height = 0.05
+15.3861 	EXP 	late: height = 0.05
+15.3861 	EXP 	late: height = 0.05
+15.3861 	EXP 	late: text = '星期六'
+15.3861 	EXP 	early: autoDraw = True
+15.3861 	EXP 	late: autoDraw = True
+17.1826 	DATA 	Keypress: right
+17.1871 	EXP 	early: autoDraw = False
+17.1871 	EXP 	late: autoDraw = False
+17.1871 	EXP 	pracfeedback: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+17.1871 	EXP 	pracfeedback: text = 'Correct! \nScore = 100.0%'
+17.1871 	EXP 	pracfeedback: autoDraw = True
+18.1727 	EXP 	New trial (rep=0, index=5): {'No': 4, 'Category': 'practice', 'earlier_stim': '星期日', 'later_stim': '星期一', 'conguency': 'congruent', 'orientation': 'Vert', 'instruction': 'late', 'corr_resp': 'down', 'Instruction_stim': 'image/Chi_late.png', 'early_position': [0, 0.3], 'late_position': [0, -0.3]}
+18.2080 	EXP 	pracfeedback: autoDraw = False
+18.2080 	EXP 	pracfeedback: autoDraw = False
+18.2080 	EXP 	image: image = 'image/Chi_late.png'
+18.2080 	EXP 	image: autoDraw = True
+19.2027 	INFO 	Keyboard events cleared
+19.2024 	EXP 	image: autoDraw = False
+19.2024 	EXP 	early: height = 0.05
+19.2024 	EXP 	early: height = 0.05
+19.2024 	EXP 	early: height = 0.05
+19.2024 	EXP 	early: text = '星期日'
+19.2024 	EXP 	late: height = 0.05
+19.2024 	EXP 	late: height = 0.05
+19.2024 	EXP 	late: height = 0.05
+19.2024 	EXP 	late: text = '星期一'
+19.2024 	EXP 	early: autoDraw = True
+19.2024 	EXP 	late: autoDraw = True
+20.2920 	DATA 	Keypress: down
+20.2962 	EXP 	early: autoDraw = False
+20.2962 	EXP 	late: autoDraw = False
+20.2962 	EXP 	pracfeedback: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+20.2962 	EXP 	pracfeedback: text = 'Correct! \nScore = 100.0%'
+20.2962 	EXP 	pracfeedback: autoDraw = True
+21.2891 	EXP 	New trial (rep=0, index=6): {'No': 1, 'Category': 'practice', 'earlier_stim': '星期三 ', 'later_stim': '星期四', 'conguency': 'congruent', 'orientation': 'Hori', 'instruction': 'early', 'corr_resp': 'left', 'Instruction_stim': 'image/Chi_early.png', 'early_position': [-0.3, 0], 'late_position': [0.3, 0]}
+21.3247 	EXP 	pracfeedback: autoDraw = False
+21.3247 	EXP 	pracfeedback: autoDraw = False
+21.3247 	EXP 	image: image = 'image/Chi_early.png'
+21.3247 	EXP 	image: autoDraw = True
+22.3140 	INFO 	Keyboard events cleared
+22.3136 	EXP 	image: autoDraw = False
+22.3136 	EXP 	early: height = 0.05
+22.3136 	EXP 	early: height = 0.05
+22.3136 	EXP 	early: height = 0.05
+22.3136 	EXP 	early: text = '星期三 '
+22.3136 	EXP 	late: height = 0.05
+22.3136 	EXP 	late: height = 0.05
+22.3136 	EXP 	late: height = 0.05
+22.3136 	EXP 	late: text = '星期四'
+22.3136 	EXP 	early: autoDraw = True
+22.3136 	EXP 	late: autoDraw = True
+23.4088 	DATA 	Keypress: left
+23.4129 	EXP 	early: autoDraw = False
+23.4129 	EXP 	late: autoDraw = False
+23.4129 	EXP 	pracfeedback: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+23.4129 	EXP 	pracfeedback: text = 'Correct! \nScore = 100.0%'
+23.4129 	EXP 	pracfeedback: autoDraw = True
+24.4055 	EXP 	New trial (rep=0, index=7): {'No': 6, 'Category': 'practice', 'earlier_stim': '星期四', 'later_stim': '星期三 ', 'conguency': 'incongruent', 'orientation': 'Hori', 'instruction': 'late', 'corr_resp': 'left', 'Instruction_stim': 'image/Chi_late.png', 'early_position': [-0.3, 0], 'late_position': [0.3, 0]}
+24.4412 	EXP 	pracfeedback: autoDraw = False
+24.4412 	EXP 	pracfeedback: autoDraw = False
+24.4412 	EXP 	image: image = 'image/Chi_late.png'
+24.4412 	EXP 	image: autoDraw = True
+25.4284 	INFO 	Keyboard events cleared
+25.4279 	EXP 	image: autoDraw = False
+25.4279 	EXP 	early: height = 0.05
+25.4279 	EXP 	early: height = 0.05
+25.4279 	EXP 	early: height = 0.05
+25.4279 	EXP 	early: text = '星期四'
+25.4279 	EXP 	late: height = 0.05
+25.4279 	EXP 	late: height = 0.05
+25.4279 	EXP 	late: height = 0.05
+25.4279 	EXP 	late: text = '星期三 '
+25.4279 	EXP 	early: autoDraw = True
+25.4279 	EXP 	late: autoDraw = True
+26.6926 	DATA 	Keypress: left
+26.6968 	EXP 	early: autoDraw = False
+26.6968 	EXP 	late: autoDraw = False
+26.6968 	EXP 	pracfeedback: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+26.6968 	EXP 	pracfeedback: text = 'Correct! \nScore = 100.0%'
+26.6968 	EXP 	pracfeedback: autoDraw = True
+27.6956 	INFO 	Keyboard events cleared
+27.6951 	EXP 	pracfeedback: autoDraw = False
+27.6951 	EXP 	pracfeedback: autoDraw = False
+27.6951 	EXP 	intro_5: autoDraw = True
+28.8290 	DEBUG 	Read csv file with pandas: blocks/Block 1.csv
+28.8347 	DEBUG 	Clearing unnamed columns from blocks/Block 1.csv
+28.8404 	EXP 	Imported blocks/Block 1.csv as conditions, 5 conditions, 12 params
+28.8407 	EXP 	Created sequence: sequential, trialTypes=5, nReps=1, seed=None
+28.8409 	EXP 	New trial (rep=0, index=0): OrderedDict([('No', 142), ('Category', 'Week'), ('earlier_stim', '星期五'), ('later_stim', '星期四'), ('distance', 1), ('congruency', 'incongruent'), ('orientation', 'Vert'), ('instruction', 'early'), ('corr_resp', 'down'), ('Instruction_stim', 'image/Chi_early.png'), ('early_position', [0, 0.3]), ('late_position', [0, -0.3])])
+28.8717 	DATA 	Keypress: space
+28.8766 	EXP 	intro_5: autoDraw = False
+28.8766 	EXP 	main_image_2: image = 'image/Chi_early.png'
+28.8766 	EXP 	main_early: height = 0.05
+28.8766 	EXP 	main_early: height = 0.05
+28.8766 	EXP 	main_early: height = 0.05
+28.8766 	EXP 	main_early: text = '星期五'
+28.8766 	EXP 	main_late: height = 0.05
+28.8766 	EXP 	main_late: height = 0.05
+28.8766 	EXP 	main_late: height = 0.05
+28.8766 	EXP 	main_late: text = '星期四'
+28.8766 	EXP 	main_image_2: autoDraw = True
+29.7961 	EXP 	fix: autoDraw = True
+29.8711 	EXP 	main_image_2: autoDraw = False
+30.2964 	INFO 	Keyboard events cleared
+30.2960 	EXP 	main_early: autoDraw = True
+30.2960 	EXP 	main_late: autoDraw = True
+30.2960 	EXP 	fix: autoDraw = False
+30.5729 	EXP 	New trial (rep=0, index=1): OrderedDict([('No', 75), ('Category', 'Month'), ('earlier_stim', '十月 '), ('later_stim', '九月 '), ('distance', 1), ('congruency', 'incongruent'), ('orientation', 'Vert'), ('instruction', 'early'), ('corr_resp', 'down'), ('Instruction_stim', 'image/Chi_early.png'), ('early_position', [0, 0.3]), ('late_position', [0, -0.3])])
+30.6059 	DATA 	Keypress: left
+30.6111 	EXP 	main_image_2: autoDraw = False
+30.6111 	EXP 	main_early: autoDraw = False
+30.6111 	EXP 	main_late: autoDraw = False
+30.6111 	EXP 	fix: autoDraw = False
+30.6111 	EXP 	main_image_2: image = 'image/Chi_early.png'
+30.6111 	EXP 	main_early: height = 0.05
+30.6111 	EXP 	main_early: height = 0.05
+30.6111 	EXP 	main_early: height = 0.05
+30.6111 	EXP 	main_early: text = '十月 '
+30.6111 	EXP 	main_late: height = 0.05
+30.6111 	EXP 	main_late: height = 0.05
+30.6111 	EXP 	main_late: height = 0.05
+30.6111 	EXP 	main_late: text = '九月 '
+30.6111 	EXP 	main_image_2: autoDraw = True
+31.5718 	EXP 	fix: autoDraw = True
+31.6044 	EXP 	main_image_2: autoDraw = False
+31.8980 	DATA 	Keypress: left
+32.0718 	INFO 	Keyboard events cleared
+32.0715 	EXP 	main_early: autoDraw = True
+32.0715 	EXP 	main_late: autoDraw = True
+32.0715 	EXP 	fix: autoDraw = False
+33.4294 	EXP 	New trial (rep=0, index=2): OrderedDict([('No', 29), ('Category', 'Month'), ('earlier_stim', '七月'), ('later_stim', '八月'), ('distance', 1), ('congruency', 'congruent'), ('orientation', 'Vert'), ('instruction', 'early'), ('corr_resp', 'up'), ('Instruction_stim', 'image/Chi_early.png'), ('early_position', [0, 0.3]), ('late_position', [0, -0.3])])
+33.4605 	DATA 	Keypress: left
+33.4658 	EXP 	main_image_2: autoDraw = False
+33.4658 	EXP 	main_early: autoDraw = False
+33.4658 	EXP 	main_late: autoDraw = False
+33.4658 	EXP 	fix: autoDraw = False
+33.4658 	EXP 	main_image_2: image = 'image/Chi_early.png'
+33.4658 	EXP 	main_early: height = 0.05
+33.4658 	EXP 	main_early: height = 0.05
+33.4658 	EXP 	main_early: height = 0.05
+33.4658 	EXP 	main_early: text = '七月'
+33.4658 	EXP 	main_late: height = 0.05
+33.4658 	EXP 	main_late: height = 0.05
+33.4658 	EXP 	main_late: height = 0.05
+33.4658 	EXP 	main_late: text = '八月'
+33.4658 	EXP 	main_image_2: autoDraw = True
+34.0829 	DATA 	Keypress: left
+34.4298 	EXP 	fix: autoDraw = True
+34.4584 	EXP 	main_image_2: autoDraw = False
+34.9300 	INFO 	Keyboard events cleared
+34.9296 	EXP 	main_early: autoDraw = True
+34.9296 	EXP 	main_late: autoDraw = True
+34.9296 	EXP 	fix: autoDraw = False
+35.3560 	EXP 	New trial (rep=0, index=3): OrderedDict([('No', 106), ('Category', 'Week'), ('earlier_stim', '星期三\xa0'), ('later_stim', '星期六'), ('distance', 3), ('congruency', 'congruent'), ('orientation', 'Hori'), ('instruction', 'late'), ('corr_resp', 'right'), ('Instruction_stim', 'image/Chi_late.png'), ('early_position', [-0.3, 0]), ('late_position', [0.3, 0])])
+35.3904 	DATA 	Keypress: left
+35.3962 	EXP 	main_image_2: autoDraw = False
+35.3962 	EXP 	main_early: autoDraw = False
+35.3962 	EXP 	main_late: autoDraw = False
+35.3962 	EXP 	fix: autoDraw = False
+35.3962 	EXP 	main_image_2: image = 'image/Chi_late.png'
+35.3962 	EXP 	main_early: height = 0.05
+35.3962 	EXP 	main_early: height = 0.05
+35.3962 	EXP 	main_early: height = 0.05
+35.3962 	EXP 	main_early: text = '星期三\xa0'
+35.3962 	EXP 	main_late: height = 0.05
+35.3962 	EXP 	main_late: height = 0.05
+35.3962 	EXP 	main_late: height = 0.05
+35.3962 	EXP 	main_late: text = '星期六'
+35.3962 	EXP 	main_image_2: autoDraw = True
+36.3535 	EXP 	fix: autoDraw = True
+36.4055 	EXP 	main_image_2: autoDraw = False
+36.8416 	EXP 	fix: autoDraw = False
+36.8554 	INFO 	Keyboard events cleared
+36.8551 	EXP 	main_early: autoDraw = True
+36.8551 	EXP 	main_late: autoDraw = True
+37.2457 	EXP 	New trial (rep=0, index=4): OrderedDict([('No', 20), ('Category', 'Month'), ('earlier_stim', '四月'), ('later_stim', '八月'), ('distance', 4), ('congruency', 'congruent'), ('orientation', 'Vert'), ('instruction', 'early'), ('corr_resp', 'up'), ('Instruction_stim', 'image/Chi_early.png'), ('early_position', [0, 0.3]), ('late_position', [0, -0.3])])
+37.2775 	DATA 	Keypress: left
+37.2828 	EXP 	main_image_2: autoDraw = False
+37.2828 	EXP 	main_early: autoDraw = False
+37.2828 	EXP 	main_late: autoDraw = False
+37.2828 	EXP 	fix: autoDraw = False
+37.2828 	EXP 	main_image_2: image = 'image/Chi_early.png'
+37.2828 	EXP 	main_early: height = 0.05
+37.2828 	EXP 	main_early: height = 0.05
+37.2828 	EXP 	main_early: height = 0.05
+37.2828 	EXP 	main_early: text = '四月'
+37.2828 	EXP 	main_late: height = 0.05
+37.2828 	EXP 	main_late: height = 0.05
+37.2828 	EXP 	main_late: height = 0.05
+37.2828 	EXP 	main_late: text = '八月'
+37.2828 	EXP 	main_image_2: autoDraw = True
+38.2463 	EXP 	fix: autoDraw = True
+38.2767 	EXP 	main_image_2: autoDraw = False
+38.7463 	INFO 	Keyboard events cleared
+38.7459 	EXP 	main_early: autoDraw = True
+38.7459 	EXP 	main_late: autoDraw = True
+38.7459 	EXP 	fix: autoDraw = False
+39.4802 	DEBUG 	Read excel file with openpyxl: Break_material/Break_chi.xlsx
+39.4823 	EXP 	Imported Break_material/Break_chi.xlsx as conditions, 2 conditions, 5 params
+39.4829 	EXP 	Created sequence: random, trialTypes=2, nReps=1, seed=None
+39.4831 	EXP 	New trial (rep=0, index=0): {'Image': 'Spring 1.jpg', 'Qustion': '这是春天吗？', 'Response': '是', 'CorrAns': 'Left', 'Path': 'Break_material/Image/Spring 1.jpg'}
+39.5601 	DATA 	Keypress: left
+39.5649 	EXP 	main_image_2: autoDraw = False
+39.5649 	EXP 	main_early: autoDraw = False
+39.5649 	EXP 	main_late: autoDraw = False
+39.5649 	EXP 	fix: autoDraw = False
+39.5649 	EXP 	text: height = 0.05
+39.5649 	EXP 	text: height = 0.05
+39.5649 	EXP 	text: height = 0.05
+39.5649 	EXP 	text: text = '这是春天吗？'
+39.5649 	EXP 	fengjing: image = 'Break_material/Image/Spring 1.jpg'
+39.5649 	EXP 	fengjing: autoDraw = True
+43.4647 	INFO 	Keyboard events cleared
+43.4641 	EXP 	text: autoDraw = True
+43.5594 	EXP 	fengjing: autoDraw = False
+47.3476 	DATA 	Keypress: left
+47.3554 	EXP 	New trial (rep=0, index=1): {'Image': 'Spring 2.jpg', 'Qustion': '这是冬天吗？', 'Response': '否', 'CorrAns': 'Right', 'Path': 'Break_material/Image/Spring 2.jpg'}
+47.4513 	EXP 	text: autoDraw = False
+47.4513 	EXP 	fengjing: autoDraw = False
+47.4513 	EXP 	text: height = 0.05
+47.4513 	EXP 	text: height = 0.05
+47.4513 	EXP 	text: height = 0.05
+47.4513 	EXP 	text: text = '这是冬天吗？'
+47.4513 	EXP 	fengjing: image = 'Break_material/Image/Spring 2.jpg'
+47.4513 	EXP 	fengjing: autoDraw = True
+51.3466 	INFO 	Keyboard events cleared
+51.3460 	EXP 	text: autoDraw = True
+51.4433 	EXP 	fengjing: autoDraw = False
+53.1674 	DEBUG 	Read csv file with pandas: blocks/Block 2.csv
+53.1686 	DEBUG 	Clearing unnamed columns from blocks/Block 2.csv
+53.1754 	EXP 	Imported blocks/Block 2.csv as conditions, 50 conditions, 12 params
+53.1762 	EXP 	Created sequence: random, trialTypes=50, nReps=1, seed=None
+53.1764 	EXP 	New trial (rep=0, index=0): OrderedDict([('No', 142), ('Category', 'Week'), ('earlier_stim', '星期日'), ('later_stim', '星期四'), ('distance', 3), ('congruency', 'incongruent'), ('orientation', 'Vert'), ('instruction', 'early'), ('corr_resp', 'down'), ('Instruction_stim', 'image/Chi_early.png'), ('early_position', [0, 0.3]), ('late_position', [0, -0.3])])
+53.2078 	DATA 	Keypress: left
+53.2130 	EXP 	text: autoDraw = False
+53.2130 	EXP 	fengjing: autoDraw = False
+53.2130 	EXP 	main_image_2: image = 'image/Chi_early.png'
+53.2130 	EXP 	main_early: height = 0.05
+53.2130 	EXP 	main_early: height = 0.05
+53.2130 	EXP 	main_early: height = 0.05
+53.2130 	EXP 	main_early: text = '星期日'
+53.2130 	EXP 	main_late: height = 0.05
+53.2130 	EXP 	main_late: height = 0.05
+53.2130 	EXP 	main_late: height = 0.05
+53.2130 	EXP 	main_late: text = '星期四'
+53.2130 	EXP 	main_image_2: autoDraw = True
+54.1550 	EXP 	fix: autoDraw = True
+54.2087 	EXP 	main_image_2: autoDraw = False
+54.6412 	EXP 	fix: autoDraw = False
+54.6619 	INFO 	Keyboard events cleared
+54.6614 	EXP 	main_early: autoDraw = True
+54.6614 	EXP 	main_late: autoDraw = True
+55.6261 	DATA 	Keypress: escape
+55.7384 	EXP 	ETchi: status = STOPPED
+55.7423 	EXP 	main_early: autoDraw = False
+55.7423 	EXP 	main_late: autoDraw = False
+55.7424 	EXP 	ETchi: status = STOPPED
+55.7568 	INFO 	saved data to '/Users/wangerxiao/Library/Mobile Documents/com~apple~CloudDocs/Temporal spacial/et-project_chi/data/888_ETchi_2023-11-06_13h19.15.598.csv'
+55.7591 	INFO 	saved data to /Users/wangerxiao/Library/Mobile Documents/com~apple~CloudDocs/Temporal spacial/et-project_chi/data/888_ETchi_2023-11-06_13h19.15.598.psydat
+55.8334 	EXP 	window1: mouseVisible = True
+56.4223 	DEBUG 	Saving data for ETchi ExperimentHandler

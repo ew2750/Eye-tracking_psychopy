@@ -1,0 +1,1110 @@
+﻿<?xml version="1.0" ?>
+<PsychoPy2experiment encoding="utf-8" version="2023.2.3">
+  <Settings>
+    <Param val="use prefs" valType="str" updates="None" name="Audio latency priority"/>
+    <Param val="use prefs" valType="str" updates="None" name="Audio lib"/>
+    <Param val="" valType="str" updates="None" name="Completed URL"/>
+    <Param val="auto" valType="str" updates="None" name="Data file delimiter"/>
+    <Param val="u'data/%s_%s_%s' % (expInfo['participant'], expName, expInfo['date'])" valType="code" updates="None" name="Data filename"/>
+    <Param val="True" valType="bool" updates="None" name="Enable Escape"/>
+    <Param val="" valType="str" updates="None" name="End Message"/>
+    <Param val="{'participant': '', 'session': '001', 'gender': '', 'age': ''}" valType="code" updates="None" name="Experiment info"/>
+    <Param val="True" valType="bool" updates="None" name="Force stereo"/>
+    <Param val="True" valType="bool" updates="None" name="Full-screen window"/>
+    <Param val="" valType="str" updates="None" name="HTML path"/>
+    <Param val="" valType="str" updates="None" name="Incomplete URL"/>
+    <Param val="testMonitor" valType="str" updates="None" name="Monitor"/>
+    <Param val="[]" valType="list" updates="None" name="Resources"/>
+    <Param val="False" valType="bool" updates="None" name="Save csv file"/>
+    <Param val="False" valType="bool" updates="None" name="Save excel file"/>
+    <Param val="False" valType="bool" updates="None" name="Save hdf5 file"/>
+    <Param val="True" valType="bool" updates="None" name="Save log file"/>
+    <Param val="True" valType="bool" updates="None" name="Save psydat file"/>
+    <Param val="True" valType="bool" updates="None" name="Save wide csv file"/>
+    <Param val="1" valType="num" updates="None" name="Screen"/>
+    <Param val="True" valType="bool" updates="None" name="Show info dlg"/>
+    <Param val="False" valType="bool" updates="None" name="Show mouse"/>
+    <Param val="height" valType="str" updates="None" name="Units"/>
+    <Param val="" valType="str" updates="None" name="Use version"/>
+    <Param val="[1470, 956]" valType="list" updates="None" name="Window size (pixels)"/>
+    <Param val="none" valType="str" updates="None" name="backgroundFit"/>
+    <Param val="" valType="str" updates="None" name="backgroundImg"/>
+    <Param val="avg" valType="str" updates="None" name="blendMode"/>
+    <Param val="{'thisRow.t': 'priority.CRITICAL', 'expName': 'priority.LOW'}" valType="dict" updates="None" name="colPriority"/>
+    <Param val="$[0,0,0]" valType="color" updates="None" name="color"/>
+    <Param val="rgb" valType="str" updates="None" name="colorSpace"/>
+    <Param val="100.1.1.1" valType="str" updates="None" name="elAddress"/>
+    <Param val="FILTER_LEVEL_2" valType="str" updates="None" name="elDataFiltering"/>
+    <Param val="FILTER_LEVEL_OFF" valType="str" updates="None" name="elLiveFiltering"/>
+    <Param val="EYELINK 1000 DESKTOP" valType="str" updates="None" name="elModel"/>
+    <Param val="ELLIPSE_FIT" valType="str" updates="None" name="elPupilAlgorithm"/>
+    <Param val="PUPIL_AREA" valType="str" updates="None" name="elPupilMeasure"/>
+    <Param val="1000" valType="num" updates="None" name="elSampleRate"/>
+    <Param val="False" valType="bool" updates="None" name="elSimMode"/>
+    <Param val="RIGHT_EYE" valType="str" updates="None" name="elTrackEyes"/>
+    <Param val="PUPIL_CR_TRACKING" valType="str" updates="None" name="elTrackingMode"/>
+    <Param val="ET eng" valType="str" updates="None" name="expName"/>
+    <Param val="on Sync" valType="str" updates="None" name="exportHTML"/>
+    <Param val="None" valType="str" updates="None" name="eyetracker"/>
+    <Param val="127.0.0.1" valType="str" updates="None" name="gpAddress"/>
+    <Param val="4242" valType="num" updates="None" name="gpPort"/>
+    <Param val="ioHub" valType="str" updates="None" name="keyboardBackend"/>
+    <Param val="debug" valType="code" updates="None" name="logging level"/>
+    <Param val="('MIDDLE_BUTTON',)" valType="list" updates="None" name="mgBlink"/>
+    <Param val="CONTINUOUS" valType="str" updates="None" name="mgMove"/>
+    <Param val="0.5" valType="num" updates="None" name="mgSaccade"/>
+    <Param val="neon.local" valType="str" updates="None" name="plCompanionAddress"/>
+    <Param val="scene_camera.json" valType="file" updates="None" name="plCompanionCameraCalibration"/>
+    <Param val="8080" valType="num" updates="None" name="plCompanionPort"/>
+    <Param val="True" valType="bool" updates="None" name="plCompanionRecordingEnabled"/>
+    <Param val="0.6" valType="num" updates="None" name="plConfidenceThreshold"/>
+    <Param val="True" valType="bool" updates="None" name="plPupilCaptureRecordingEnabled"/>
+    <Param val="" valType="str" updates="None" name="plPupilCaptureRecordingLocation"/>
+    <Param val="127.0.0.1" valType="str" updates="None" name="plPupilRemoteAddress"/>
+    <Param val="50020" valType="num" updates="None" name="plPupilRemotePort"/>
+    <Param val="1000" valType="num" updates="None" name="plPupilRemoteTimeoutMs"/>
+    <Param val="False" valType="bool" updates="None" name="plPupillometryOnly"/>
+    <Param val="psychopy_iohub_surface" valType="str" updates="None" name="plSurfaceName"/>
+    <Param val="time" valType="str" updates="None" name="sortColumns"/>
+    <Param val="" valType="str" updates="None" name="tbLicenseFile"/>
+    <Param val="" valType="str" updates="None" name="tbModel"/>
+    <Param val="60" valType="num" updates="None" name="tbSampleRate"/>
+    <Param val="" valType="str" updates="None" name="tbSerialNo"/>
+    <Param val="pyglet" valType="str" updates="None" name="winBackend"/>
+  </Settings>
+  <Routines>
+    <Routine name="Intro1">
+      <RoutineSettingsComponent name="Intro1" plugin="None">
+        <Param val="none" valType="str" updates="None" name="backgroundFit"/>
+        <Param val="" valType="str" updates="None" name="backgroundImg"/>
+        <Param val="$[0,0,0]" valType="color" updates="None" name="color"/>
+        <Param val="rgb" valType="str" updates="None" name="colorSpace"/>
+        <Param val="" valType="str" updates="constant" name="desc"/>
+        <Param val="False" valType="bool" updates="None" name="disabled"/>
+        <Param val="" valType="code" updates="None" name="durationEstim"/>
+        <Param val="Intro1" valType="code" updates="None" name="name"/>
+        <Param val="True" valType="bool" updates="None" name="saveStartStop"/>
+        <Param val="" valType="code" updates="constant" name="skipIf"/>
+        <Param val="duration (s)" valType="str" updates="None" name="stopType"/>
+        <Param val="" valType="code" updates="constant" name="stopVal"/>
+        <Param val="False" valType="bool" updates="None" name="useWindowParams"/>
+      </RoutineSettingsComponent>
+      <TextComponent name="intro_1" plugin="None">
+        <Param val="black" valType="color" updates="constant" name="color"/>
+        <Param val="rgb" valType="str" updates="constant" name="colorSpace"/>
+        <Param val="1" valType="num" updates="constant" name="contrast"/>
+        <Param val="False" valType="bool" updates="None" name="disabled"/>
+        <Param val="" valType="num" updates="None" name="durationEstim"/>
+        <Param val="None" valType="str" updates="constant" name="flip"/>
+        <Param val="NanumGothic" valType="str" updates="constant" name="font"/>
+        <Param val="LTR" valType="str" updates="None" name="languageStyle"/>
+        <Param val="0.05" valType="num" updates="constant" name="letterHeight"/>
+        <Param val="intro_1" valType="code" updates="None" name="name"/>
+        <Param val="" valType="num" updates="constant" name="opacity"/>
+        <Param val="0" valType="num" updates="constant" name="ori"/>
+        <Param val="(0, 0)" valType="list" updates="constant" name="pos"/>
+        <Param val="True" valType="bool" updates="None" name="saveStartStop"/>
+        <Param val="" valType="num" updates="None" name="startEstim"/>
+        <Param val="time (s)" valType="str" updates="None" name="startType"/>
+        <Param val="0.0" valType="num" updates="None" name="startVal"/>
+        <Param val="duration (s)" valType="str" updates="None" name="stopType"/>
+        <Param val="2.0" valType="num" updates="constant" name="stopVal"/>
+        <Param val="True" valType="bool" updates="None" name="syncScreenRefresh"/>
+        <Param val=" Temporal-Spatial Task" valType="str" updates="constant" name="text"/>
+        <Param val="from exp settings" valType="str" updates="None" name="units"/>
+        <Param val="" valType="num" updates="constant" name="wrapWidth"/>
+      </TextComponent>
+    </Routine>
+    <Routine name="Intro2">
+      <RoutineSettingsComponent name="Intro2" plugin="None">
+        <Param val="none" valType="str" updates="None" name="backgroundFit"/>
+        <Param val="" valType="str" updates="None" name="backgroundImg"/>
+        <Param val="$[0,0,0]" valType="color" updates="None" name="color"/>
+        <Param val="rgb" valType="str" updates="None" name="colorSpace"/>
+        <Param val="" valType="str" updates="constant" name="desc"/>
+        <Param val="False" valType="bool" updates="None" name="disabled"/>
+        <Param val="" valType="code" updates="None" name="durationEstim"/>
+        <Param val="Intro2" valType="code" updates="None" name="name"/>
+        <Param val="True" valType="bool" updates="None" name="saveStartStop"/>
+        <Param val="" valType="code" updates="constant" name="skipIf"/>
+        <Param val="duration (s)" valType="str" updates="None" name="stopType"/>
+        <Param val="" valType="code" updates="constant" name="stopVal"/>
+        <Param val="False" valType="bool" updates="None" name="useWindowParams"/>
+      </RoutineSettingsComponent>
+      <TextComponent name="intro_2" plugin="None">
+        <Param val="black" valType="color" updates="constant" name="color"/>
+        <Param val="rgb" valType="str" updates="constant" name="colorSpace"/>
+        <Param val="1" valType="num" updates="constant" name="contrast"/>
+        <Param val="False" valType="bool" updates="None" name="disabled"/>
+        <Param val="" valType="num" updates="None" name="durationEstim"/>
+        <Param val="None" valType="str" updates="constant" name="flip"/>
+        <Param val="NanumGothic" valType="str" updates="constant" name="font"/>
+        <Param val="LTR" valType="str" updates="None" name="languageStyle"/>
+        <Param val="0.05" valType="num" updates="constant" name="letterHeight"/>
+        <Param val="intro_2" valType="code" updates="None" name="name"/>
+        <Param val="" valType="num" updates="constant" name="opacity"/>
+        <Param val="0" valType="num" updates="constant" name="ori"/>
+        <Param val="(0, 0)" valType="list" updates="constant" name="pos"/>
+        <Param val="True" valType="bool" updates="None" name="saveStartStop"/>
+        <Param val="" valType="num" updates="None" name="startEstim"/>
+        <Param val="time (s)" valType="str" updates="None" name="startType"/>
+        <Param val="0.0" valType="num" updates="None" name="startVal"/>
+        <Param val="duration (s)" valType="str" updates="None" name="stopType"/>
+        <Param val="" valType="num" updates="constant" name="stopVal"/>
+        <Param val="True" valType="bool" updates="None" name="syncScreenRefresh"/>
+        <Param val="&amp;#10;Hello!&amp;#10;Thank you for participating in the experiment.&amp;#10;This experiment is to find out temporal representation of time.&amp;#10;If you want to continue, press the spacebar.&amp;#10;" valType="str" updates="constant" name="text"/>
+        <Param val="from exp settings" valType="str" updates="None" name="units"/>
+        <Param val="" valType="num" updates="constant" name="wrapWidth"/>
+      </TextComponent>
+      <KeyboardComponent name="intro2_resp" plugin="None">
+        <Param val="'space'" valType="list" updates="constant" name="allowedKeys"/>
+        <Param val="" valType="str" updates="constant" name="correctAns"/>
+        <Param val="False" valType="bool" updates="None" name="disabled"/>
+        <Param val="True" valType="bool" updates="constant" name="discard previous"/>
+        <Param val="" valType="num" updates="None" name="durationEstim"/>
+        <Param val="True" valType="bool" updates="constant" name="forceEndRoutine"/>
+        <Param val="intro2_resp" valType="code" updates="None" name="name"/>
+        <Param val="press" valType="str" updates="constant" name="registerOn"/>
+        <Param val="True" valType="bool" updates="None" name="saveStartStop"/>
+        <Param val="" valType="num" updates="None" name="startEstim"/>
+        <Param val="time (s)" valType="str" updates="None" name="startType"/>
+        <Param val="0.0" valType="num" updates="None" name="startVal"/>
+        <Param val="duration (s)" valType="str" updates="None" name="stopType"/>
+        <Param val="" valType="num" updates="constant" name="stopVal"/>
+        <Param val="last key" valType="str" updates="constant" name="store"/>
+        <Param val="False" valType="bool" updates="constant" name="storeCorrect"/>
+        <Param val="True" valType="bool" updates="constant" name="syncScreenRefresh"/>
+      </KeyboardComponent>
+    </Routine>
+    <Routine name="Intro3">
+      <RoutineSettingsComponent name="Intro3" plugin="None">
+        <Param val="none" valType="str" updates="None" name="backgroundFit"/>
+        <Param val="" valType="str" updates="None" name="backgroundImg"/>
+        <Param val="$[0,0,0]" valType="color" updates="None" name="color"/>
+        <Param val="rgb" valType="str" updates="None" name="colorSpace"/>
+        <Param val="" valType="str" updates="constant" name="desc"/>
+        <Param val="False" valType="bool" updates="None" name="disabled"/>
+        <Param val="" valType="code" updates="None" name="durationEstim"/>
+        <Param val="Intro3" valType="code" updates="None" name="name"/>
+        <Param val="True" valType="bool" updates="None" name="saveStartStop"/>
+        <Param val="" valType="code" updates="constant" name="skipIf"/>
+        <Param val="duration (s)" valType="str" updates="None" name="stopType"/>
+        <Param val="" valType="code" updates="constant" name="stopVal"/>
+        <Param val="False" valType="bool" updates="None" name="useWindowParams"/>
+      </RoutineSettingsComponent>
+      <TextComponent name="Intro_3" plugin="None">
+        <Param val="black" valType="color" updates="constant" name="color"/>
+        <Param val="rgb" valType="str" updates="constant" name="colorSpace"/>
+        <Param val="0.05" valType="num" updates="constant" name="contrast"/>
+        <Param val="False" valType="bool" updates="None" name="disabled"/>
+        <Param val="" valType="num" updates="None" name="durationEstim"/>
+        <Param val="None" valType="str" updates="constant" name="flip"/>
+        <Param val="NanumGothic" valType="str" updates="constant" name="font"/>
+        <Param val="LTR" valType="str" updates="None" name="languageStyle"/>
+        <Param val="0.05" valType="num" updates="constant" name="letterHeight"/>
+        <Param val="Intro_3" valType="code" updates="None" name="name"/>
+        <Param val="" valType="num" updates="constant" name="opacity"/>
+        <Param val="0" valType="num" updates="constant" name="ori"/>
+        <Param val="(0, 0)" valType="list" updates="constant" name="pos"/>
+        <Param val="True" valType="bool" updates="None" name="saveStartStop"/>
+        <Param val="" valType="num" updates="None" name="startEstim"/>
+        <Param val="time (s)" valType="str" updates="None" name="startType"/>
+        <Param val="0.0" valType="num" updates="None" name="startVal"/>
+        <Param val="duration (s)" valType="str" updates="None" name="stopType"/>
+        <Param val="" valType="num" updates="constant" name="stopVal"/>
+        <Param val="True" valType="bool" updates="None" name="syncScreenRefresh"/>
+        <Param val="&amp;#10;In a moment, you will be presented with a series of  time words. After the question, the two time words will be presented on the screen. &amp;#10;Please press the corresponding key (eg, ‘up’, ‘down’, ‘left’, ‘right’) according to the location of the correct answer.&amp;#10;If you understand the rules, press the spacebar." valType="str" updates="constant" name="text"/>
+        <Param val="from exp settings" valType="str" updates="None" name="units"/>
+        <Param val="" valType="num" updates="constant" name="wrapWidth"/>
+      </TextComponent>
+      <KeyboardComponent name="intro3_resp" plugin="None">
+        <Param val="'space'" valType="list" updates="constant" name="allowedKeys"/>
+        <Param val="" valType="str" updates="constant" name="correctAns"/>
+        <Param val="False" valType="bool" updates="None" name="disabled"/>
+        <Param val="True" valType="bool" updates="constant" name="discard previous"/>
+        <Param val="" valType="num" updates="None" name="durationEstim"/>
+        <Param val="True" valType="bool" updates="constant" name="forceEndRoutine"/>
+        <Param val="intro3_resp" valType="code" updates="None" name="name"/>
+        <Param val="press" valType="str" updates="constant" name="registerOn"/>
+        <Param val="True" valType="bool" updates="None" name="saveStartStop"/>
+        <Param val="" valType="num" updates="None" name="startEstim"/>
+        <Param val="time (s)" valType="str" updates="None" name="startType"/>
+        <Param val="0.0" valType="num" updates="None" name="startVal"/>
+        <Param val="duration (s)" valType="str" updates="None" name="stopType"/>
+        <Param val="" valType="num" updates="constant" name="stopVal"/>
+        <Param val="last key" valType="str" updates="constant" name="store"/>
+        <Param val="False" valType="bool" updates="constant" name="storeCorrect"/>
+        <Param val="True" valType="bool" updates="constant" name="syncScreenRefresh"/>
+      </KeyboardComponent>
+    </Routine>
+    <Routine name="Intro4">
+      <RoutineSettingsComponent name="Intro4" plugin="None">
+        <Param val="none" valType="str" updates="None" name="backgroundFit"/>
+        <Param val="" valType="str" updates="None" name="backgroundImg"/>
+        <Param val="$[0,0,0]" valType="color" updates="None" name="color"/>
+        <Param val="rgb" valType="str" updates="None" name="colorSpace"/>
+        <Param val="" valType="str" updates="constant" name="desc"/>
+        <Param val="False" valType="bool" updates="None" name="disabled"/>
+        <Param val="" valType="code" updates="None" name="durationEstim"/>
+        <Param val="Intro4" valType="code" updates="None" name="name"/>
+        <Param val="True" valType="bool" updates="None" name="saveStartStop"/>
+        <Param val="" valType="code" updates="constant" name="skipIf"/>
+        <Param val="duration (s)" valType="str" updates="None" name="stopType"/>
+        <Param val="" valType="code" updates="constant" name="stopVal"/>
+        <Param val="False" valType="bool" updates="None" name="useWindowParams"/>
+      </RoutineSettingsComponent>
+      <TextComponent name="Intro_4" plugin="None">
+        <Param val="black" valType="color" updates="constant" name="color"/>
+        <Param val="rgb" valType="str" updates="constant" name="colorSpace"/>
+        <Param val="0.05" valType="num" updates="constant" name="contrast"/>
+        <Param val="False" valType="bool" updates="None" name="disabled"/>
+        <Param val="" valType="num" updates="None" name="durationEstim"/>
+        <Param val="None" valType="str" updates="constant" name="flip"/>
+        <Param val="NanumGothic" valType="str" updates="constant" name="font"/>
+        <Param val="LTR" valType="str" updates="None" name="languageStyle"/>
+        <Param val="0.05" valType="num" updates="constant" name="letterHeight"/>
+        <Param val="Intro_4" valType="code" updates="None" name="name"/>
+        <Param val="" valType="num" updates="constant" name="opacity"/>
+        <Param val="0" valType="num" updates="constant" name="ori"/>
+        <Param val="(0, 0)" valType="list" updates="constant" name="pos"/>
+        <Param val="True" valType="bool" updates="None" name="saveStartStop"/>
+        <Param val="" valType="num" updates="None" name="startEstim"/>
+        <Param val="time (s)" valType="str" updates="None" name="startType"/>
+        <Param val="0.0" valType="num" updates="None" name="startVal"/>
+        <Param val="duration (s)" valType="str" updates="None" name="stopType"/>
+        <Param val="" valType="num" updates="constant" name="stopVal"/>
+        <Param val="True" valType="bool" updates="None" name="syncScreenRefresh"/>
+        <Param val="&amp;#10;Please respond as quickly and error-free as possible.&amp;#10;If you are ready to experiment, press the space bar." valType="str" updates="constant" name="text"/>
+        <Param val="from exp settings" valType="str" updates="None" name="units"/>
+        <Param val="" valType="num" updates="constant" name="wrapWidth"/>
+      </TextComponent>
+      <KeyboardComponent name="intro4_resp" plugin="None">
+        <Param val="'space'" valType="list" updates="constant" name="allowedKeys"/>
+        <Param val="" valType="str" updates="constant" name="correctAns"/>
+        <Param val="False" valType="bool" updates="None" name="disabled"/>
+        <Param val="True" valType="bool" updates="constant" name="discard previous"/>
+        <Param val="" valType="num" updates="None" name="durationEstim"/>
+        <Param val="True" valType="bool" updates="constant" name="forceEndRoutine"/>
+        <Param val="intro4_resp" valType="code" updates="None" name="name"/>
+        <Param val="press" valType="str" updates="constant" name="registerOn"/>
+        <Param val="True" valType="bool" updates="None" name="saveStartStop"/>
+        <Param val="" valType="num" updates="None" name="startEstim"/>
+        <Param val="time (s)" valType="str" updates="None" name="startType"/>
+        <Param val="0.0" valType="num" updates="None" name="startVal"/>
+        <Param val="duration (s)" valType="str" updates="None" name="stopType"/>
+        <Param val="" valType="num" updates="constant" name="stopVal"/>
+        <Param val="last key" valType="str" updates="constant" name="store"/>
+        <Param val="False" valType="bool" updates="constant" name="storeCorrect"/>
+        <Param val="True" valType="bool" updates="constant" name="syncScreenRefresh"/>
+      </KeyboardComponent>
+    </Routine>
+    <Routine name="Prac_intro">
+      <RoutineSettingsComponent name="Prac_intro" plugin="None">
+        <Param val="none" valType="str" updates="None" name="backgroundFit"/>
+        <Param val="" valType="str" updates="None" name="backgroundImg"/>
+        <Param val="$[0,0,0]" valType="color" updates="None" name="color"/>
+        <Param val="rgb" valType="str" updates="None" name="colorSpace"/>
+        <Param val="" valType="str" updates="constant" name="desc"/>
+        <Param val="False" valType="bool" updates="None" name="disabled"/>
+        <Param val="" valType="code" updates="None" name="durationEstim"/>
+        <Param val="Prac_intro" valType="code" updates="None" name="name"/>
+        <Param val="True" valType="bool" updates="None" name="saveStartStop"/>
+        <Param val="" valType="code" updates="constant" name="skipIf"/>
+        <Param val="duration (s)" valType="str" updates="None" name="stopType"/>
+        <Param val="" valType="code" updates="constant" name="stopVal"/>
+        <Param val="False" valType="bool" updates="None" name="useWindowParams"/>
+      </RoutineSettingsComponent>
+      <TextComponent name="pracintro" plugin="None">
+        <Param val="black" valType="color" updates="constant" name="color"/>
+        <Param val="rgb" valType="str" updates="constant" name="colorSpace"/>
+        <Param val="1" valType="num" updates="constant" name="contrast"/>
+        <Param val="False" valType="bool" updates="None" name="disabled"/>
+        <Param val="" valType="num" updates="None" name="durationEstim"/>
+        <Param val="None" valType="str" updates="constant" name="flip"/>
+        <Param val="NanumGothic" valType="str" updates="constant" name="font"/>
+        <Param val="LTR" valType="str" updates="None" name="languageStyle"/>
+        <Param val="0.05" valType="num" updates="constant" name="letterHeight"/>
+        <Param val="pracintro" valType="code" updates="None" name="name"/>
+        <Param val="" valType="num" updates="constant" name="opacity"/>
+        <Param val="0" valType="num" updates="constant" name="ori"/>
+        <Param val="(0, 0)" valType="list" updates="constant" name="pos"/>
+        <Param val="True" valType="bool" updates="None" name="saveStartStop"/>
+        <Param val="" valType="num" updates="None" name="startEstim"/>
+        <Param val="time (s)" valType="str" updates="None" name="startType"/>
+        <Param val="0.0" valType="num" updates="None" name="startVal"/>
+        <Param val="duration (s)" valType="str" updates="None" name="stopType"/>
+        <Param val="" valType="num" updates="constant" name="stopVal"/>
+        <Param val="True" valType="bool" updates="None" name="syncScreenRefresh"/>
+        <Param val="$msg_intro" valType="str" updates="set every repeat" name="text"/>
+        <Param val="from exp settings" valType="str" updates="None" name="units"/>
+        <Param val="" valType="num" updates="constant" name="wrapWidth"/>
+      </TextComponent>
+      <KeyboardComponent name="pracintro_resp" plugin="None">
+        <Param val="'space'" valType="list" updates="constant" name="allowedKeys"/>
+        <Param val="" valType="str" updates="constant" name="correctAns"/>
+        <Param val="False" valType="bool" updates="None" name="disabled"/>
+        <Param val="True" valType="bool" updates="constant" name="discard previous"/>
+        <Param val="" valType="num" updates="None" name="durationEstim"/>
+        <Param val="True" valType="bool" updates="constant" name="forceEndRoutine"/>
+        <Param val="pracintro_resp" valType="code" updates="None" name="name"/>
+        <Param val="press" valType="str" updates="constant" name="registerOn"/>
+        <Param val="True" valType="bool" updates="None" name="saveStartStop"/>
+        <Param val="" valType="num" updates="None" name="startEstim"/>
+        <Param val="time (s)" valType="str" updates="None" name="startType"/>
+        <Param val="0.0" valType="num" updates="None" name="startVal"/>
+        <Param val="duration (s)" valType="str" updates="None" name="stopType"/>
+        <Param val="" valType="num" updates="constant" name="stopVal"/>
+        <Param val="last key" valType="str" updates="constant" name="store"/>
+        <Param val="False" valType="bool" updates="constant" name="storeCorrect"/>
+        <Param val="True" valType="bool" updates="constant" name="syncScreenRefresh"/>
+      </KeyboardComponent>
+    </Routine>
+    <Routine name="feedback">
+      <RoutineSettingsComponent name="feedback" plugin="None">
+        <Param val="none" valType="str" updates="None" name="backgroundFit"/>
+        <Param val="" valType="str" updates="None" name="backgroundImg"/>
+        <Param val="$[0,0,0]" valType="color" updates="None" name="color"/>
+        <Param val="rgb" valType="str" updates="None" name="colorSpace"/>
+        <Param val="" valType="str" updates="constant" name="desc"/>
+        <Param val="False" valType="bool" updates="None" name="disabled"/>
+        <Param val="" valType="code" updates="None" name="durationEstim"/>
+        <Param val="feedback" valType="code" updates="None" name="name"/>
+        <Param val="True" valType="bool" updates="None" name="saveStartStop"/>
+        <Param val="" valType="code" updates="constant" name="skipIf"/>
+        <Param val="duration (s)" valType="str" updates="None" name="stopType"/>
+        <Param val="" valType="code" updates="constant" name="stopVal"/>
+        <Param val="False" valType="bool" updates="None" name="useWindowParams"/>
+      </RoutineSettingsComponent>
+      <CodeComponent name="code_2" plugin="None">
+        <Param val="" valType="extendedCode" updates="constant" name="Before Experiment"/>
+        <Param val="" valType="extendedCode" updates="constant" name="Before JS Experiment"/>
+        <Param val="" valType="extendedCode" updates="constant" name="Begin Experiment"/>
+        <Param val="" valType="extendedCode" updates="constant" name="Begin JS Experiment"/>
+        <Param val="if ((RESP.corr === 1)) {&amp;#10;    msg = &quot;Correct&quot;;&amp;#10;    msgColor = &quot;MediumBlue&quot;;&amp;#10;    prac_count += 1;&amp;#10;} else {&amp;#10;    msg = &quot;Incorrect&quot;;&amp;#10;    msgColor = &quot;DarkRed&quot;;&amp;#10;}&amp;#10;" valType="extendedCode" updates="constant" name="Begin JS Routine"/>
+        <Param val="if RESP.corr == 1:&amp;#10;    msg = &quot;Correct&quot;&amp;#10;    msgColor = 'MediumBlue'&amp;#10;    prac_count +=1&amp;#10;    &amp;#10;    &amp;#10;else:&amp;#10;    msg = &quot;Incorrect&quot;&amp;#10;    msgColor = 'DarkRed'" valType="extendedCode" updates="constant" name="Begin Routine"/>
+        <Param val="Auto-&gt;JS" valType="str" updates="None" name="Code Type"/>
+        <Param val="" valType="extendedCode" updates="constant" name="Each Frame"/>
+        <Param val="" valType="extendedCode" updates="constant" name="Each JS Frame"/>
+        <Param val="" valType="extendedCode" updates="constant" name="End Experiment"/>
+        <Param val="" valType="extendedCode" updates="constant" name="End JS Experiment"/>
+        <Param val="" valType="extendedCode" updates="constant" name="End JS Routine"/>
+        <Param val="" valType="extendedCode" updates="constant" name="End Routine"/>
+        <Param val="False" valType="bool" updates="None" name="disabled"/>
+        <Param val="code_2" valType="code" updates="None" name="name"/>
+      </CodeComponent>
+      <TextComponent name="pracfeedback" plugin="None">
+        <Param val="$msgColor" valType="color" updates="set every repeat" name="color"/>
+        <Param val="rgb" valType="str" updates="constant" name="colorSpace"/>
+        <Param val="1" valType="num" updates="constant" name="contrast"/>
+        <Param val="False" valType="bool" updates="None" name="disabled"/>
+        <Param val="" valType="num" updates="None" name="durationEstim"/>
+        <Param val="None" valType="str" updates="constant" name="flip"/>
+        <Param val="Open Sans" valType="str" updates="constant" name="font"/>
+        <Param val="LTR" valType="str" updates="None" name="languageStyle"/>
+        <Param val="0.1" valType="num" updates="constant" name="letterHeight"/>
+        <Param val="pracfeedback" valType="code" updates="None" name="name"/>
+        <Param val="" valType="num" updates="constant" name="opacity"/>
+        <Param val="0" valType="num" updates="constant" name="ori"/>
+        <Param val="(0, 0)" valType="list" updates="constant" name="pos"/>
+        <Param val="True" valType="bool" updates="None" name="saveStartStop"/>
+        <Param val="" valType="num" updates="None" name="startEstim"/>
+        <Param val="time (s)" valType="str" updates="None" name="startType"/>
+        <Param val="0.0" valType="num" updates="None" name="startVal"/>
+        <Param val="duration (s)" valType="str" updates="None" name="stopType"/>
+        <Param val="1.0" valType="num" updates="constant" name="stopVal"/>
+        <Param val="True" valType="bool" updates="None" name="syncScreenRefresh"/>
+        <Param val="$msg" valType="str" updates="set every repeat" name="text"/>
+        <Param val="from exp settings" valType="str" updates="None" name="units"/>
+        <Param val="" valType="num" updates="constant" name="wrapWidth"/>
+      </TextComponent>
+    </Routine>
+    <Routine name="Prac_check">
+      <RoutineSettingsComponent name="Prac_check" plugin="None">
+        <Param val="none" valType="str" updates="None" name="backgroundFit"/>
+        <Param val="" valType="str" updates="None" name="backgroundImg"/>
+        <Param val="$[0,0,0]" valType="color" updates="None" name="color"/>
+        <Param val="rgb" valType="str" updates="None" name="colorSpace"/>
+        <Param val="" valType="str" updates="constant" name="desc"/>
+        <Param val="False" valType="bool" updates="None" name="disabled"/>
+        <Param val="" valType="code" updates="None" name="durationEstim"/>
+        <Param val="Prac_check" valType="code" updates="None" name="name"/>
+        <Param val="True" valType="bool" updates="None" name="saveStartStop"/>
+        <Param val="" valType="code" updates="constant" name="skipIf"/>
+        <Param val="duration (s)" valType="str" updates="None" name="stopType"/>
+        <Param val="" valType="code" updates="constant" name="stopVal"/>
+        <Param val="False" valType="bool" updates="None" name="useWindowParams"/>
+      </RoutineSettingsComponent>
+      <CodeComponent name="code_3" plugin="None">
+        <Param val="" valType="extendedCode" updates="constant" name="Before Experiment"/>
+        <Param val="" valType="extendedCode" updates="constant" name="Before JS Experiment"/>
+        <Param val="" valType="extendedCode" updates="constant" name="Begin Experiment"/>
+        <Param val="" valType="extendedCode" updates="constant" name="Begin JS Experiment"/>
+        <Param val="if ((prac_count &gt;= (trials.nTotal * 0.9))) {&amp;#10;    prac_block.finished = true;&amp;#10;} else {&amp;#10;    prac_block.finished = false;&amp;#10;    msg_intro = &quot;\n\n Let's do it again! \nTo continue, please press space bar. &quot;;&amp;#10;}&amp;#10;" valType="extendedCode" updates="constant" name="Begin JS Routine"/>
+        <Param val="if prac_count &gt;= trials.nTotal*0.9: #연습 끝나는 규칙&amp;#10;    prac_block.finished = True&amp;#10;else:&amp;#10;        prac_block.finished = False&amp;#10;        msg_intro = &quot;\n\n Let's do it again! \nTo continue, please press space bar. &quot;" valType="extendedCode" updates="constant" name="Begin Routine"/>
+        <Param val="Auto-&gt;JS" valType="str" updates="None" name="Code Type"/>
+        <Param val="" valType="extendedCode" updates="constant" name="Each Frame"/>
+        <Param val="" valType="extendedCode" updates="constant" name="Each JS Frame"/>
+        <Param val="" valType="extendedCode" updates="constant" name="End Experiment"/>
+        <Param val="" valType="extendedCode" updates="constant" name="End JS Experiment"/>
+        <Param val="" valType="extendedCode" updates="constant" name="End JS Routine"/>
+        <Param val="" valType="extendedCode" updates="constant" name="End Routine"/>
+        <Param val="False" valType="bool" updates="None" name="disabled"/>
+        <Param val="code_3" valType="code" updates="None" name="name"/>
+      </CodeComponent>
+    </Routine>
+    <Routine name="intro5">
+      <RoutineSettingsComponent name="intro5" plugin="None">
+        <Param val="none" valType="str" updates="None" name="backgroundFit"/>
+        <Param val="" valType="str" updates="None" name="backgroundImg"/>
+        <Param val="$[0,0,0]" valType="color" updates="None" name="color"/>
+        <Param val="rgb" valType="str" updates="None" name="colorSpace"/>
+        <Param val="" valType="str" updates="constant" name="desc"/>
+        <Param val="False" valType="bool" updates="None" name="disabled"/>
+        <Param val="" valType="code" updates="None" name="durationEstim"/>
+        <Param val="intro5" valType="code" updates="None" name="name"/>
+        <Param val="True" valType="bool" updates="None" name="saveStartStop"/>
+        <Param val="" valType="code" updates="constant" name="skipIf"/>
+        <Param val="duration (s)" valType="str" updates="None" name="stopType"/>
+        <Param val="" valType="code" updates="constant" name="stopVal"/>
+        <Param val="False" valType="bool" updates="None" name="useWindowParams"/>
+      </RoutineSettingsComponent>
+      <TextComponent name="intro_5" plugin="None">
+        <Param val="black" valType="color" updates="constant" name="color"/>
+        <Param val="rgb" valType="str" updates="constant" name="colorSpace"/>
+        <Param val="1" valType="num" updates="constant" name="contrast"/>
+        <Param val="False" valType="bool" updates="None" name="disabled"/>
+        <Param val="" valType="num" updates="None" name="durationEstim"/>
+        <Param val="None" valType="str" updates="constant" name="flip"/>
+        <Param val="NanumGothic" valType="str" updates="constant" name="font"/>
+        <Param val="LTR" valType="str" updates="None" name="languageStyle"/>
+        <Param val="0.05" valType="num" updates="constant" name="letterHeight"/>
+        <Param val="intro_5" valType="code" updates="None" name="name"/>
+        <Param val="" valType="num" updates="constant" name="opacity"/>
+        <Param val="0" valType="num" updates="constant" name="ori"/>
+        <Param val="(0, 0)" valType="list" updates="constant" name="pos"/>
+        <Param val="True" valType="bool" updates="None" name="saveStartStop"/>
+        <Param val="" valType="num" updates="None" name="startEstim"/>
+        <Param val="time (s)" valType="str" updates="None" name="startType"/>
+        <Param val="0.0" valType="num" updates="None" name="startVal"/>
+        <Param val="duration (s)" valType="str" updates="None" name="stopType"/>
+        <Param val="" valType="num" updates="constant" name="stopVal"/>
+        <Param val="True" valType="bool" updates="None" name="syncScreenRefresh"/>
+        <Param val="&amp;#10;Now, let's start the experiment.&amp;#10;When you're ready, press the spacebar to start the experiment." valType="str" updates="constant" name="text"/>
+        <Param val="from exp settings" valType="str" updates="None" name="units"/>
+        <Param val="" valType="num" updates="constant" name="wrapWidth"/>
+      </TextComponent>
+      <KeyboardComponent name="intro5_resp" plugin="None">
+        <Param val="'space'" valType="list" updates="constant" name="allowedKeys"/>
+        <Param val="" valType="str" updates="constant" name="correctAns"/>
+        <Param val="False" valType="bool" updates="None" name="disabled"/>
+        <Param val="True" valType="bool" updates="constant" name="discard previous"/>
+        <Param val="" valType="num" updates="None" name="durationEstim"/>
+        <Param val="True" valType="bool" updates="constant" name="forceEndRoutine"/>
+        <Param val="intro5_resp" valType="code" updates="None" name="name"/>
+        <Param val="press" valType="str" updates="constant" name="registerOn"/>
+        <Param val="True" valType="bool" updates="None" name="saveStartStop"/>
+        <Param val="" valType="num" updates="None" name="startEstim"/>
+        <Param val="time (s)" valType="str" updates="None" name="startType"/>
+        <Param val="0.0" valType="num" updates="None" name="startVal"/>
+        <Param val="duration (s)" valType="str" updates="None" name="stopType"/>
+        <Param val="" valType="num" updates="constant" name="stopVal"/>
+        <Param val="last key" valType="str" updates="constant" name="store"/>
+        <Param val="False" valType="bool" updates="constant" name="storeCorrect"/>
+        <Param val="True" valType="bool" updates="constant" name="syncScreenRefresh"/>
+      </KeyboardComponent>
+    </Routine>
+    <Routine name="practrial">
+      <RoutineSettingsComponent name="practrial" plugin="None">
+        <Param val="none" valType="str" updates="None" name="backgroundFit"/>
+        <Param val="" valType="str" updates="None" name="backgroundImg"/>
+        <Param val="$[0,0,0]" valType="color" updates="None" name="color"/>
+        <Param val="rgb" valType="str" updates="None" name="colorSpace"/>
+        <Param val="" valType="str" updates="constant" name="desc"/>
+        <Param val="False" valType="bool" updates="None" name="disabled"/>
+        <Param val="" valType="code" updates="None" name="durationEstim"/>
+        <Param val="practrial" valType="code" updates="None" name="name"/>
+        <Param val="True" valType="bool" updates="None" name="saveStartStop"/>
+        <Param val="" valType="code" updates="constant" name="skipIf"/>
+        <Param val="duration (s)" valType="str" updates="None" name="stopType"/>
+        <Param val="" valType="code" updates="constant" name="stopVal"/>
+        <Param val="False" valType="bool" updates="None" name="useWindowParams"/>
+      </RoutineSettingsComponent>
+      <CodeComponent name="code" plugin="None">
+        <Param val="" valType="extendedCode" updates="constant" name="Before Experiment"/>
+        <Param val="" valType="extendedCode" updates="constant" name="Before JS Experiment"/>
+        <Param val="prac_count = 0&amp;#10;msg_intro = &quot; \n\nBefore participating in the experiment, we will pratice first.  \n\n In order to start the experiment, you must get at least 90% correct in the practice round. \n\n If you understand the explanation, please press the space bar. &quot;&amp;#10;" valType="extendedCode" updates="constant" name="Begin Experiment"/>
+        <Param val="prac_count = 0;&amp;#10;msg_intro = &quot; \n\nBefore participating in the experiment, we will pratice first.  \n\n In order to start the experiment, you must get at least 90% correct in the practice round. \n\n If you understand the explanation, please press the space bar. &quot;;&amp;#10;" valType="extendedCode" updates="constant" name="Begin JS Experiment"/>
+        <Param val="" valType="extendedCode" updates="constant" name="Begin JS Routine"/>
+        <Param val="" valType="extendedCode" updates="constant" name="Begin Routine"/>
+        <Param val="Auto-&gt;JS" valType="str" updates="None" name="Code Type"/>
+        <Param val="" valType="extendedCode" updates="constant" name="Each Frame"/>
+        <Param val="" valType="extendedCode" updates="constant" name="Each JS Frame"/>
+        <Param val="" valType="extendedCode" updates="constant" name="End Experiment"/>
+        <Param val="" valType="extendedCode" updates="constant" name="End JS Experiment"/>
+        <Param val="" valType="extendedCode" updates="constant" name="End JS Routine"/>
+        <Param val="" valType="extendedCode" updates="constant" name="End Routine"/>
+        <Param val="False" valType="bool" updates="None" name="disabled"/>
+        <Param val="code" valType="code" updates="None" name="name"/>
+      </CodeComponent>
+      <ImageComponent name="image" plugin="None">
+        <Param val="center" valType="str" updates="constant" name="anchor"/>
+        <Param val="$[1,1,1]" valType="color" updates="constant" name="color"/>
+        <Param val="rgb" valType="str" updates="constant" name="colorSpace"/>
+        <Param val="1" valType="num" updates="constant" name="contrast"/>
+        <Param val="False" valType="bool" updates="None" name="disabled"/>
+        <Param val="" valType="num" updates="None" name="durationEstim"/>
+        <Param val="False" valType="bool" updates="constant" name="flipHoriz"/>
+        <Param val="False" valType="bool" updates="constant" name="flipVert"/>
+        <Param val="$Instruction_stim" valType="file" updates="set every repeat" name="image"/>
+        <Param val="linear" valType="str" updates="constant" name="interpolate"/>
+        <Param val="" valType="str" updates="constant" name="mask"/>
+        <Param val="image" valType="code" updates="None" name="name"/>
+        <Param val="" valType="num" updates="constant" name="opacity"/>
+        <Param val="0" valType="num" updates="constant" name="ori"/>
+        <Param val="(0, 0)" valType="list" updates="constant" name="pos"/>
+        <Param val="True" valType="bool" updates="None" name="saveStartStop"/>
+        <Param val="(1.7, 0.4)" valType="list" updates="constant" name="size"/>
+        <Param val="" valType="num" updates="None" name="startEstim"/>
+        <Param val="time (s)" valType="str" updates="None" name="startType"/>
+        <Param val="0.0" valType="num" updates="None" name="startVal"/>
+        <Param val="duration (s)" valType="str" updates="None" name="stopType"/>
+        <Param val="1" valType="num" updates="constant" name="stopVal"/>
+        <Param val="True" valType="bool" updates="None" name="syncScreenRefresh"/>
+        <Param val="128" valType="num" updates="constant" name="texture resolution"/>
+        <Param val="from exp settings" valType="str" updates="None" name="units"/>
+      </ImageComponent>
+    </Routine>
+    <Routine name="solution">
+      <RoutineSettingsComponent name="solution" plugin="None">
+        <Param val="none" valType="str" updates="None" name="backgroundFit"/>
+        <Param val="" valType="str" updates="None" name="backgroundImg"/>
+        <Param val="$[0,0,0]" valType="color" updates="None" name="color"/>
+        <Param val="rgb" valType="str" updates="None" name="colorSpace"/>
+        <Param val="" valType="str" updates="constant" name="desc"/>
+        <Param val="False" valType="bool" updates="None" name="disabled"/>
+        <Param val="" valType="code" updates="None" name="durationEstim"/>
+        <Param val="solution" valType="code" updates="None" name="name"/>
+        <Param val="True" valType="bool" updates="None" name="saveStartStop"/>
+        <Param val="" valType="code" updates="constant" name="skipIf"/>
+        <Param val="duration (s)" valType="str" updates="None" name="stopType"/>
+        <Param val="" valType="code" updates="constant" name="stopVal"/>
+        <Param val="False" valType="bool" updates="None" name="useWindowParams"/>
+      </RoutineSettingsComponent>
+      <TextComponent name="early" plugin="None">
+        <Param val="black" valType="color" updates="constant" name="color"/>
+        <Param val="rgb" valType="str" updates="constant" name="colorSpace"/>
+        <Param val="1" valType="num" updates="constant" name="contrast"/>
+        <Param val="False" valType="bool" updates="None" name="disabled"/>
+        <Param val="" valType="num" updates="None" name="durationEstim"/>
+        <Param val="None" valType="str" updates="constant" name="flip"/>
+        <Param val="Open Sans" valType="str" updates="constant" name="font"/>
+        <Param val="LTR" valType="str" updates="None" name="languageStyle"/>
+        <Param val="0.05" valType="num" updates="constant" name="letterHeight"/>
+        <Param val="early" valType="code" updates="None" name="name"/>
+        <Param val="" valType="num" updates="constant" name="opacity"/>
+        <Param val="0" valType="num" updates="constant" name="ori"/>
+        <Param val="early_position" valType="list" updates="set every repeat" name="pos"/>
+        <Param val="True" valType="bool" updates="None" name="saveStartStop"/>
+        <Param val="" valType="num" updates="None" name="startEstim"/>
+        <Param val="time (s)" valType="str" updates="None" name="startType"/>
+        <Param val="0.0" valType="num" updates="None" name="startVal"/>
+        <Param val="duration (s)" valType="str" updates="None" name="stopType"/>
+        <Param val="5" valType="num" updates="constant" name="stopVal"/>
+        <Param val="True" valType="bool" updates="None" name="syncScreenRefresh"/>
+        <Param val="$earlier_stim" valType="str" updates="set every repeat" name="text"/>
+        <Param val="from exp settings" valType="str" updates="None" name="units"/>
+        <Param val="" valType="num" updates="constant" name="wrapWidth"/>
+      </TextComponent>
+      <KeyboardComponent name="RESP" plugin="None">
+        <Param val="'left','right','up','down'" valType="list" updates="constant" name="allowedKeys"/>
+        <Param val="$corr_resp" valType="str" updates="constant" name="correctAns"/>
+        <Param val="False" valType="bool" updates="None" name="disabled"/>
+        <Param val="True" valType="bool" updates="constant" name="discard previous"/>
+        <Param val="" valType="num" updates="None" name="durationEstim"/>
+        <Param val="True" valType="bool" updates="constant" name="forceEndRoutine"/>
+        <Param val="RESP" valType="code" updates="None" name="name"/>
+        <Param val="press" valType="str" updates="constant" name="registerOn"/>
+        <Param val="True" valType="bool" updates="None" name="saveStartStop"/>
+        <Param val="" valType="num" updates="None" name="startEstim"/>
+        <Param val="time (s)" valType="str" updates="None" name="startType"/>
+        <Param val="0.0" valType="num" updates="None" name="startVal"/>
+        <Param val="duration (s)" valType="str" updates="None" name="stopType"/>
+        <Param val="5" valType="num" updates="constant" name="stopVal"/>
+        <Param val="last key" valType="str" updates="constant" name="store"/>
+        <Param val="True" valType="bool" updates="constant" name="storeCorrect"/>
+        <Param val="True" valType="bool" updates="constant" name="syncScreenRefresh"/>
+      </KeyboardComponent>
+      <TextComponent name="late" plugin="None">
+        <Param val="black" valType="color" updates="constant" name="color"/>
+        <Param val="rgb" valType="str" updates="constant" name="colorSpace"/>
+        <Param val="1" valType="num" updates="constant" name="contrast"/>
+        <Param val="False" valType="bool" updates="None" name="disabled"/>
+        <Param val="" valType="code" updates="None" name="durationEstim"/>
+        <Param val="None" valType="str" updates="constant" name="flip"/>
+        <Param val="Open Sans" valType="str" updates="constant" name="font"/>
+        <Param val="LTR" valType="str" updates="None" name="languageStyle"/>
+        <Param val="0.05" valType="num" updates="constant" name="letterHeight"/>
+        <Param val="late" valType="code" updates="None" name="name"/>
+        <Param val="" valType="num" updates="constant" name="opacity"/>
+        <Param val="0" valType="num" updates="constant" name="ori"/>
+        <Param val="late_position" valType="list" updates="set every repeat" name="pos"/>
+        <Param val="True" valType="bool" updates="None" name="saveStartStop"/>
+        <Param val="" valType="code" updates="None" name="startEstim"/>
+        <Param val="time (s)" valType="str" updates="None" name="startType"/>
+        <Param val="0.0" valType="code" updates="None" name="startVal"/>
+        <Param val="duration (s)" valType="str" updates="None" name="stopType"/>
+        <Param val="5" valType="code" updates="constant" name="stopVal"/>
+        <Param val="True" valType="bool" updates="None" name="syncScreenRefresh"/>
+        <Param val="$later_stim" valType="str" updates="set every repeat" name="text"/>
+        <Param val="from exp settings" valType="str" updates="None" name="units"/>
+        <Param val="" valType="num" updates="constant" name="wrapWidth"/>
+      </TextComponent>
+    </Routine>
+    <Routine name="The_end">
+      <RoutineSettingsComponent name="The_end" plugin="None">
+        <Param val="none" valType="str" updates="None" name="backgroundFit"/>
+        <Param val="" valType="str" updates="None" name="backgroundImg"/>
+        <Param val="$[0,0,0]" valType="color" updates="None" name="color"/>
+        <Param val="rgb" valType="str" updates="None" name="colorSpace"/>
+        <Param val="" valType="str" updates="constant" name="desc"/>
+        <Param val="False" valType="bool" updates="None" name="disabled"/>
+        <Param val="" valType="code" updates="None" name="durationEstim"/>
+        <Param val="The_end" valType="code" updates="None" name="name"/>
+        <Param val="True" valType="bool" updates="None" name="saveStartStop"/>
+        <Param val="" valType="code" updates="constant" name="skipIf"/>
+        <Param val="duration (s)" valType="str" updates="None" name="stopType"/>
+        <Param val="" valType="code" updates="constant" name="stopVal"/>
+        <Param val="False" valType="bool" updates="None" name="useWindowParams"/>
+      </RoutineSettingsComponent>
+      <TextComponent name="theend" plugin="None">
+        <Param val="black" valType="color" updates="constant" name="color"/>
+        <Param val="rgb" valType="str" updates="constant" name="colorSpace"/>
+        <Param val="1" valType="num" updates="constant" name="contrast"/>
+        <Param val="False" valType="bool" updates="None" name="disabled"/>
+        <Param val="" valType="num" updates="None" name="durationEstim"/>
+        <Param val="None" valType="str" updates="constant" name="flip"/>
+        <Param val="NanumGothic" valType="str" updates="constant" name="font"/>
+        <Param val="LTR" valType="str" updates="None" name="languageStyle"/>
+        <Param val="0.1" valType="num" updates="constant" name="letterHeight"/>
+        <Param val="theend" valType="code" updates="None" name="name"/>
+        <Param val="" valType="num" updates="constant" name="opacity"/>
+        <Param val="0" valType="num" updates="constant" name="ori"/>
+        <Param val="(0, 0)" valType="list" updates="constant" name="pos"/>
+        <Param val="True" valType="bool" updates="None" name="saveStartStop"/>
+        <Param val="" valType="num" updates="None" name="startEstim"/>
+        <Param val="time (s)" valType="str" updates="None" name="startType"/>
+        <Param val="0.0" valType="num" updates="None" name="startVal"/>
+        <Param val="duration (s)" valType="str" updates="None" name="stopType"/>
+        <Param val="3.0" valType="num" updates="constant" name="stopVal"/>
+        <Param val="True" valType="bool" updates="None" name="syncScreenRefresh"/>
+        <Param val="非常感谢您的参与。&amp;#10;&amp;#10;Thanks for participating the experiment. " valType="str" updates="constant" name="text"/>
+        <Param val="from exp settings" valType="str" updates="None" name="units"/>
+        <Param val="" valType="num" updates="constant" name="wrapWidth"/>
+      </TextComponent>
+    </Routine>
+    <Routine name="block">
+      <RoutineSettingsComponent name="block" plugin="None">
+        <Param val="none" valType="str" updates="None" name="backgroundFit"/>
+        <Param val="" valType="str" updates="None" name="backgroundImg"/>
+        <Param val="$[0,0,0]" valType="color" updates="None" name="color"/>
+        <Param val="rgb" valType="str" updates="None" name="colorSpace"/>
+        <Param val="" valType="str" updates="constant" name="desc"/>
+        <Param val="False" valType="bool" updates="None" name="disabled"/>
+        <Param val="" valType="code" updates="None" name="durationEstim"/>
+        <Param val="block" valType="code" updates="None" name="name"/>
+        <Param val="True" valType="bool" updates="None" name="saveStartStop"/>
+        <Param val="" valType="code" updates="constant" name="skipIf"/>
+        <Param val="duration (s)" valType="str" updates="None" name="stopType"/>
+        <Param val="" valType="code" updates="constant" name="stopVal"/>
+        <Param val="False" valType="bool" updates="None" name="useWindowParams"/>
+      </RoutineSettingsComponent>
+      <ImageComponent name="main_image" plugin="None">
+        <Param val="center" valType="str" updates="constant" name="anchor"/>
+        <Param val="$[1,1,1]" valType="color" updates="constant" name="color"/>
+        <Param val="rgb" valType="str" updates="constant" name="colorSpace"/>
+        <Param val="1" valType="num" updates="constant" name="contrast"/>
+        <Param val="False" valType="bool" updates="None" name="disabled"/>
+        <Param val="" valType="num" updates="None" name="durationEstim"/>
+        <Param val="False" valType="bool" updates="constant" name="flipHoriz"/>
+        <Param val="False" valType="bool" updates="constant" name="flipVert"/>
+        <Param val="$Instruction_stim" valType="file" updates="set every repeat" name="image"/>
+        <Param val="linear" valType="str" updates="constant" name="interpolate"/>
+        <Param val="" valType="str" updates="constant" name="mask"/>
+        <Param val="main_image" valType="code" updates="None" name="name"/>
+        <Param val="" valType="num" updates="constant" name="opacity"/>
+        <Param val="0" valType="num" updates="constant" name="ori"/>
+        <Param val="(0, 0)" valType="list" updates="constant" name="pos"/>
+        <Param val="True" valType="bool" updates="None" name="saveStartStop"/>
+        <Param val="(2, 0.7)" valType="list" updates="constant" name="size"/>
+        <Param val="" valType="num" updates="None" name="startEstim"/>
+        <Param val="time (s)" valType="str" updates="None" name="startType"/>
+        <Param val="0.0" valType="num" updates="None" name="startVal"/>
+        <Param val="duration (s)" valType="str" updates="None" name="stopType"/>
+        <Param val="1" valType="num" updates="constant" name="stopVal"/>
+        <Param val="True" valType="bool" updates="None" name="syncScreenRefresh"/>
+        <Param val="128" valType="num" updates="constant" name="texture resolution"/>
+        <Param val="from exp settings" valType="str" updates="None" name="units"/>
+      </ImageComponent>
+      <TextComponent name="main_early1" plugin="None">
+        <Param val="black" valType="color" updates="constant" name="color"/>
+        <Param val="rgb" valType="str" updates="constant" name="colorSpace"/>
+        <Param val="1" valType="num" updates="constant" name="contrast"/>
+        <Param val="False" valType="bool" updates="None" name="disabled"/>
+        <Param val="" valType="code" updates="None" name="durationEstim"/>
+        <Param val="None" valType="str" updates="constant" name="flip"/>
+        <Param val="Open Sans" valType="str" updates="constant" name="font"/>
+        <Param val="LTR" valType="str" updates="None" name="languageStyle"/>
+        <Param val="0.05" valType="num" updates="constant" name="letterHeight"/>
+        <Param val="main_early1" valType="code" updates="None" name="name"/>
+        <Param val="" valType="num" updates="constant" name="opacity"/>
+        <Param val="0" valType="num" updates="constant" name="ori"/>
+        <Param val="early_position" valType="list" updates="set every repeat" name="pos"/>
+        <Param val="True" valType="bool" updates="None" name="saveStartStop"/>
+        <Param val="" valType="code" updates="None" name="startEstim"/>
+        <Param val="time (s)" valType="str" updates="None" name="startType"/>
+        <Param val="1.5" valType="code" updates="None" name="startVal"/>
+        <Param val="duration (s)" valType="str" updates="None" name="stopType"/>
+        <Param val="5" valType="code" updates="constant" name="stopVal"/>
+        <Param val="True" valType="bool" updates="None" name="syncScreenRefresh"/>
+        <Param val="$earlier_stim" valType="str" updates="set every repeat" name="text"/>
+        <Param val="from exp settings" valType="str" updates="None" name="units"/>
+        <Param val="" valType="num" updates="constant" name="wrapWidth"/>
+      </TextComponent>
+      <KeyboardComponent name="key_resp1" plugin="None">
+        <Param val="'up','down','left','right'" valType="list" updates="constant" name="allowedKeys"/>
+        <Param val="$corr_resp" valType="str" updates="constant" name="correctAns"/>
+        <Param val="False" valType="bool" updates="None" name="disabled"/>
+        <Param val="True" valType="bool" updates="constant" name="discard previous"/>
+        <Param val="" valType="code" updates="None" name="durationEstim"/>
+        <Param val="True" valType="bool" updates="constant" name="forceEndRoutine"/>
+        <Param val="key_resp1" valType="code" updates="None" name="name"/>
+        <Param val="press" valType="str" updates="constant" name="registerOn"/>
+        <Param val="True" valType="bool" updates="None" name="saveStartStop"/>
+        <Param val="" valType="code" updates="None" name="startEstim"/>
+        <Param val="time (s)" valType="str" updates="None" name="startType"/>
+        <Param val="1.5" valType="code" updates="None" name="startVal"/>
+        <Param val="duration (s)" valType="str" updates="None" name="stopType"/>
+        <Param val="5" valType="code" updates="constant" name="stopVal"/>
+        <Param val="last key" valType="str" updates="constant" name="store"/>
+        <Param val="True" valType="bool" updates="constant" name="storeCorrect"/>
+        <Param val="True" valType="bool" updates="constant" name="syncScreenRefresh"/>
+      </KeyboardComponent>
+      <TextComponent name="main_late1" plugin="None">
+        <Param val="black" valType="color" updates="constant" name="color"/>
+        <Param val="rgb" valType="str" updates="constant" name="colorSpace"/>
+        <Param val="1" valType="num" updates="constant" name="contrast"/>
+        <Param val="False" valType="bool" updates="None" name="disabled"/>
+        <Param val="" valType="code" updates="None" name="durationEstim"/>
+        <Param val="None" valType="str" updates="constant" name="flip"/>
+        <Param val="Open Sans" valType="str" updates="constant" name="font"/>
+        <Param val="LTR" valType="str" updates="None" name="languageStyle"/>
+        <Param val="0.05" valType="num" updates="constant" name="letterHeight"/>
+        <Param val="main_late1" valType="code" updates="None" name="name"/>
+        <Param val="" valType="num" updates="constant" name="opacity"/>
+        <Param val="0" valType="num" updates="constant" name="ori"/>
+        <Param val="late_position" valType="list" updates="set every repeat" name="pos"/>
+        <Param val="True" valType="bool" updates="None" name="saveStartStop"/>
+        <Param val="" valType="code" updates="None" name="startEstim"/>
+        <Param val="time (s)" valType="str" updates="None" name="startType"/>
+        <Param val="1.5" valType="code" updates="None" name="startVal"/>
+        <Param val="duration (s)" valType="str" updates="None" name="stopType"/>
+        <Param val="5" valType="code" updates="constant" name="stopVal"/>
+        <Param val="True" valType="bool" updates="None" name="syncScreenRefresh"/>
+        <Param val="$later_stim" valType="str" updates="set every repeat" name="text"/>
+        <Param val="from exp settings" valType="str" updates="None" name="units"/>
+        <Param val="" valType="num" updates="constant" name="wrapWidth"/>
+      </TextComponent>
+      <TextComponent name="fix" plugin="None">
+        <Param val="black" valType="color" updates="constant" name="color"/>
+        <Param val="rgb" valType="str" updates="constant" name="colorSpace"/>
+        <Param val="1" valType="num" updates="constant" name="contrast"/>
+        <Param val="False" valType="bool" updates="None" name="disabled"/>
+        <Param val="" valType="code" updates="None" name="durationEstim"/>
+        <Param val="None" valType="str" updates="constant" name="flip"/>
+        <Param val="Open Sans" valType="str" updates="constant" name="font"/>
+        <Param val="LTR" valType="str" updates="None" name="languageStyle"/>
+        <Param val="0.05" valType="num" updates="constant" name="letterHeight"/>
+        <Param val="fix" valType="code" updates="None" name="name"/>
+        <Param val="" valType="num" updates="constant" name="opacity"/>
+        <Param val="0" valType="num" updates="constant" name="ori"/>
+        <Param val="(0, 0)" valType="list" updates="constant" name="pos"/>
+        <Param val="True" valType="bool" updates="None" name="saveStartStop"/>
+        <Param val="" valType="code" updates="None" name="startEstim"/>
+        <Param val="time (s)" valType="str" updates="None" name="startType"/>
+        <Param val="1" valType="code" updates="None" name="startVal"/>
+        <Param val="duration (s)" valType="str" updates="None" name="stopType"/>
+        <Param val="0.5" valType="code" updates="constant" name="stopVal"/>
+        <Param val="True" valType="bool" updates="None" name="syncScreenRefresh"/>
+        <Param val="+" valType="str" updates="constant" name="text"/>
+        <Param val="from exp settings" valType="str" updates="None" name="units"/>
+        <Param val="" valType="num" updates="constant" name="wrapWidth"/>
+      </TextComponent>
+    </Routine>
+    <Routine name="break_2">
+      <RoutineSettingsComponent name="break_2" plugin="None">
+        <Param val="none" valType="str" updates="None" name="backgroundFit"/>
+        <Param val="" valType="str" updates="None" name="backgroundImg"/>
+        <Param val="$[0,0,0]" valType="color" updates="None" name="color"/>
+        <Param val="rgb" valType="str" updates="None" name="colorSpace"/>
+        <Param val="" valType="str" updates="constant" name="desc"/>
+        <Param val="False" valType="bool" updates="None" name="disabled"/>
+        <Param val="" valType="code" updates="None" name="durationEstim"/>
+        <Param val="break_2" valType="code" updates="None" name="name"/>
+        <Param val="True" valType="bool" updates="None" name="saveStartStop"/>
+        <Param val="" valType="code" updates="constant" name="skipIf"/>
+        <Param val="duration (s)" valType="str" updates="None" name="stopType"/>
+        <Param val="" valType="code" updates="constant" name="stopVal"/>
+        <Param val="False" valType="bool" updates="None" name="useWindowParams"/>
+      </RoutineSettingsComponent>
+      <TextComponent name="question" plugin="None">
+        <Param val="black" valType="color" updates="constant" name="color"/>
+        <Param val="rgb" valType="str" updates="constant" name="colorSpace"/>
+        <Param val="1" valType="num" updates="constant" name="contrast"/>
+        <Param val="False" valType="bool" updates="None" name="disabled"/>
+        <Param val="" valType="num" updates="None" name="durationEstim"/>
+        <Param val="None" valType="str" updates="constant" name="flip"/>
+        <Param val="Open Sans" valType="str" updates="constant" name="font"/>
+        <Param val="LTR" valType="str" updates="None" name="languageStyle"/>
+        <Param val="0.1" valType="num" updates="constant" name="letterHeight"/>
+        <Param val="question" valType="code" updates="None" name="name"/>
+        <Param val="" valType="num" updates="constant" name="opacity"/>
+        <Param val="0" valType="num" updates="constant" name="ori"/>
+        <Param val="(0, 0)" valType="list" updates="constant" name="pos"/>
+        <Param val="True" valType="bool" updates="None" name="saveStartStop"/>
+        <Param val="" valType="num" updates="None" name="startEstim"/>
+        <Param val="time (s)" valType="str" updates="None" name="startType"/>
+        <Param val="4" valType="num" updates="None" name="startVal"/>
+        <Param val="duration (s)" valType="str" updates="None" name="stopType"/>
+        <Param val="2" valType="num" updates="constant" name="stopVal"/>
+        <Param val="True" valType="bool" updates="None" name="syncScreenRefresh"/>
+        <Param val="$Qustion" valType="str" updates="set every repeat" name="text"/>
+        <Param val="from exp settings" valType="str" updates="None" name="units"/>
+        <Param val="" valType="num" updates="constant" name="wrapWidth"/>
+      </TextComponent>
+      <ImageComponent name="fengjing" plugin="None">
+        <Param val="center" valType="str" updates="constant" name="anchor"/>
+        <Param val="$[1,1,1]" valType="color" updates="constant" name="color"/>
+        <Param val="rgb" valType="str" updates="constant" name="colorSpace"/>
+        <Param val="1" valType="num" updates="constant" name="contrast"/>
+        <Param val="False" valType="bool" updates="None" name="disabled"/>
+        <Param val="" valType="code" updates="None" name="durationEstim"/>
+        <Param val="False" valType="bool" updates="constant" name="flipHoriz"/>
+        <Param val="False" valType="bool" updates="constant" name="flipVert"/>
+        <Param val="$Path" valType="file" updates="set every repeat" name="image"/>
+        <Param val="linear" valType="str" updates="constant" name="interpolate"/>
+        <Param val="" valType="str" updates="constant" name="mask"/>
+        <Param val="fengjing" valType="code" updates="None" name="name"/>
+        <Param val="" valType="num" updates="constant" name="opacity"/>
+        <Param val="0" valType="num" updates="constant" name="ori"/>
+        <Param val="(0, 0)" valType="list" updates="constant" name="pos"/>
+        <Param val="True" valType="bool" updates="None" name="saveStartStop"/>
+        <Param val="[2,1.5]" valType="list" updates="constant" name="size"/>
+        <Param val="" valType="code" updates="None" name="startEstim"/>
+        <Param val="time (s)" valType="str" updates="None" name="startType"/>
+        <Param val="0.0" valType="code" updates="None" name="startVal"/>
+        <Param val="duration (s)" valType="str" updates="None" name="stopType"/>
+        <Param val="4" valType="code" updates="constant" name="stopVal"/>
+        <Param val="True" valType="bool" updates="None" name="syncScreenRefresh"/>
+        <Param val="128" valType="num" updates="constant" name="texture resolution"/>
+        <Param val="from exp settings" valType="str" updates="None" name="units"/>
+      </ImageComponent>
+      <KeyboardComponent name="key_resp" plugin="None">
+        <Param val="'left','right'" valType="list" updates="constant" name="allowedKeys"/>
+        <Param val="CorrAns" valType="str" updates="constant" name="correctAns"/>
+        <Param val="False" valType="bool" updates="None" name="disabled"/>
+        <Param val="True" valType="bool" updates="constant" name="discard previous"/>
+        <Param val="" valType="code" updates="None" name="durationEstim"/>
+        <Param val="True" valType="bool" updates="constant" name="forceEndRoutine"/>
+        <Param val="key_resp" valType="code" updates="None" name="name"/>
+        <Param val="press" valType="str" updates="constant" name="registerOn"/>
+        <Param val="True" valType="bool" updates="None" name="saveStartStop"/>
+        <Param val="" valType="code" updates="None" name="startEstim"/>
+        <Param val="time (s)" valType="str" updates="None" name="startType"/>
+        <Param val="6" valType="code" updates="None" name="startVal"/>
+        <Param val="duration (s)" valType="str" updates="None" name="stopType"/>
+        <Param val="5" valType="code" updates="constant" name="stopVal"/>
+        <Param val="last key" valType="str" updates="constant" name="store"/>
+        <Param val="True" valType="bool" updates="constant" name="storeCorrect"/>
+        <Param val="True" valType="bool" updates="constant" name="syncScreenRefresh"/>
+      </KeyboardComponent>
+      <TextComponent name="Yes" plugin="None">
+        <Param val="black" valType="color" updates="constant" name="color"/>
+        <Param val="rgb" valType="str" updates="constant" name="colorSpace"/>
+        <Param val="1" valType="num" updates="constant" name="contrast"/>
+        <Param val="False" valType="bool" updates="None" name="disabled"/>
+        <Param val="" valType="code" updates="None" name="durationEstim"/>
+        <Param val="None" valType="str" updates="constant" name="flip"/>
+        <Param val="Open Sans" valType="str" updates="constant" name="font"/>
+        <Param val="LTR" valType="str" updates="None" name="languageStyle"/>
+        <Param val="0.05" valType="num" updates="constant" name="letterHeight"/>
+        <Param val="Yes" valType="code" updates="None" name="name"/>
+        <Param val="" valType="num" updates="constant" name="opacity"/>
+        <Param val="0" valType="num" updates="constant" name="ori"/>
+        <Param val="(-0.3,-0.3)" valType="list" updates="constant" name="pos"/>
+        <Param val="True" valType="bool" updates="None" name="saveStartStop"/>
+        <Param val="" valType="code" updates="None" name="startEstim"/>
+        <Param val="time (s)" valType="str" updates="None" name="startType"/>
+        <Param val="6" valType="code" updates="None" name="startVal"/>
+        <Param val="duration (s)" valType="str" updates="None" name="stopType"/>
+        <Param val="5" valType="code" updates="constant" name="stopVal"/>
+        <Param val="True" valType="bool" updates="None" name="syncScreenRefresh"/>
+        <Param val="Yes" valType="str" updates="constant" name="text"/>
+        <Param val="from exp settings" valType="str" updates="None" name="units"/>
+        <Param val="" valType="num" updates="constant" name="wrapWidth"/>
+      </TextComponent>
+      <TextComponent name="no" plugin="None">
+        <Param val="black" valType="color" updates="constant" name="color"/>
+        <Param val="rgb" valType="str" updates="constant" name="colorSpace"/>
+        <Param val="1" valType="num" updates="constant" name="contrast"/>
+        <Param val="False" valType="bool" updates="None" name="disabled"/>
+        <Param val="" valType="code" updates="None" name="durationEstim"/>
+        <Param val="None" valType="str" updates="constant" name="flip"/>
+        <Param val="Open Sans" valType="str" updates="constant" name="font"/>
+        <Param val="LTR" valType="str" updates="None" name="languageStyle"/>
+        <Param val="0.05" valType="num" updates="constant" name="letterHeight"/>
+        <Param val="no" valType="code" updates="None" name="name"/>
+        <Param val="" valType="num" updates="constant" name="opacity"/>
+        <Param val="0" valType="num" updates="constant" name="ori"/>
+        <Param val="(0.3,-0.3)" valType="list" updates="constant" name="pos"/>
+        <Param val="True" valType="bool" updates="None" name="saveStartStop"/>
+        <Param val="" valType="code" updates="None" name="startEstim"/>
+        <Param val="time (s)" valType="str" updates="None" name="startType"/>
+        <Param val="6" valType="code" updates="None" name="startVal"/>
+        <Param val="duration (s)" valType="str" updates="None" name="stopType"/>
+        <Param val="5" valType="code" updates="constant" name="stopVal"/>
+        <Param val="True" valType="bool" updates="None" name="syncScreenRefresh"/>
+        <Param val="No" valType="str" updates="constant" name="text"/>
+        <Param val="from exp settings" valType="str" updates="None" name="units"/>
+        <Param val="" valType="num" updates="constant" name="wrapWidth"/>
+      </TextComponent>
+    </Routine>
+  </Routines>
+  <Flow>
+    <Routine name="Intro1"/>
+    <Routine name="Intro2"/>
+    <Routine name="Intro3"/>
+    <Routine name="Intro4"/>
+    <LoopInitiator loopType="TrialHandler" name="prac_block">
+      <Param name="Selected rows" updates="None" val="" valType="str"/>
+      <Param name="conditions" updates="None" val="None" valType="str"/>
+      <Param name="conditionsFile" updates="None" val="" valType="file"/>
+      <Param name="endPoints" updates="None" val="[0, 1]" valType="num"/>
+      <Param name="isTrials" updates="None" val="True" valType="bool"/>
+      <Param name="loopType" updates="None" val="sequential" valType="str"/>
+      <Param name="nReps" updates="None" val="3" valType="num"/>
+      <Param name="name" updates="None" val="prac_block" valType="code"/>
+      <Param name="random seed" updates="None" val="" valType="code"/>
+    </LoopInitiator>
+    <Routine name="Prac_intro"/>
+    <LoopInitiator loopType="TrialHandler" name="trials">
+      <Param name="Selected rows" updates="None" val="" valType="str"/>
+      <Param name="conditions" updates="None" val="[{'No': 1.0, 'Catagory': 'Month', 'earlier_stim': 'August', 'later_stim': 'September ', 'conguency': 'conguent', 'orientation': 'Hori', 'instruction': 'early', 'corr_resp': 'left', 'Instruction_stim': 'image/Eng_early.png', 'early_position': '[-0.3,0)', 'late_position': '[0.3,0)'}, {'No': 2.0, 'Catagory': 'Month', 'earlier_stim': 'April', 'later_stim': 'May', 'conguency': 'conguent', 'orientation': 'Hori', 'instruction': 'late', 'corr_resp': 'right', 'Instruction_stim': 'image/Eng_late.png', 'early_position': '[-0.3,0)', 'late_position': '[0.3,0)'}, {'No': 3.0, 'Catagory': 'Month', 'earlier_stim': 'November ', 'later_stim': 'December', 'conguency': 'conguent', 'orientation': 'Vert', 'instruction': 'early', 'corr_resp': 'up', 'Instruction_stim': 'image/Eng_early.png', 'early_position': '[0,0.3)', 'late_position': '[0,-0.3)'}, {'No': 4.0, 'Catagory': 'Month', 'earlier_stim': 'May', 'later_stim': 'June', 'conguency': 'conguent', 'orientation': 'Vert', 'instruction': 'late', 'corr_resp': 'down', 'Instruction_stim': 'image/Eng_late.png', 'early_position': '[0,0.3)', 'late_position': '[0,-0.3)'}, {'No': 5.0, 'Catagory': 'Month', 'earlier_stim': 'March', 'later_stim': 'Feburary', 'conguency': 'incongruent', 'orientation': 'Hori', 'instruction': 'early', 'corr_resp': 'right', 'Instruction_stim': 'image/Eng_early.png', 'early_position': '[-0.3,0)', 'late_position': '[0.3,0)'}, {'No': 6.0, 'Catagory': 'Month', 'earlier_stim': 'December', 'later_stim': 'November ', 'conguency': 'incongruent', 'orientation': 'Hori', 'instruction': 'late', 'corr_resp': 'left', 'Instruction_stim': 'image/Eng_late.png', 'early_position': '[-0.3,0)', 'late_position': '[0.3,0)'}, {'No': 7.0, 'Catagory': 'Month', 'earlier_stim': 'May', 'later_stim': 'April', 'conguency': 'incongruent', 'orientation': 'Vert', 'instruction': 'early', 'corr_resp': 'down', 'Instruction_stim': 'image/Eng_early.png', 'early_position': '[0,0.3)', 'late_position': '[0,-0.3)'}, {'No': 8.0, 'Catagory': 'Month', 'earlier_stim': 'Feburary ', 'later_stim': 'January', 'conguency': 'incongruent', 'orientation': 'Vert', 'instruction': 'late', 'corr_resp': 'up', 'Instruction_stim': 'image/Eng_late.png', 'early_position': '[0,0.3)', 'late_position': '[0,-0.3)'}, {'No': 9.0, 'Catagory': 'Week', 'earlier_stim': 'Wednesday ', 'later_stim': 'Tuesday', 'conguency': 'incongruent', 'orientation': 'Hori', 'instruction': 'early', 'corr_resp': 'right', 'Instruction_stim': 'image/Eng_early.png', 'early_position': '[-0.3,0)', 'late_position': '[0.3,0)'}, {'No': 10.0, 'Catagory': 'Week', 'earlier_stim': 'Tuesday', 'later_stim': 'Monday', 'conguency': 'incongruent', 'orientation': 'Hori', 'instruction': 'late', 'corr_resp': 'left', 'Instruction_stim': 'image/Eng_late.png', 'early_position': '[-0.3,0)', 'late_position': '[0.3,0)'}, {'No': 11.0, 'Catagory': 'Week', 'earlier_stim': 'Friday', 'later_stim': 'Saturday', 'conguency': 'congruent', 'orientation': 'Hori', 'instruction': 'early', 'corr_resp': 'left', 'Instruction_stim': 'image/Eng_early.png', 'early_position': '[-0.3,0)', 'late_position': '[0.3,0)'}, {'No': 12.0, 'Catagory': 'Week', 'earlier_stim': 'Thursday', 'later_stim': 'Friday', 'conguency': 'congruent', 'orientation': 'Hori', 'instruction': 'late', 'corr_resp': 'right', 'Instruction_stim': 'image/Eng_late.png', 'early_position': '[-0.3,0)', 'late_position': '[0.3,0)'}, {'No': 13.0, 'Catagory': 'Week', 'earlier_stim': 'Wednesday ', 'later_stim': 'Tuesday', 'conguency': 'incongruent', 'orientation': 'Vert', 'instruction': 'late', 'corr_resp': 'up', 'Instruction_stim': 'image/Eng_late.png', 'early_position': '[0,0.3)', 'late_position': '[0,-0.3)'}, {'No': 14.0, 'Catagory': 'Week', 'earlier_stim': 'Thursday', 'later_stim': 'Wednesday ', 'conguency': 'incongruent', 'orientation': 'Vert', 'instruction': 'early', 'corr_resp': 'down', 'Instruction_stim': 'image/Eng_early.png', 'early_position': '[0,0.3)', 'late_position': '[0,-0.3)'}, {'No': 15.0, 'Catagory': 'Week', 'earlier_stim': 'Friday', 'later_stim': 'Saturday', 'conguency': 'congruent', 'orientation': 'Vert', 'instruction': 'early', 'corr_resp': 'up', 'Instruction_stim': 'image/Eng_early.png', 'early_position': '[0,0.3)', 'late_position': '[0,-0.3)'}, {'No': 16.0, 'Catagory': 'Week', 'earlier_stim': 'Saturday', 'later_stim': 'Sunday', 'conguency': 'congruent', 'orientation': 'Vert', 'instruction': 'late', 'corr_resp': 'down', 'Instruction_stim': 'image/Eng_late.png', 'early_position': '[0,0.3)', 'late_position': '[0,-0.3)'}]" valType="str"/>
+      <Param name="conditionsFile" updates="None" val="Practice_Eng.xlsx" valType="file"/>
+      <Param name="endPoints" updates="None" val="[0, 1]" valType="num"/>
+      <Param name="isTrials" updates="None" val="True" valType="bool"/>
+      <Param name="loopType" updates="None" val="random" valType="str"/>
+      <Param name="nReps" updates="None" val="1" valType="num"/>
+      <Param name="name" updates="None" val="trials" valType="code"/>
+      <Param name="random seed" updates="None" val="" valType="code"/>
+    </LoopInitiator>
+    <Routine name="practrial"/>
+    <Routine name="solution"/>
+    <Routine name="feedback"/>
+    <LoopTerminator name="trials"/>
+    <Routine name="Prac_check"/>
+    <LoopTerminator name="prac_block"/>
+    <Routine name="intro5"/>
+    <LoopInitiator loopType="TrialHandler" name="block1">
+      <Param name="Selected rows" updates="None" val="" valType="str"/>
+      <Param name="conditions" updates="None" val="[OrderedDict([('No', 29), ('Category', 'Month'), ('earlier_stim', 'May'), ('later_stim', 'September '), ('distance', 4), ('congruency', 'congruent'), ('orientation', 'Vert'), ('instruction', 'late'), ('corr_resp', 'down'), ('Instruction_stim', 'image/Eng_late.png'), ('early_position', [0, 0.3]), ('late_position', [0, -0.3])]), OrderedDict([('No', 1), ('Category', 'Month'), ('earlier_stim', 'January'), ('later_stim', 'February '), ('distance', 1), ('congruency', 'congruent'), ('orientation', 'Hori'), ('instruction', 'early'), ('corr_resp', 'left'), ('Instruction_stim', 'image/Eng_early.png'), ('early_position', [-0.3, 0]), ('late_position', [0.3, 0])]), OrderedDict([('No', 23), ('Category', 'Month'), ('earlier_stim', 'January'), ('later_stim', 'February '), ('distance', 1), ('congruency', 'congruent'), ('orientation', 'Vert'), ('instruction', 'early'), ('corr_resp', 'up'), ('Instruction_stim', 'image/Eng_early.png'), ('early_position', [0, 0.3]), ('late_position', [0, -0.3])]), OrderedDict([('No', 12), ('Category', 'Month'), ('earlier_stim', 'February'), ('later_stim', 'April'), ('distance', 2), ('congruency', 'congruent'), ('orientation', 'Hori'), ('instruction', 'late'), ('corr_resp', 'right'), ('Instruction_stim', 'image/Eng_late.png'), ('early_position', [-0.3, 0]), ('late_position', [0.3, 0])]), OrderedDict([('No', 60), ('Category', 'Month'), ('earlier_stim', 'December'), ('later_stim', 'October '), ('distance', 2), ('congruency', 'incongruent'), ('orientation', 'Hori'), ('instruction', 'late'), ('corr_resp', 'left'), ('Instruction_stim', 'image/Eng_late.png'), ('early_position', [-0.3, 0]), ('late_position', [0.3, 0])]), OrderedDict([('No', 48), ('Category', 'Month'), ('earlier_stim', 'May'), ('later_stim', 'April'), ('distance', 1), ('congruency', 'incongruent'), ('orientation', 'Hori'), ('instruction', 'early'), ('corr_resp', 'right'), ('Instruction_stim', 'image/Eng_early.png'), ('early_position', [-0.3, 0]), ('late_position', [0.3, 0])]), OrderedDict([('No', 18), ('Category', 'Month'), ('earlier_stim', 'February'), ('later_stim', 'June'), ('distance', 4), ('congruency', 'congruent'), ('orientation', 'Vert'), ('instruction', 'early'), ('corr_resp', 'up'), ('Instruction_stim', 'image/Eng_early.png'), ('early_position', [0, 0.3]), ('late_position', [0, -0.3])]), OrderedDict([('No', 112), ('Category', 'Week'), ('earlier_stim', 'Tuesday'), ('later_stim', 'Friday'), ('distance', 3), ('congruency', 'congruent'), ('orientation', 'Vert'), ('instruction', 'early'), ('corr_resp', 'up'), ('Instruction_stim', 'image/Eng_early.png'), ('early_position', [0, 0.3]), ('late_position', [0, -0.3])]), OrderedDict([('No', 26), ('Category', 'Month'), ('earlier_stim', 'August'), ('later_stim', 'November '), ('distance', 3), ('congruency', 'congruent'), ('orientation', 'Vert'), ('instruction', 'early'), ('corr_resp', 'up'), ('Instruction_stim', 'image/Eng_early.png'), ('early_position', [0, 0.3]), ('late_position', [0, -0.3])]), OrderedDict([('No', 52), ('Category', 'Month'), ('earlier_stim', 'August'), ('later_stim', 'April'), ('distance', 4), ('congruency', 'incongruent'), ('orientation', 'Vert'), ('instruction', 'early'), ('corr_resp', 'down'), ('Instruction_stim', 'image/Eng_early.png'), ('early_position', [0, 0.3]), ('late_position', [0, -0.3])]), OrderedDict([('No', 32), ('Category', 'Month'), ('earlier_stim', 'May'), ('later_stim', 'August'), ('distance', 3), ('congruency', 'congruent'), ('orientation', 'Vert'), ('instruction', 'late'), ('corr_resp', 'down'), ('Instruction_stim', 'image/Eng_late.png'), ('early_position', [0, 0.3]), ('late_position', [0, -0.3])]), OrderedDict([('No', 27), ('Category', 'Month'), ('earlier_stim', 'July'), ('later_stim', 'September '), ('distance', 2), ('congruency', 'congruent'), ('orientation', 'Vert'), ('instruction', 'early'), ('corr_resp', 'up'), ('Instruction_stim', 'image/Eng_early.png'), ('early_position', [0, 0.3]), ('late_position', [0, -0.3])]), OrderedDict([('No', 8), ('Category', 'Month'), ('earlier_stim', 'August'), ('later_stim', 'December'), ('distance', 4), ('congruency', 'congruent'), ('orientation', 'Hori'), ('instruction', 'early'), ('corr_resp', 'left'), ('Instruction_stim', 'image/Eng_early.png'), ('early_position', [-0.3, 0]), ('late_position', [0.3, 0])]), OrderedDict([('No', 75), ('Category', 'Month'), ('earlier_stim', 'October '), ('later_stim', 'September '), ('distance', 1), ('congruency', 'incongruent'), ('orientation', 'Vert'), ('instruction', 'early'), ('corr_resp', 'down'), ('Instruction_stim', 'image/Eng_early.png'), ('early_position', [0, 0.3]), ('late_position', [0, -0.3])]), OrderedDict([('No', 40), ('Category', 'Month'), ('earlier_stim', 'July'), ('later_stim', 'April'), ('distance', 3), ('congruency', 'incongruent'), ('orientation', 'Hori'), ('instruction', 'early'), ('corr_resp', 'right'), ('Instruction_stim', 'image/Eng_early.png'), ('early_position', [-0.3, 0]), ('late_position', [0.3, 0])]), OrderedDict([('No', 16), ('Category', 'Month'), ('earlier_stim', 'August'), ('later_stim', 'December'), ('distance', 4), ('congruency', 'congruent'), ('orientation', 'Hori'), ('instruction', 'late'), ('corr_resp', 'right'), ('Instruction_stim', 'image/Eng_late.png'), ('early_position', [-0.3, 0]), ('late_position', [0.3, 0])]), OrderedDict([('No', 51), ('Category', 'Month'), ('earlier_stim', 'July'), ('later_stim', 'March'), ('distance', 4), ('congruency', 'incongruent'), ('orientation', 'Vert'), ('instruction', 'early'), ('corr_resp', 'down'), ('Instruction_stim', 'image/Eng_early.png'), ('early_position', [0, 0.3]), ('late_position', [0, -0.3])]), OrderedDict([('No', 98), ('Category', 'Week'), ('earlier_stim', 'Tuesday'), ('later_stim', 'Friday'), ('distance', 3), ('congruency', 'congruent'), ('orientation', 'Hori'), ('instruction', 'early'), ('corr_resp', 'left'), ('Instruction_stim', 'image/Eng_early.png'), ('early_position', [-0.3, 0]), ('late_position', [0.3, 0])]), OrderedDict([('No', 45), ('Category', 'Month'), ('earlier_stim', 'September '), ('later_stim', 'May'), ('distance', 4), ('congruency', 'incongruent'), ('orientation', 'Hori'), ('instruction', 'late'), ('corr_resp', 'left'), ('Instruction_stim', 'image/Eng_late.png'), ('early_position', [-0.3, 0]), ('late_position', [0.3, 0])]), OrderedDict([('No', 21), ('Category', 'Month'), ('earlier_stim', 'October '), ('later_stim', 'November '), ('distance', 1), ('congruency', 'congruent'), ('orientation', 'Hori'), ('instruction', 'late'), ('corr_resp', 'right'), ('Instruction_stim', 'image/Eng_late.png'), ('early_position', [-0.3, 0]), ('late_position', [0.3, 0])]), OrderedDict([('No', 53), ('Category', 'Month'), ('earlier_stim', 'May'), ('later_stim', 'March'), ('distance', 2), ('congruency', 'incongruent'), ('orientation', 'Hori'), ('instruction', 'late'), ('corr_resp', 'left'), ('Instruction_stim', 'image/Eng_late.png'), ('early_position', [-0.3, 0]), ('late_position', [0.3, 0])]), OrderedDict([('No', 141), ('Category', 'Week'), ('earlier_stim', 'Saturday'), ('later_stim', 'Wednesday\xa0'), ('distance', 3), ('congruency', 'incongruent'), ('orientation', 'Vert'), ('instruction', 'early'), ('corr_resp', 'down'), ('Instruction_stim', 'image/Eng_early.png'), ('early_position', [0, 0.3]), ('late_position', [0, -0.3])]), OrderedDict([('No', 63), ('Category', 'Month'), ('earlier_stim', 'November '), ('later_stim', 'July'), ('distance', 4), ('congruency', 'incongruent'), ('orientation', 'Vert'), ('instruction', 'late'), ('corr_resp', 'up'), ('Instruction_stim', 'image/Eng_late.png'), ('early_position', [0, 0.3]), ('late_position', [0, -0.3])]), OrderedDict([('No', 12), ('Category', 'Week'), ('earlier_stim', 'Sunday'), ('later_stim', 'Thursday'), ('distance', 3), ('congruency', 'incongruent'), ('orientation', 'Vert'), ('instruction', 'late'), ('corr_resp', 'up'), ('Instruction_stim', 'image/Eng_late.png'), ('early_position', [0, 0.3]), ('late_position', [0, -0.3])]), OrderedDict([('No', 6), ('Category', 'Month'), ('earlier_stim', 'June'), ('later_stim', 'October '), ('distance', 4), ('congruency', 'congruent'), ('orientation', 'Hori'), ('instruction', 'early'), ('corr_resp', 'left'), ('Instruction_stim', 'image/Eng_early.png'), ('early_position', [-0.3, 0]), ('late_position', [0.3, 0])]), OrderedDict([('No', 122), ('Category', 'Week'), ('earlier_stim', 'Friday'), ('later_stim', 'Sunday'), ('distance', 2), ('congruency', 'congruent'), ('orientation', 'Vert'), ('instruction', 'late'), ('corr_resp', 'down'), ('Instruction_stim', 'image/Eng_late.png'), ('early_position', [0, 0.3]), ('late_position', [0, -0.3])]), OrderedDict([('No', 118), ('Category', 'Week'), ('earlier_stim', 'Monday'), ('later_stim', 'Wednesday\xa0'), ('distance', 2), ('congruency', 'congruent'), ('orientation', 'Vert'), ('instruction', 'late'), ('corr_resp', 'down'), ('Instruction_stim', 'image/Eng_late.png'), ('early_position', [0, 0.3]), ('late_position', [0, -0.3])]), OrderedDict([('No', 134), ('Category', 'Week'), ('earlier_stim', 'Friday'), ('later_stim', 'Wednesday\xa0'), ('distance', 2), ('congruency', 'incongruent'), ('orientation', 'Hori'), ('instruction', 'late'), ('corr_resp', 'left'), ('Instruction_stim', 'image/Eng_late.png'), ('early_position', [-0.3, 0]), ('late_position', [0.3, 0])]), OrderedDict([('No', 126), ('Category', 'Week'), ('earlier_stim', 'Friday'), ('later_stim', 'Tuesday'), ('distance', 3), ('congruency', 'incongruent'), ('orientation', 'Hori'), ('instruction', 'early'), ('corr_resp', 'right'), ('Instruction_stim', 'image/Eng_early.png'), ('early_position', [-0.3, 0]), ('late_position', [0.3, 0])]), OrderedDict([('No', 136), ('Category', 'Week'), ('earlier_stim', 'Saturday'), ('later_stim', 'Friday'), ('distance', 1), ('congruency', 'incongruent'), ('orientation', 'Hori'), ('instruction', 'late'), ('corr_resp', 'left'), ('Instruction_stim', 'image/Eng_late.png'), ('early_position', [-0.3, 0]), ('late_position', [0.3, 0])]), OrderedDict([('No', 18), ('Category', 'Month'), ('earlier_stim', 'September '), ('later_stim', 'December'), ('distance', 3), ('congruency', 'congruent'), ('orientation', 'Hori'), ('instruction', 'late'), ('corr_resp', 'right'), ('Instruction_stim', 'image/Eng_late.png'), ('early_position', [-0.3, 0]), ('late_position', [0.3, 0])]), OrderedDict([('No', 24), ('Category', 'Month'), ('earlier_stim', 'June'), ('later_stim', 'September '), ('distance', 3), ('congruency', 'congruent'), ('orientation', 'Vert'), ('instruction', 'early'), ('corr_resp', 'up'), ('Instruction_stim', 'image/Eng_early.png'), ('early_position', [0, 0.3]), ('late_position', [0, -0.3])]), OrderedDict([('No', 152), ('Category', 'Week'), ('earlier_stim', 'Monday'), ('later_stim', 'Tuesday'), ('distance', 1), ('congruency', 'incongruent'), ('orientation', 'Vert'), ('instruction', 'late'), ('corr_resp', 'up'), ('Instruction_stim', 'image/Eng_late.png'), ('early_position', [0, 0.3]), ('late_position', [0, -0.3])]), OrderedDict([('No', 147), ('Category', 'Week'), ('earlier_stim', 'Friday'), ('later_stim', 'Tuesday'), ('distance', 3), ('congruency', 'incongruent'), ('orientation', 'Vert'), ('instruction', 'late'), ('corr_resp', 'up'), ('Instruction_stim', 'image/Eng_late.png'), ('early_position', [0, 0.3]), ('late_position', [0, -0.3])]), OrderedDict([('No', 55), ('Category', 'Month'), ('earlier_stim', 'December'), ('later_stim', 'November '), ('distance', 1), ('congruency', 'incongruent'), ('orientation', 'Hori'), ('instruction', 'early'), ('corr_resp', 'right'), ('Instruction_stim', 'image/Eng_early.png'), ('early_position', [-0.3, 0]), ('late_position', [0.3, 0])]), OrderedDict([('No', 5), ('Category', 'Month'), ('earlier_stim', 'May'), ('later_stim', 'September '), ('distance', 4), ('congruency', 'congruent'), ('orientation', 'Hori'), ('instruction', 'early'), ('corr_resp', 'left'), ('Instruction_stim', 'image/Eng_early.png'), ('early_position', [-0.3, 0]), ('late_position', [0.3, 0])]), OrderedDict([('No', 35), ('Category', 'Month'), ('earlier_stim', 'July'), ('later_stim', 'March'), ('distance', 4), ('congruency', 'incongruent'), ('orientation', 'Hori'), ('instruction', 'early'), ('corr_resp', 'right'), ('Instruction_stim', 'image/Eng_early.png'), ('early_position', [-0.3, 0]), ('late_position', [0.3, 0])]), OrderedDict([('No', 108), ('Category', 'Week'), ('earlier_stim', 'Friday'), ('later_stim', 'Saturday'), ('distance', 1), ('congruency', 'congruent'), ('orientation', 'Hori'), ('instruction', 'late'), ('corr_resp', 'right'), ('Instruction_stim', 'image/Eng_late.png'), ('early_position', [-0.3, 0]), ('late_position', [0.3, 0])]), OrderedDict([('No', 16), ('Category', 'Month'), ('earlier_stim', 'July'), ('later_stim', 'October '), ('distance', 3), ('congruency', 'congruent'), ('orientation', 'Hori'), ('instruction', 'late'), ('corr_resp', 'right'), ('Instruction_stim', 'image/Eng_late.png'), ('early_position', [-0.3, 0]), ('late_position', [0.3, 0])]), OrderedDict([('No', 78), ('Category', 'Month'), ('earlier_stim', 'October '), ('later_stim', 'August'), ('distance', 2), ('congruency', 'incongruent'), ('orientation', 'Vert'), ('instruction', 'late'), ('corr_resp', 'up'), ('Instruction_stim', 'image/Eng_late.png'), ('early_position', [0, 0.3]), ('late_position', [0, -0.3])]), OrderedDict([('No', 3), ('Category', 'Month'), ('earlier_stim', 'March'), ('later_stim', 'May'), ('distance', 2), ('congruency', 'congruent'), ('orientation', 'Hori'), ('instruction', 'early'), ('corr_resp', 'left'), ('Instruction_stim', 'image/Eng_early.png'), ('early_position', [-0.3, 0]), ('late_position', [0.3, 0])]), OrderedDict([('No', 42), ('Category', 'Month'), ('earlier_stim', 'September '), ('later_stim', 'June'), ('distance', 3), ('congruency', 'incongruent'), ('orientation', 'Hori'), ('instruction', 'early'), ('corr_resp', 'right'), ('Instruction_stim', 'image/Eng_early.png'), ('early_position', [-0.3, 0]), ('late_position', [0.3, 0])]), OrderedDict([('No', 3), ('Category', 'Month'), ('earlier_stim', 'March'), ('later_stim', 'June'), ('distance', 3), ('congruency', 'congruent'), ('orientation', 'Hori'), ('instruction', 'early'), ('corr_resp', 'left'), ('Instruction_stim', 'image/Eng_early.png'), ('early_position', [-0.3, 0]), ('late_position', [0.3, 0])]), OrderedDict([('No', 8), ('Category', 'Month'), ('earlier_stim', 'August'), ('later_stim', 'November '), ('distance', 3), ('congruency', 'congruent'), ('orientation', 'Hori'), ('instruction', 'early'), ('corr_resp', 'left'), ('Instruction_stim', 'image/Eng_early.png'), ('early_position', [-0.3, 0]), ('late_position', [0.3, 0])]), OrderedDict([('No', 106), ('Category', 'Week'), ('earlier_stim', 'Wednesday\xa0'), ('later_stim', 'Saturday'), ('distance', 3), ('congruency', 'congruent'), ('orientation', 'Hori'), ('instruction', 'late'), ('corr_resp', 'right'), ('Instruction_stim', 'image/Eng_late.png'), ('early_position', [-0.3, 0]), ('late_position', [0.3, 0])]), OrderedDict([('No', 43), ('Category', 'Month'), ('earlier_stim', 'October '), ('later_stim', 'July'), ('distance', 3), ('congruency', 'incongruent'), ('orientation', 'Hori'), ('instruction', 'early'), ('corr_resp', 'right'), ('Instruction_stim', 'image/Eng_early.png'), ('early_position', [-0.3, 0]), ('late_position', [0.3, 0])]), OrderedDict([('No', 57), ('Category', 'Month'), ('earlier_stim', 'May'), ('later_stim', 'January'), ('distance', 4), ('congruency', 'incongruent'), ('orientation', 'Vert'), ('instruction', 'late'), ('corr_resp', 'up'), ('Instruction_stim', 'image/Eng_late.png'), ('early_position', [0, 0.3]), ('late_position', [0, -0.3])]), OrderedDict([('No', 150), ('Category', 'Week'), ('earlier_stim', 'Saturday'), ('later_stim', 'Friday'), ('distance', 1), ('congruency', 'incongruent'), ('orientation', 'Vert'), ('instruction', 'late'), ('corr_resp', 'up'), ('Instruction_stim', 'image/Eng_late.png'), ('early_position', [0, 0.3]), ('late_position', [0, -0.3])]), OrderedDict([('No', 114), ('Category', 'Week'), ('earlier_stim', 'Thursday'), ('later_stim', 'Saturday'), ('distance', 2), ('congruency', 'congruent'), ('orientation', 'Vert'), ('instruction', 'early'), ('corr_resp', 'up'), ('Instruction_stim', 'image/Eng_early.png'), ('early_position', [0, 0.3]), ('late_position', [0, -0.3])]), OrderedDict([('No', 64), ('Category', 'Month'), ('earlier_stim', 'April'), ('later_stim', 'January'), ('distance', 3), ('congruency', 'incongruent'), ('orientation', 'Vert'), ('instruction', 'late'), ('corr_resp', 'up'), ('Instruction_stim', 'image/Eng_late.png'), ('early_position', [0, 0.3]), ('late_position', [0, -0.3])]), OrderedDict([('No', 56), ('Category', 'Month'), ('earlier_stim', 'May'), ('later_stim', 'February'), ('distance', 3), ('congruency', 'incongruent'), ('orientation', 'Vert'), ('instruction', 'early'), ('corr_resp', 'down'), ('Instruction_stim', 'image/Eng_early.png'), ('early_position', [0, 0.3]), ('late_position', [0, -0.3])]), OrderedDict([('No', 6), ('Category', 'Month'), ('earlier_stim', 'June'), ('later_stim', 'September '), ('distance', 3), ('congruency', 'congruent'), ('orientation', 'Hori'), ('instruction', 'early'), ('corr_resp', 'left'), ('Instruction_stim', 'image/Eng_early.png'), ('early_position', [-0.3, 0]), ('late_position', [0.3, 0])])]" valType="str"/>
+      <Param name="conditionsFile" updates="None" val="blocks/Block 1.csv" valType="file"/>
+      <Param name="endPoints" updates="None" val="[0, 1]" valType="num"/>
+      <Param name="isTrials" updates="None" val="True" valType="bool"/>
+      <Param name="loopType" updates="None" val="random" valType="str"/>
+      <Param name="nReps" updates="None" val="1" valType="num"/>
+      <Param name="name" updates="None" val="block1" valType="code"/>
+      <Param name="random seed" updates="None" val="" valType="code"/>
+    </LoopInitiator>
+    <Routine name="block"/>
+    <LoopTerminator name="block1"/>
+    <LoopInitiator loopType="TrialHandler" name="break1">
+      <Param name="Selected rows" updates="None" val="0:8" valType="str"/>
+      <Param name="conditions" updates="None" val="[{'Image': 'Spring 1.jpg', 'Qustion': 'Is this Spring?', 'Response': 'Yes', 'CorrAns': 'Left', 'Path': 'Break_material/Image/Spring 1.jpg'}, {'Image': 'Spring 2.jpg', 'Qustion': 'Is this Winter?', 'Response': 'No', 'CorrAns': 'Right', 'Path': 'Break_material/Image/Spring 2.jpg'}, {'Image': 'Spring 3.jpg', 'Qustion': 'Is this Summer?', 'Response': 'No', 'CorrAns': 'Right', 'Path': 'Break_material/Image/Spring 3.jpg'}, {'Image': 'Spring 4.jpg', 'Qustion': 'Is this Autumn?', 'Response': 'No', 'CorrAns': 'Right', 'Path': 'Break_material/Image/Spring 4.jpg'}, {'Image': 'Spring 5.jpg', 'Qustion': 'Is this Winter?', 'Response': 'No', 'CorrAns': 'Right', 'Path': 'Break_material/Image/Spring 5.jpg'}, {'Image': 'Spring 6.jpg', 'Qustion': 'Is this Spring?', 'Response': 'Yes', 'CorrAns': 'Left', 'Path': 'Break_material/Image/Spring 6.jpg'}, {'Image': 'Summer 1.jpg', 'Qustion': 'Is this Autumn?', 'Response': 'No', 'CorrAns': 'Right', 'Path': 'Break_material/Image/Summer 1.jpg'}, {'Image': 'Summer 2.jpg', 'Qustion': 'Is this Summer?', 'Response': 'Yes', 'CorrAns': 'Left', 'Path': 'Break_material/Image/Summer 2.jpg'}, {'Image': 'Summer 3.jpg', 'Qustion': 'Is this Autumn?', 'Response': 'No', 'CorrAns': 'Right', 'Path': 'Break_material/Image/Summer 3.jpg'}, {'Image': 'Summer 4.jpg', 'Qustion': 'Is this Spring?', 'Response': 'No', 'CorrAns': 'Right', 'Path': 'Break_material/Image/Summer 4.jpg'}, {'Image': 'Summer 5.jpg', 'Qustion': 'Is this Summer?', 'Response': 'Yes', 'CorrAns': 'Left', 'Path': 'Break_material/Image/Summer 5.jpg'}, {'Image': 'Summer 6.jpg', 'Qustion': 'Is this Winter?', 'Response': 'No', 'CorrAns': 'Right', 'Path': 'Break_material/Image/Summer 6.jpg'}, {'Image': 'Autumn 1.jpg', 'Qustion': 'Is this Winter?', 'Response': 'No', 'CorrAns': 'Right', 'Path': 'Break_material/Image/Autumn 1.jpg'}, {'Image': 'Autumn 2.jpg', 'Qustion': 'Is this Winter?', 'Response': 'No', 'CorrAns': 'Right', 'Path': 'Break_material/Image/Autumn 2.jpg'}, {'Image': 'Autumn 3.jpg', 'Qustion': 'Is this Autumn?', 'Response': 'Yes', 'CorrAns': 'Left', 'Path': 'Break_material/Image/Autumn 3.jpg'}, {'Image': 'Autumn 4.jpg', 'Qustion': 'Is this Winter?', 'Response': 'No', 'CorrAns': 'Right', 'Path': 'Break_material/Image/Autumn 4.jpg'}, {'Image': 'Autumn 5.jpg', 'Qustion': 'Is this Spring?', 'Response': 'No', 'CorrAns': 'Right', 'Path': 'Break_material/Image/Autumn 5.jpg'}, {'Image': 'Autumn 6.jpg', 'Qustion': 'Is this Autumn?', 'Response': 'Yes', 'CorrAns': 'Left', 'Path': 'Break_material/Image/Autumn 6.jpg'}, {'Image': 'Winter 1.jpg', 'Qustion': 'Is this Summer?', 'Response': 'No', 'CorrAns': 'Right', 'Path': 'Break_material/Image/Winter 1.jpg'}, {'Image': 'Winter 2.jpg', 'Qustion': 'Is this Winter?', 'Response': 'Yes', 'CorrAns': 'Left', 'Path': 'Break_material/Image/Winter 2.jpg'}, {'Image': 'Winter 3.jpg', 'Qustion': 'Is this Spring?', 'Response': 'No', 'CorrAns': 'Right', 'Path': 'Break_material/Image/Winter 3.jpg'}, {'Image': 'Winter 4.jpg', 'Qustion': 'Is this Summer?', 'Response': 'No', 'CorrAns': 'Right', 'Path': 'Break_material/Image/Winter 4.jpg'}, {'Image': 'Winter 5.jpg', 'Qustion': 'Is this Autumn?', 'Response': 'No', 'CorrAns': 'Right', 'Path': 'Break_material/Image/Winter 5.jpg'}, {'Image': 'Winter 6.jpg', 'Qustion': 'Is this Spring?', 'Response': 'No', 'CorrAns': 'Right', 'Path': 'Break_material/Image/Winter 5.jpg'}]" valType="str"/>
+      <Param name="conditionsFile" updates="None" val="Break_material/Break_eng.xlsx" valType="file"/>
+      <Param name="endPoints" updates="None" val="[0, 1]" valType="num"/>
+      <Param name="isTrials" updates="None" val="True" valType="bool"/>
+      <Param name="loopType" updates="None" val="random" valType="str"/>
+      <Param name="nReps" updates="None" val="1" valType="num"/>
+      <Param name="name" updates="None" val="break1" valType="code"/>
+      <Param name="random seed" updates="None" val="" valType="code"/>
+    </LoopInitiator>
+    <Routine name="break_2"/>
+    <LoopTerminator name="break1"/>
+    <LoopInitiator loopType="TrialHandler" name="block2">
+      <Param name="Selected rows" updates="None" val="" valType="str"/>
+      <Param name="conditions" updates="None" val="[OrderedDict([('No', 46), ('Category', 'Month'), ('earlier_stim', 'August'), ('later_stim', 'June'), ('distance', 2), ('congruency', 'incongruent'), ('orientation', 'Hori'), ('instruction', 'early'), ('corr_resp', 'right'), ('Instruction_stim', 'image/Eng_early.png'), ('early_position', [-0.3, 0]), ('late_position', [0.3, 0])]), OrderedDict([('No', 56), ('Category', 'Month'), ('earlier_stim', 'December'), ('later_stim', 'August'), ('distance', 4), ('congruency', 'incongruent'), ('orientation', 'Vert'), ('instruction', 'early'), ('corr_resp', 'down'), ('Instruction_stim', 'image/Eng_early.png'), ('early_position', [0, 0.3]), ('late_position', [0, -0.3])]), OrderedDict([('No', 43), ('Category', 'Month'), ('earlier_stim', 'May'), ('later_stim', 'March'), ('distance', 2), ('congruency', 'incongruent'), ('orientation', 'Hori'), ('instruction', 'early'), ('corr_resp', 'right'), ('Instruction_stim', 'image/Eng_early.png'), ('early_position', [-0.3, 0]), ('late_position', [0.3, 0])]), OrderedDict([('No', 28), ('Category', 'Month'), ('earlier_stim', 'April'), ('later_stim', 'August'), ('distance', 4), ('congruency', 'congruent'), ('orientation', 'Vert'), ('instruction', 'late'), ('corr_resp', 'down'), ('Instruction_stim', 'image/Eng_late.png'), ('early_position', [0, 0.3]), ('late_position', [0, -0.3])]), OrderedDict([('No', 36), ('Category', 'Month'), ('earlier_stim', 'June'), ('later_stim', 'August'), ('distance', 2), ('congruency', 'congruent'), ('orientation', 'Vert'), ('instruction', 'late'), ('corr_resp', 'down'), ('Instruction_stim', 'image/Eng_late.png'), ('early_position', [0, 0.3]), ('late_position', [0, -0.3])]), OrderedDict([('No', 125), ('Category', 'Week'), ('earlier_stim', 'Thursday'), ('later_stim', 'Monday'), ('distance', 3), ('congruency', 'incongruent'), ('orientation', 'Hori'), ('instruction', 'early'), ('corr_resp', 'right'), ('Instruction_stim', 'image/Eng_early.png'), ('early_position', [-0.3, 0]), ('late_position', [0.3, 0])]), OrderedDict([('No', 46), ('Category', 'Month'), ('earlier_stim', 'March'), ('later_stim', 'February'), ('distance', 1), ('congruency', 'incongruent'), ('orientation', 'Hori'), ('instruction', 'early'), ('corr_resp', 'right'), ('Instruction_stim', 'image/Eng_early.png'), ('early_position', [-0.3, 0]), ('late_position', [0.3, 0])]), OrderedDict([('No', 11), ('Category', 'Month'), ('earlier_stim', 'January'), ('later_stim', 'March'), ('distance', 2), ('congruency', 'congruent'), ('orientation', 'Hori'), ('instruction', 'late'), ('corr_resp', 'right'), ('Instruction_stim', 'image/Eng_late.png'), ('early_position', [-0.3, 0]), ('late_position', [0.3, 0])]), OrderedDict([('No', 70), ('Category', 'Month'), ('earlier_stim', 'October '), ('later_stim', 'July'), ('distance', 3), ('congruency', 'incongruent'), ('orientation', 'Vert'), ('instruction', 'late'), ('corr_resp', 'up'), ('Instruction_stim', 'image/Eng_late.png'), ('early_position', [0, 0.3]), ('late_position', [0, -0.3])]), OrderedDict([('No', 111), ('Category', 'Week'), ('earlier_stim', 'Monday'), ('later_stim', 'Wednesday\xa0'), ('distance', 2), ('congruency', 'congruent'), ('orientation', 'Vert'), ('instruction', 'early'), ('corr_resp', 'up'), ('Instruction_stim', 'image/Eng_early.png'), ('early_position', [0, 0.3]), ('late_position', [0, -0.3])]), OrderedDict([('No', 31), ('Category', 'Month'), ('earlier_stim', 'July'), ('later_stim', 'November '), ('distance', 4), ('congruency', 'congruent'), ('orientation', 'Vert'), ('instruction', 'late'), ('corr_resp', 'down'), ('Instruction_stim', 'image/Eng_late.png'), ('early_position', [0, 0.3]), ('late_position', [0, -0.3])]), OrderedDict([('No', 19), ('Category', 'Month'), ('earlier_stim', 'January'), ('later_stim', 'April'), ('distance', 3), ('congruency', 'congruent'), ('orientation', 'Vert'), ('instruction', 'early'), ('corr_resp', 'up'), ('Instruction_stim', 'image/Eng_early.png'), ('early_position', [0, 0.3]), ('late_position', [0, -0.3])]), OrderedDict([('No', 20), ('Category', 'Month'), ('earlier_stim', 'April'), ('later_stim', 'August'), ('distance', 4), ('congruency', 'congruent'), ('orientation', 'Vert'), ('instruction', 'early'), ('corr_resp', 'up'), ('Instruction_stim', 'image/Eng_early.png'), ('early_position', [0, 0.3]), ('late_position', [0, -0.3])]), OrderedDict([('No', 41), ('Category', 'Month'), ('earlier_stim', 'August'), ('later_stim', 'September '), ('distance', 1), ('congruency', 'congruent'), ('orientation', 'Vert'), ('instruction', 'late'), ('corr_resp', 'down'), ('Instruction_stim', 'image/Eng_late.png'), ('early_position', [0, 0.3]), ('late_position', [0, -0.3])]), OrderedDict([('No', 34), ('Category', 'Month'), ('earlier_stim', 'April'), ('later_stim', 'June'), ('distance', 2), ('congruency', 'congruent'), ('orientation', 'Vert'), ('instruction', 'late'), ('corr_resp', 'down'), ('Instruction_stim', 'image/Eng_late.png'), ('early_position', [0, 0.3]), ('late_position', [0, -0.3])]), OrderedDict([('No', 53), ('Category', 'Month'), ('earlier_stim', 'September '), ('later_stim', 'May'), ('distance', 4), ('congruency', 'incongruent'), ('orientation', 'Vert'), ('instruction', 'early'), ('corr_resp', 'down'), ('Instruction_stim', 'image/Eng_early.png'), ('early_position', [0, 0.3]), ('late_position', [0, -0.3])]), OrderedDict([('No', 39), ('Category', 'Month'), ('earlier_stim', 'September '), ('later_stim', 'November '), ('distance', 2), ('congruency', 'congruent'), ('orientation', 'Vert'), ('instruction', 'late'), ('corr_resp', 'down'), ('Instruction_stim', 'image/Eng_late.png'), ('early_position', [0, 0.3]), ('late_position', [0, -0.3])]), OrderedDict([('No', 114), ('Category', 'Week'), ('earlier_stim', 'Thursday'), ('later_stim', 'Friday'), ('distance', 1), ('congruency', 'congruent'), ('orientation', 'Vert'), ('instruction', 'early'), ('corr_resp', 'up'), ('Instruction_stim', 'image/Eng_early.png'), ('early_position', [0, 0.3]), ('late_position', [0, -0.3])]), OrderedDict([('No', 68), ('Category', 'Month'), ('earlier_stim', 'October '), ('later_stim', 'August'), ('distance', 2), ('congruency', 'incongruent'), ('orientation', 'Vert'), ('instruction', 'early'), ('corr_resp', 'down'), ('Instruction_stim', 'image/Eng_early.png'), ('early_position', [0, 0.3]), ('late_position', [0, -0.3])]), OrderedDict([('No', 1), ('Category', 'Month'), ('earlier_stim', 'January'), ('later_stim', 'May'), ('distance', 4), ('congruency', 'congruent'), ('orientation', 'Hori'), ('instruction', 'early'), ('corr_resp', 'left'), ('Instruction_stim', 'image/Eng_early.png'), ('early_position', [-0.3, 0]), ('late_position', [0.3, 0])]), OrderedDict([('No', 14), ('Category', 'Month'), ('earlier_stim', 'April'), ('later_stim', 'June'), ('distance', 2), ('congruency', 'congruent'), ('orientation', 'Hori'), ('instruction', 'late'), ('corr_resp', 'right'), ('Instruction_stim', 'image/Eng_late.png'), ('early_position', [-0.3, 0]), ('late_position', [0.3, 0])]), OrderedDict([('No', 21), ('Category', 'Month'), ('earlier_stim', 'May'), ('later_stim', 'September '), ('distance', 4), ('congruency', 'congruent'), ('orientation', 'Vert'), ('instruction', 'early'), ('corr_resp', 'up'), ('Instruction_stim', 'image/Eng_early.png'), ('early_position', [0, 0.3]), ('late_position', [0, -0.3])]), OrderedDict([('No', 39), ('Category', 'Month'), ('earlier_stim', 'June'), ('later_stim', 'March'), ('distance', 3), ('congruency', 'incongruent'), ('orientation', 'Hori'), ('instruction', 'early'), ('corr_resp', 'right'), ('Instruction_stim', 'image/Eng_early.png'), ('early_position', [-0.3, 0]), ('late_position', [0.3, 0])]), OrderedDict([('No', 11), ('Category', 'Month'), ('earlier_stim', 'March'), ('later_stim', 'July'), ('distance', 4), ('congruency', 'congruent'), ('orientation', 'Hori'), ('instruction', 'late'), ('corr_resp', 'right'), ('Instruction_stim', 'image/Eng_late.png'), ('early_position', [-0.3, 0]), ('late_position', [0.3, 0])]), OrderedDict([('No', 58), ('Category', 'Month'), ('earlier_stim', 'April'), ('later_stim', 'March'), ('distance', 1), ('congruency', 'incongruent'), ('orientation', 'Hori'), ('instruction', 'late'), ('corr_resp', 'left'), ('Instruction_stim', 'image/Eng_late.png'), ('early_position', [-0.3, 0]), ('late_position', [0.3, 0])]), OrderedDict([('No', 143), ('Category', 'Week'), ('earlier_stim', 'Sunday'), ('later_stim', 'Friday'), ('distance', 2), ('congruency', 'incongruent'), ('orientation', 'Vert'), ('instruction', 'early'), ('corr_resp', 'down'), ('Instruction_stim', 'image/Eng_early.png'), ('early_position', [0, 0.3]), ('late_position', [0, -0.3])]), OrderedDict([('No', 58), ('Category', 'Month'), ('earlier_stim', 'June'), ('later_stim', 'February'), ('distance', 4), ('congruency', 'incongruent'), ('orientation', 'Vert'), ('instruction', 'late'), ('corr_resp', 'up'), ('Instruction_stim', 'image/Eng_late.png'), ('early_position', [0, 0.3]), ('late_position', [0, -0.3])]), OrderedDict([('No', 84), ('Category', 'Month'), ('earlier_stim', 'August'), ('later_stim', 'July'), ('distance', 1), ('congruency', 'incongruent'), ('orientation', 'Vert'), ('instruction', 'late'), ('corr_resp', 'up'), ('Instruction_stim', 'image/Eng_late.png'), ('early_position', [0, 0.3]), ('late_position', [0, -0.3])]), OrderedDict([('No', 55), ('Category', 'Month'), ('earlier_stim', 'April'), ('later_stim', 'January'), ('distance', 3), ('congruency', 'incongruent'), ('orientation', 'Vert'), ('instruction', 'early'), ('corr_resp', 'down'), ('Instruction_stim', 'image/Eng_early.png'), ('early_position', [0, 0.3]), ('late_position', [0, -0.3])]), OrderedDict([('No', 65), ('Category', 'Month'), ('earlier_stim', 'May'), ('later_stim', 'February'), ('distance', 3), ('congruency', 'incongruent'), ('orientation', 'Vert'), ('instruction', 'late'), ('corr_resp', 'up'), ('Instruction_stim', 'image/Eng_late.png'), ('early_position', [0, 0.3]), ('late_position', [0, -0.3])]), OrderedDict([('No', 29), ('Category', 'Month'), ('earlier_stim', 'February'), ('later_stim', 'May'), ('distance', 3), ('congruency', 'congruent'), ('orientation', 'Vert'), ('instruction', 'late'), ('corr_resp', 'down'), ('Instruction_stim', 'image/Eng_late.png'), ('early_position', [0, 0.3]), ('late_position', [0, -0.3])]), OrderedDict([('No', 126), ('Category', 'Week'), ('earlier_stim', 'Wednesday\xa0'), ('later_stim', 'Tuesday'), ('distance', 1), ('congruency', 'incongruent'), ('orientation', 'Hori'), ('instruction', 'early'), ('corr_resp', 'right'), ('Instruction_stim', 'image/Eng_early.png'), ('early_position', [-0.3, 0]), ('late_position', [0.3, 0])]), OrderedDict([('No', 41), ('Category', 'Month'), ('earlier_stim', 'March'), ('later_stim', 'January'), ('distance', 2), ('congruency', 'incongruent'), ('orientation', 'Hori'), ('instruction', 'early'), ('corr_resp', 'right'), ('Instruction_stim', 'image/Eng_early.png'), ('early_position', [-0.3, 0]), ('late_position', [0.3, 0])]), OrderedDict([('No', 76), ('Category', 'Month'), ('earlier_stim', 'November '), ('later_stim', 'October '), ('distance', 1), ('congruency', 'incongruent'), ('orientation', 'Vert'), ('instruction', 'early'), ('corr_resp', 'down'), ('Instruction_stim', 'image/Eng_early.png'), ('early_position', [0, 0.3]), ('late_position', [0, -0.3])]), OrderedDict([('No', 54), ('Category', 'Month'), ('earlier_stim', 'December'), ('later_stim', 'September '), ('distance', 3), ('congruency', 'incongruent'), ('orientation', 'Hori'), ('instruction', 'late'), ('corr_resp', 'left'), ('Instruction_stim', 'image/Eng_late.png'), ('early_position', [-0.3, 0]), ('late_position', [0.3, 0])]), OrderedDict([('No', 11), ('Category', 'Month'), ('earlier_stim', 'November '), ('later_stim', 'December'), ('distance', 1), ('congruency', 'congruent'), ('orientation', 'Hori'), ('instruction', 'early'), ('corr_resp', 'left'), ('Instruction_stim', 'image/Eng_early.png'), ('early_position', [-0.3, 0]), ('late_position', [0.3, 0])]), OrderedDict([('No', 46), ('Category', 'Month'), ('earlier_stim', 'April'), ('later_stim', 'January'), ('distance', 3), ('congruency', 'incongruent'), ('orientation', 'Hori'), ('instruction', 'late'), ('corr_resp', 'left'), ('Instruction_stim', 'image/Eng_late.png'), ('early_position', [-0.3, 0]), ('late_position', [0.3, 0])]), OrderedDict([('No', 38), ('Category', 'Month'), ('earlier_stim', 'May'), ('later_stim', 'June'), ('distance', 1), ('congruency', 'congruent'), ('orientation', 'Vert'), ('instruction', 'late'), ('corr_resp', 'down'), ('Instruction_stim', 'image/Eng_late.png'), ('early_position', [0, 0.3]), ('late_position', [0, -0.3])]), OrderedDict([('No', 136), ('Category', 'Week'), ('earlier_stim', 'Sunday'), ('later_stim', 'Friday'), ('distance', 2), ('congruency', 'incongruent'), ('orientation', 'Hori'), ('instruction', 'late'), ('corr_resp', 'left'), ('Instruction_stim', 'image/Eng_late.png'), ('early_position', [-0.3, 0]), ('late_position', [0.3, 0])]), OrderedDict([('No', 10), ('Category', 'Month'), ('earlier_stim', 'October '), ('later_stim', 'December'), ('distance', 2), ('congruency', 'congruent'), ('orientation', 'Hori'), ('instruction', 'early'), ('corr_resp', 'left'), ('Instruction_stim', 'image/Eng_early.png'), ('early_position', [-0.3, 0]), ('late_position', [0.3, 0])]), OrderedDict([('No', 4), ('Category', 'Month'), ('earlier_stim', 'April'), ('later_stim', 'July'), ('distance', 3), ('congruency', 'congruent'), ('orientation', 'Hori'), ('instruction', 'early'), ('corr_resp', 'left'), ('Instruction_stim', 'image/Eng_early.png'), ('early_position', [-0.3, 0]), ('late_position', [0.3, 0])]), OrderedDict([('No', 79), ('Category', 'Month'), ('earlier_stim', 'March'), ('later_stim', 'February'), ('distance', 1), ('congruency', 'incongruent'), ('orientation', 'Vert'), ('instruction', 'late'), ('corr_resp', 'up'), ('Instruction_stim', 'image/Eng_late.png'), ('early_position', [0, 0.3]), ('late_position', [0, -0.3])]), OrderedDict([('No', 47), ('Category', 'Month'), ('earlier_stim', 'September '), ('later_stim', 'July'), ('distance', 2), ('congruency', 'incongruent'), ('orientation', 'Hori'), ('instruction', 'early'), ('corr_resp', 'right'), ('Instruction_stim', 'image/Eng_early.png'), ('early_position', [-0.3, 0]), ('late_position', [0.3, 0])]), OrderedDict([('No', 139), ('Category', 'Week'), ('earlier_stim', 'Thursday'), ('later_stim', 'Monday'), ('distance', 3), ('congruency', 'incongruent'), ('orientation', 'Vert'), ('instruction', 'early'), ('corr_resp', 'down'), ('Instruction_stim', 'image/Eng_early.png'), ('early_position', [0, 0.3]), ('late_position', [0, -0.3])]), OrderedDict([('No', 55), ('Category', 'Month'), ('earlier_stim', 'July'), ('later_stim', 'May'), ('distance', 2), ('congruency', 'incongruent'), ('orientation', 'Hori'), ('instruction', 'late'), ('corr_resp', 'left'), ('Instruction_stim', 'image/Eng_late.png'), ('early_position', [-0.3, 0]), ('late_position', [0.3, 0])]), OrderedDict([('No', 43), ('Category', 'Month'), ('earlier_stim', 'July'), ('later_stim', 'March'), ('distance', 4), ('congruency', 'incongruent'), ('orientation', 'Hori'), ('instruction', 'late'), ('corr_resp', 'left'), ('Instruction_stim', 'image/Eng_late.png'), ('early_position', [-0.3, 0]), ('late_position', [0.3, 0])]), OrderedDict([('No', 2), ('Category', 'Month'), ('earlier_stim', 'February'), ('later_stim', 'April'), ('distance', 2), ('congruency', 'congruent'), ('orientation', 'Hori'), ('instruction', 'early'), ('corr_resp', 'left'), ('Instruction_stim', 'image/Eng_early.png'), ('early_position', [-0.3, 0]), ('late_position', [0.3, 0])]), OrderedDict([('No', 126), ('Category', 'Week'), ('earlier_stim', 'Thursday'), ('later_stim', 'Tuesday'), ('distance', 2), ('congruency', 'incongruent'), ('orientation', 'Hori'), ('instruction', 'early'), ('corr_resp', 'right'), ('Instruction_stim', 'image/Eng_early.png'), ('early_position', [-0.3, 0]), ('late_position', [0.3, 0])]), OrderedDict([('No', 7), ('Category', 'Month'), ('earlier_stim', 'July'), ('later_stim', 'November '), ('distance', 4), ('congruency', 'congruent'), ('orientation', 'Hori'), ('instruction', 'early'), ('corr_resp', 'left'), ('Instruction_stim', 'image/Eng_early.png'), ('early_position', [-0.3, 0]), ('late_position', [0.3, 0])]), OrderedDict([('No', 50), ('Category', 'Month'), ('earlier_stim', 'July'), ('later_stim', 'June'), ('distance', 1), ('congruency', 'incongruent'), ('orientation', 'Hori'), ('instruction', 'early'), ('corr_resp', 'right'), ('Instruction_stim', 'image/Eng_early.png'), ('early_position', [-0.3, 0]), ('late_position', [0.3, 0])]), OrderedDict([('No', 24), ('Category', 'Month'), ('earlier_stim', 'April'), ('later_stim', 'June'), ('distance', 2), ('congruency', 'congruent'), ('orientation', 'Vert'), ('instruction', 'early'), ('corr_resp', 'up'), ('Instruction_stim', 'image/Eng_early.png'), ('early_position', [0, 0.3]), ('late_position', [0, -0.3])]), OrderedDict([('No', 13), ('Category', 'Month'), ('earlier_stim', 'February'), ('later_stim', 'March'), ('distance', 1), ('congruency', 'congruent'), ('orientation', 'Hori'), ('instruction', 'late'), ('corr_resp', 'right'), ('Instruction_stim', 'image/Eng_late.png'), ('early_position', [-0.3, 0]), ('late_position', [0.3, 0])])]" valType="str"/>
+      <Param name="conditionsFile" updates="None" val="blocks/Block 2.csv" valType="file"/>
+      <Param name="endPoints" updates="None" val="[0, 1]" valType="num"/>
+      <Param name="isTrials" updates="None" val="True" valType="bool"/>
+      <Param name="loopType" updates="None" val="random" valType="str"/>
+      <Param name="nReps" updates="None" val="1" valType="num"/>
+      <Param name="name" updates="None" val="block2" valType="code"/>
+      <Param name="random seed" updates="None" val="" valType="code"/>
+    </LoopInitiator>
+    <Routine name="block"/>
+    <LoopTerminator name="block2"/>
+    <LoopInitiator loopType="TrialHandler" name="break2">
+      <Param name="Selected rows" updates="None" val="0:8" valType="str"/>
+      <Param name="conditions" updates="None" val="[{'Image': 'Spring 1.jpg', 'Qustion': 'Is this Spring?', 'Response': 'Yes', 'CorrAns': 'Left', 'Path': 'Break_material/Image/Spring 1.jpg'}, {'Image': 'Spring 2.jpg', 'Qustion': 'Is this Winter?', 'Response': 'No', 'CorrAns': 'Right', 'Path': 'Break_material/Image/Spring 2.jpg'}, {'Image': 'Spring 3.jpg', 'Qustion': 'Is this Summer?', 'Response': 'No', 'CorrAns': 'Right', 'Path': 'Break_material/Image/Spring 3.jpg'}, {'Image': 'Spring 4.jpg', 'Qustion': 'Is this Autumn?', 'Response': 'No', 'CorrAns': 'Right', 'Path': 'Break_material/Image/Spring 4.jpg'}, {'Image': 'Spring 5.jpg', 'Qustion': 'Is this Winter?', 'Response': 'No', 'CorrAns': 'Right', 'Path': 'Break_material/Image/Spring 5.jpg'}, {'Image': 'Spring 6.jpg', 'Qustion': 'Is this Spring?', 'Response': 'Yes', 'CorrAns': 'Left', 'Path': 'Break_material/Image/Spring 6.jpg'}, {'Image': 'Summer 1.jpg', 'Qustion': 'Is this Autumn?', 'Response': 'No', 'CorrAns': 'Right', 'Path': 'Break_material/Image/Summer 1.jpg'}, {'Image': 'Summer 2.jpg', 'Qustion': 'Is this Summer?', 'Response': 'Yes', 'CorrAns': 'Left', 'Path': 'Break_material/Image/Summer 2.jpg'}, {'Image': 'Summer 3.jpg', 'Qustion': 'Is this Autumn?', 'Response': 'No', 'CorrAns': 'Right', 'Path': 'Break_material/Image/Summer 3.jpg'}, {'Image': 'Summer 4.jpg', 'Qustion': 'Is this Spring?', 'Response': 'No', 'CorrAns': 'Right', 'Path': 'Break_material/Image/Summer 4.jpg'}, {'Image': 'Summer 5.jpg', 'Qustion': 'Is this Summer?', 'Response': 'Yes', 'CorrAns': 'Left', 'Path': 'Break_material/Image/Summer 5.jpg'}, {'Image': 'Summer 6.jpg', 'Qustion': 'Is this Winter?', 'Response': 'No', 'CorrAns': 'Right', 'Path': 'Break_material/Image/Summer 6.jpg'}, {'Image': 'Autumn 1.jpg', 'Qustion': 'Is this Winter?', 'Response': 'No', 'CorrAns': 'Right', 'Path': 'Break_material/Image/Autumn 1.jpg'}, {'Image': 'Autumn 2.jpg', 'Qustion': 'Is this Winter?', 'Response': 'No', 'CorrAns': 'Right', 'Path': 'Break_material/Image/Autumn 2.jpg'}, {'Image': 'Autumn 3.jpg', 'Qustion': 'Is this Autumn?', 'Response': 'Yes', 'CorrAns': 'Left', 'Path': 'Break_material/Image/Autumn 3.jpg'}, {'Image': 'Autumn 4.jpg', 'Qustion': 'Is this Winter?', 'Response': 'No', 'CorrAns': 'Right', 'Path': 'Break_material/Image/Autumn 4.jpg'}, {'Image': 'Autumn 5.jpg', 'Qustion': 'Is this Spring?', 'Response': 'No', 'CorrAns': 'Right', 'Path': 'Break_material/Image/Autumn 5.jpg'}, {'Image': 'Autumn 6.jpg', 'Qustion': 'Is this Autumn?', 'Response': 'Yes', 'CorrAns': 'Left', 'Path': 'Break_material/Image/Autumn 6.jpg'}, {'Image': 'Winter 1.jpg', 'Qustion': 'Is this Summer?', 'Response': 'No', 'CorrAns': 'Right', 'Path': 'Break_material/Image/Winter 1.jpg'}, {'Image': 'Winter 2.jpg', 'Qustion': 'Is this Winter?', 'Response': 'Yes', 'CorrAns': 'Left', 'Path': 'Break_material/Image/Winter 2.jpg'}, {'Image': 'Winter 3.jpg', 'Qustion': 'Is this Spring?', 'Response': 'No', 'CorrAns': 'Right', 'Path': 'Break_material/Image/Winter 3.jpg'}, {'Image': 'Winter 4.jpg', 'Qustion': 'Is this Summer?', 'Response': 'No', 'CorrAns': 'Right', 'Path': 'Break_material/Image/Winter 4.jpg'}, {'Image': 'Winter 5.jpg', 'Qustion': 'Is this Autumn?', 'Response': 'No', 'CorrAns': 'Right', 'Path': 'Break_material/Image/Winter 5.jpg'}, {'Image': 'Winter 6.jpg', 'Qustion': 'Is this Spring?', 'Response': 'No', 'CorrAns': 'Right', 'Path': 'Break_material/Image/Winter 5.jpg'}]" valType="str"/>
+      <Param name="conditionsFile" updates="None" val="Break_material/Break_eng.xlsx" valType="file"/>
+      <Param name="endPoints" updates="None" val="[0, 1]" valType="num"/>
+      <Param name="isTrials" updates="None" val="True" valType="bool"/>
+      <Param name="loopType" updates="None" val="random" valType="str"/>
+      <Param name="nReps" updates="None" val="1" valType="num"/>
+      <Param name="name" updates="None" val="break2" valType="code"/>
+      <Param name="random seed" updates="None" val="" valType="code"/>
+    </LoopInitiator>
+    <Routine name="break_2"/>
+    <LoopTerminator name="break2"/>
+    <LoopInitiator loopType="TrialHandler" name="block3">
+      <Param name="Selected rows" updates="None" val="" valType="str"/>
+      <Param name="conditions" updates="None" val="[OrderedDict([('No', 54), ('Category', 'Month'), ('earlier_stim', 'June'), ('later_stim', 'April'), ('distance', 2), ('congruency', 'incongruent'), ('orientation', 'Hori'), ('instruction', 'late'), ('corr_resp', 'left'), ('Instruction_stim', 'image/Eng_late.png'), ('early_position', [-0.3, 0]), ('late_position', [0.3, 0])]), OrderedDict([('No', 69), ('Category', 'Month'), ('earlier_stim', 'November '), ('later_stim', 'September '), ('distance', 2), ('congruency', 'incongruent'), ('orientation', 'Vert'), ('instruction', 'early'), ('corr_resp', 'down'), ('Instruction_stim', 'image/Eng_early.png'), ('early_position', [0, 0.3]), ('late_position', [0, -0.3])]), OrderedDict([('No', 22), ('Category', 'Month'), ('earlier_stim', 'February'), ('later_stim', 'April'), ('distance', 2), ('congruency', 'congruent'), ('orientation', 'Vert'), ('instruction', 'early'), ('corr_resp', 'up'), ('Instruction_stim', 'image/Eng_early.png'), ('early_position', [0, 0.3]), ('late_position', [0, -0.3])]), OrderedDict([('No', 15), ('Category', 'Month'), ('earlier_stim', 'July'), ('later_stim', 'November '), ('distance', 4), ('congruency', 'congruent'), ('orientation', 'Hori'), ('instruction', 'late'), ('corr_resp', 'right'), ('Instruction_stim', 'image/Eng_late.png'), ('early_position', [-0.3, 0]), ('late_position', [0.3, 0])]), OrderedDict([('No', 127), ('Category', 'Week'), ('earlier_stim', 'Thursday'), ('later_stim', 'Wednesday\xa0'), ('distance', 1), ('congruency', 'incongruent'), ('orientation', 'Hori'), ('instruction', 'early'), ('corr_resp', 'right'), ('Instruction_stim', 'image/Eng_early.png'), ('early_position', [-0.3, 0]), ('late_position', [0.3, 0])]), OrderedDict([('No', 28), ('Category', 'Month'), ('earlier_stim', 'August'), ('later_stim', 'October '), ('distance', 2), ('congruency', 'congruent'), ('orientation', 'Vert'), ('instruction', 'early'), ('corr_resp', 'up'), ('Instruction_stim', 'image/Eng_early.png'), ('early_position', [0, 0.3]), ('late_position', [0, -0.3])]), OrderedDict([('No', 63), ('Category', 'Month'), ('earlier_stim', 'December'), ('later_stim', 'September '), ('distance', 3), ('congruency', 'incongruent'), ('orientation', 'Vert'), ('instruction', 'early'), ('corr_resp', 'down'), ('Instruction_stim', 'image/Eng_early.png'), ('early_position', [0, 0.3]), ('late_position', [0, -0.3])]), OrderedDict([('No', 38), ('Category', 'Month'), ('earlier_stim', 'August'), ('later_stim', 'October '), ('distance', 2), ('congruency', 'congruent'), ('orientation', 'Vert'), ('instruction', 'late'), ('corr_resp', 'down'), ('Instruction_stim', 'image/Eng_late.png'), ('early_position', [0, 0.3]), ('late_position', [0, -0.3])]), OrderedDict([('No', 73), ('Category', 'Month'), ('earlier_stim', 'August'), ('later_stim', 'July'), ('distance', 1), ('congruency', 'incongruent'), ('orientation', 'Vert'), ('instruction', 'early'), ('corr_resp', 'down'), ('Instruction_stim', 'image/Eng_early.png'), ('early_position', [0, 0.3]), ('late_position', [0, -0.3])]), OrderedDict([('No', 42), ('Category', 'Month'), ('earlier_stim', 'September '), ('later_stim', 'October '), ('distance', 1), ('congruency', 'congruent'), ('orientation', 'Vert'), ('instruction', 'late'), ('corr_resp', 'down'), ('Instruction_stim', 'image/Eng_late.png'), ('early_position', [0, 0.3]), ('late_position', [0, -0.3])]), OrderedDict([('No', 25), ('Category', 'Month'), ('earlier_stim', 'January'), ('later_stim', 'May'), ('distance', 4), ('congruency', 'congruent'), ('orientation', 'Vert'), ('instruction', 'late'), ('corr_resp', 'down'), ('Instruction_stim', 'image/Eng_late.png'), ('early_position', [0, 0.3]), ('late_position', [0, -0.3])]), OrderedDict([('No', 15), ('Category', 'Month'), ('earlier_stim', 'June'), ('later_stim', 'September '), ('distance', 3), ('congruency', 'congruent'), ('orientation', 'Hori'), ('instruction', 'late'), ('corr_resp', 'right'), ('Instruction_stim', 'image/Eng_late.png'), ('early_position', [-0.3, 0]), ('late_position', [0.3, 0])]), OrderedDict([('No', 97), ('Category', 'Week'), ('earlier_stim', 'Monday'), ('later_stim', 'Thursday'), ('distance', 3), ('congruency', 'congruent'), ('orientation', 'Hori'), ('instruction', 'early'), ('corr_resp', 'left'), ('Instruction_stim', 'image/Eng_early.png'), ('early_position', [-0.3, 0]), ('late_position', [0.3, 0])]), OrderedDict([('No', 67), ('Category', 'Month'), ('earlier_stim', 'February '), ('later_stim', 'January'), ('distance', 1), ('congruency', 'incongruent'), ('orientation', 'Vert'), ('instruction', 'early'), ('corr_resp', 'down'), ('Instruction_stim', 'image/Eng_early.png'), ('early_position', [0, 0.3]), ('late_position', [0, -0.3])]), OrderedDict([('No', 49), ('Category', 'Month'), ('earlier_stim', 'July'), ('later_stim', 'April'), ('distance', 3), ('congruency', 'incongruent'), ('orientation', 'Hori'), ('instruction', 'late'), ('corr_resp', 'left'), ('Instruction_stim', 'image/Eng_late.png'), ('early_position', [-0.3, 0]), ('late_position', [0.3, 0])]), OrderedDict([('No', 52), ('Category', 'Month'), ('earlier_stim', 'October '), ('later_stim', 'July'), ('distance', 3), ('congruency', 'incongruent'), ('orientation', 'Hori'), ('instruction', 'late'), ('corr_resp', 'left'), ('Instruction_stim', 'image/Eng_late.png'), ('early_position', [-0.3, 0]), ('late_position', [0.3, 0])]), OrderedDict([('No', 59), ('Category', 'Month'), ('earlier_stim', 'July'), ('later_stim', 'March'), ('distance', 4), ('congruency', 'incongruent'), ('orientation', 'Vert'), ('instruction', 'late'), ('corr_resp', 'up'), ('Instruction_stim', 'image/Eng_late.png'), ('early_position', [0, 0.3]), ('late_position', [0, -0.3])]), OrderedDict([('No', 77), ('Category', 'Month'), ('earlier_stim', 'September '), ('later_stim', 'July'), ('distance', 2), ('congruency', 'incongruent'), ('orientation', 'Vert'), ('instruction', 'late'), ('corr_resp', 'up'), ('Instruction_stim', 'image/Eng_late.png'), ('early_position', [0, 0.3]), ('late_position', [0, -0.3])]), OrderedDict([('No', 1), ('Category', 'Month'), ('earlier_stim', 'January'), ('later_stim', 'April'), ('distance', 3), ('congruency', 'congruent'), ('orientation', 'Hori'), ('instruction', 'early'), ('corr_resp', 'left'), ('Instruction_stim', 'image/Eng_early.png'), ('early_position', [-0.3, 0]), ('late_position', [0.3, 0])]), OrderedDict([('No', 26), ('Category', 'Month'), ('earlier_stim', 'June'), ('later_stim', 'August'), ('distance', 2), ('congruency', 'congruent'), ('orientation', 'Vert'), ('instruction', 'early'), ('corr_resp', 'up'), ('Instruction_stim', 'image/Eng_early.png'), ('early_position', [0, 0.3]), ('late_position', [0, -0.3])]), OrderedDict([('No', 34), ('Category', 'Month'), ('earlier_stim', 'July'), ('later_stim', 'October '), ('distance', 3), ('congruency', 'congruent'), ('orientation', 'Vert'), ('instruction', 'late'), ('corr_resp', 'down'), ('Instruction_stim', 'image/Eng_late.png'), ('early_position', [0, 0.3]), ('late_position', [0, -0.3])]), OrderedDict([('No', 120), ('Category', 'Week'), ('earlier_stim', 'Wednesday\xa0'), ('later_stim', 'Thursday'), ('distance', 1), ('congruency', 'congruent'), ('orientation', 'Vert'), ('instruction', 'late'), ('corr_resp', 'down'), ('Instruction_stim', 'image/Eng_late.png'), ('early_position', [0, 0.3]), ('late_position', [0, -0.3])]), OrderedDict([('No', 65), ('Category', 'Month'), ('earlier_stim', 'July'), ('later_stim', 'May'), ('distance', 2), ('congruency', 'incongruent'), ('orientation', 'Vert'), ('instruction', 'early'), ('corr_resp', 'down'), ('Instruction_stim', 'image/Eng_early.png'), ('early_position', [0, 0.3]), ('late_position', [0, -0.3])]), OrderedDict([('No', 28), ('Category', 'Month'), ('earlier_stim', 'January'), ('later_stim', 'April'), ('distance', 3), ('congruency', 'congruent'), ('orientation', 'Vert'), ('instruction', 'late'), ('corr_resp', 'down'), ('Instruction_stim', 'image/Eng_late.png'), ('early_position', [0, 0.3]), ('late_position', [0, -0.3])]), OrderedDict([('No', 35), ('Category', 'Month'), ('earlier_stim', 'May'), ('later_stim', 'July'), ('distance', 2), ('congruency', 'congruent'), ('orientation', 'Vert'), ('instruction', 'late'), ('corr_resp', 'down'), ('Instruction_stim', 'image/Eng_late.png'), ('early_position', [0, 0.3]), ('late_position', [0, -0.3])]), OrderedDict([('No', 141), ('Category', 'Week'), ('earlier_stim', 'Thursday'), ('later_stim', 'Wednesday\xa0'), ('distance', 1), ('congruency', 'incongruent'), ('orientation', 'Vert'), ('instruction', 'early'), ('corr_resp', 'down'), ('Instruction_stim', 'image/Eng_early.png'), ('early_position', [0, 0.3]), ('late_position', [0, -0.3])]), OrderedDict([('No', 19), ('Category', 'Month'), ('earlier_stim', 'August'), ('later_stim', 'September '), ('distance', 1), ('congruency', 'congruent'), ('orientation', 'Hori'), ('instruction', 'late'), ('corr_resp', 'right'), ('Instruction_stim', 'image/Eng_late.png'), ('early_position', [-0.3, 0]), ('late_position', [0.3, 0])]), OrderedDict([('No', 85), ('Category', 'Month'), ('earlier_stim', 'September '), ('later_stim', 'August'), ('distance', 1), ('congruency', 'incongruent'), ('orientation', 'Vert'), ('instruction', 'late'), ('corr_resp', 'up'), ('Instruction_stim', 'image/Eng_late.png'), ('early_position', [0, 0.3]), ('late_position', [0, -0.3])]), OrderedDict([('No', 107), ('Category', 'Week'), ('earlier_stim', 'Thursday'), ('later_stim', 'Saturday'), ('distance', 2), ('congruency', 'congruent'), ('orientation', 'Hori'), ('instruction', 'late'), ('corr_resp', 'right'), ('Instruction_stim', 'image/Eng_late.png'), ('early_position', [-0.3, 0]), ('late_position', [0.3, 0])]), OrderedDict([('No', 6), ('Category', 'Month'), ('earlier_stim', 'June'), ('later_stim', 'August'), ('distance', 2), ('congruency', 'congruent'), ('orientation', 'Hori'), ('instruction', 'early'), ('corr_resp', 'left'), ('Instruction_stim', 'image/Eng_early.png'), ('early_position', [-0.3, 0]), ('late_position', [0.3, 0])]), OrderedDict([('No', 40), ('Category', 'Month'), ('earlier_stim', 'July'), ('later_stim', 'August'), ('distance', 1), ('congruency', 'congruent'), ('orientation', 'Vert'), ('instruction', 'late'), ('corr_resp', 'down'), ('Instruction_stim', 'image/Eng_late.png'), ('early_position', [0, 0.3]), ('late_position', [0, -0.3])]), OrderedDict([('No', 82), ('Category', 'Month'), ('earlier_stim', 'June'), ('later_stim', 'May'), ('distance', 1), ('congruency', 'incongruent'), ('orientation', 'Vert'), ('instruction', 'late'), ('corr_resp', 'up'), ('Instruction_stim', 'image/Eng_late.png'), ('early_position', [0, 0.3]), ('late_position', [0, -0.3])]), OrderedDict([('No', 10), ('Category', 'Month'), ('earlier_stim', 'February'), ('later_stim', 'June'), ('distance', 4), ('congruency', 'congruent'), ('orientation', 'Hori'), ('instruction', 'late'), ('corr_resp', 'right'), ('Instruction_stim', 'image/Eng_late.png'), ('early_position', [-0.3, 0]), ('late_position', [0.3, 0])]), OrderedDict([('No', 3), ('Category', 'Month'), ('earlier_stim', 'March'), ('later_stim', 'July'), ('distance', 4), ('congruency', 'congruent'), ('orientation', 'Hori'), ('instruction', 'early'), ('corr_resp', 'left'), ('Instruction_stim', 'image/Eng_early.png'), ('early_position', [-0.3, 0]), ('late_position', [0.3, 0])]), OrderedDict([('No', 58), ('Category', 'Month'), ('earlier_stim', 'October '), ('later_stim', 'August'), ('distance', 2), ('congruency', 'incongruent'), ('orientation', 'Hori'), ('instruction', 'late'), ('corr_resp', 'left'), ('Instruction_stim', 'image/Eng_late.png'), ('early_position', [-0.3, 0]), ('late_position', [0.3, 0])]), OrderedDict([('No', 102), ('Category', 'Week'), ('earlier_stim', 'Saturday'), ('later_stim', 'Sunday'), ('distance', 1), ('congruency', 'congruent'), ('orientation', 'Hori'), ('instruction', 'early'), ('corr_resp', 'left'), ('Instruction_stim', 'image/Eng_early.png'), ('early_position', [-0.3, 0]), ('late_position', [0.3, 0])]), OrderedDict([('No', 38), ('Category', 'Month'), ('earlier_stim', 'October '), ('later_stim', 'June'), ('distance', 4), ('congruency', 'incongruent'), ('orientation', 'Hori'), ('instruction', 'early'), ('corr_resp', 'right'), ('Instruction_stim', 'image/Eng_early.png'), ('early_position', [-0.3, 0]), ('late_position', [0.3, 0])]), OrderedDict([('No', 120), ('Category', 'Week'), ('earlier_stim', 'Wednesday\xa0'), ('later_stim', 'Saturday'), ('distance', 3), ('congruency', 'congruent'), ('orientation', 'Vert'), ('instruction', 'late'), ('corr_resp', 'down'), ('Instruction_stim', 'image/Eng_late.png'), ('early_position', [0, 0.3]), ('late_position', [0, -0.3])]), OrderedDict([('No', 27), ('Category', 'Month'), ('earlier_stim', 'May'), ('later_stim', 'June'), ('distance', 1), ('congruency', 'congruent'), ('orientation', 'Vert'), ('instruction', 'early'), ('corr_resp', 'up'), ('Instruction_stim', 'image/Eng_early.png'), ('early_position', [0, 0.3]), ('late_position', [0, -0.3])]), OrderedDict([('No', 61), ('Category', 'Month'), ('earlier_stim', 'October '), ('later_stim', 'July'), ('distance', 3), ('congruency', 'incongruent'), ('orientation', 'Vert'), ('instruction', 'early'), ('corr_resp', 'down'), ('Instruction_stim', 'image/Eng_early.png'), ('early_position', [0, 0.3]), ('late_position', [0, -0.3])]), OrderedDict([('No', 19), ('Category', 'Month'), ('earlier_stim', 'March'), ('later_stim', 'July'), ('distance', 4), ('congruency', 'congruent'), ('orientation', 'Vert'), ('instruction', 'early'), ('corr_resp', 'up'), ('Instruction_stim', 'image/Eng_early.png'), ('early_position', [0, 0.3]), ('late_position', [0, -0.3])]), OrderedDict([('No', 67), ('Category', 'Month'), ('earlier_stim', 'July'), ('later_stim', 'April'), ('distance', 3), ('congruency', 'incongruent'), ('orientation', 'Vert'), ('instruction', 'late'), ('corr_resp', 'up'), ('Instruction_stim', 'image/Eng_late.png'), ('early_position', [0, 0.3]), ('late_position', [0, -0.3])]), OrderedDict([('No', 123), ('Category', 'Week'), ('earlier_stim', 'Saturday'), ('later_stim', 'Sunday'), ('distance', 1), ('congruency', 'congruent'), ('orientation', 'Vert'), ('instruction', 'late'), ('corr_resp', 'down'), ('Instruction_stim', 'image/Eng_late.png'), ('early_position', [0, 0.3]), ('late_position', [0, -0.3])]), OrderedDict([('No', 2), ('Category', 'Month'), ('earlier_stim', 'February'), ('later_stim', 'May'), ('distance', 3), ('congruency', 'congruent'), ('orientation', 'Hori'), ('instruction', 'early'), ('corr_resp', 'left'), ('Instruction_stim', 'image/Eng_early.png'), ('early_position', [-0.3, 0]), ('late_position', [0.3, 0])]), OrderedDict([('No', 142), ('Category', 'Week'), ('earlier_stim', 'Saturday'), ('later_stim', 'Thursday'), ('distance', 2), ('congruency', 'incongruent'), ('orientation', 'Vert'), ('instruction', 'early'), ('corr_resp', 'down'), ('Instruction_stim', 'image/Eng_early.png'), ('early_position', [0, 0.3]), ('late_position', [0, -0.3])]), OrderedDict([('No', 116), ('Category', 'Week'), ('earlier_stim', 'Saturday'), ('later_stim', 'Sunday'), ('distance', 1), ('congruency', 'congruent'), ('orientation', 'Vert'), ('instruction', 'early'), ('corr_resp', 'up'), ('Instruction_stim', 'image/Eng_early.png'), ('early_position', [0, 0.3]), ('late_position', [0, -0.3])]), OrderedDict([('No', 14), ('Category', 'Month'), ('earlier_stim', 'March'), ('later_stim', 'April'), ('distance', 1), ('congruency', 'congruent'), ('orientation', 'Hori'), ('instruction', 'late'), ('corr_resp', 'right'), ('Instruction_stim', 'image/Eng_late.png'), ('early_position', [-0.3, 0]), ('late_position', [0.3, 0])]), OrderedDict([('No', 133), ('Category', 'Week'), ('earlier_stim', 'Wednesday\xa0'), ('later_stim', 'Tuesday'), ('distance', 1), ('congruency', 'incongruent'), ('orientation', 'Hori'), ('instruction', 'late'), ('corr_resp', 'left'), ('Instruction_stim', 'image/Eng_late.png'), ('early_position', [-0.3, 0]), ('late_position', [0.3, 0])]), OrderedDict([('No', 61), ('Category', 'Month'), ('earlier_stim', 'July'), ('later_stim', 'June'), ('distance', 1), ('congruency', 'incongruent'), ('orientation', 'Hori'), ('instruction', 'late'), ('corr_resp', 'left'), ('Instruction_stim', 'image/Eng_late.png'), ('early_position', [-0.3, 0]), ('late_position', [0.3, 0])]), OrderedDict([('No', 9), ('Category', 'Month'), ('earlier_stim', 'September '), ('later_stim', 'October '), ('distance', 1), ('congruency', 'congruent'), ('orientation', 'Hori'), ('instruction', 'early'), ('corr_resp', 'left'), ('Instruction_stim', 'image/Eng_early.png'), ('early_position', [-0.3, 0]), ('late_position', [0.3, 0])]), OrderedDict([('No', 47), ('Category', 'Month'), ('earlier_stim', 'November '), ('later_stim', 'July'), ('distance', 4), ('congruency', 'incongruent'), ('orientation', 'Hori'), ('instruction', 'late'), ('corr_resp', 'left'), ('Instruction_stim', 'image/Eng_late.png'), ('early_position', [-0.3, 0]), ('late_position', [0.3, 0])]), OrderedDict([('No', 128), ('Category', 'Week'), ('earlier_stim', 'Sunday'), ('later_stim', 'Thursday'), ('distance', 3), ('congruency', 'incongruent'), ('orientation', 'Hori'), ('instruction', 'early'), ('corr_resp', 'right'), ('Instruction_stim', 'image/Eng_early.png'), ('early_position', [-0.3, 0]), ('late_position', [0.3, 0])])]" valType="str"/>
+      <Param name="conditionsFile" updates="None" val="blocks/Block 3.csv" valType="file"/>
+      <Param name="endPoints" updates="None" val="[0, 1]" valType="num"/>
+      <Param name="isTrials" updates="None" val="True" valType="bool"/>
+      <Param name="loopType" updates="None" val="random" valType="str"/>
+      <Param name="nReps" updates="None" val="1" valType="num"/>
+      <Param name="name" updates="None" val="block3" valType="code"/>
+      <Param name="random seed" updates="None" val="" valType="code"/>
+    </LoopInitiator>
+    <Routine name="block"/>
+    <LoopTerminator name="block3"/>
+    <LoopInitiator loopType="TrialHandler" name="break3">
+      <Param name="Selected rows" updates="None" val="0:8" valType="str"/>
+      <Param name="conditions" updates="None" val="[{'Image': 'Spring 1.jpg', 'Qustion': 'Is this Spring?', 'Response': 'Yes', 'CorrAns': 'Left', 'Path': 'Break_material/Image/Spring 1.jpg'}, {'Image': 'Spring 2.jpg', 'Qustion': 'Is this Winter?', 'Response': 'No', 'CorrAns': 'Right', 'Path': 'Break_material/Image/Spring 2.jpg'}, {'Image': 'Spring 3.jpg', 'Qustion': 'Is this Summer?', 'Response': 'No', 'CorrAns': 'Right', 'Path': 'Break_material/Image/Spring 3.jpg'}, {'Image': 'Spring 4.jpg', 'Qustion': 'Is this Autumn?', 'Response': 'No', 'CorrAns': 'Right', 'Path': 'Break_material/Image/Spring 4.jpg'}, {'Image': 'Spring 5.jpg', 'Qustion': 'Is this Winter?', 'Response': 'No', 'CorrAns': 'Right', 'Path': 'Break_material/Image/Spring 5.jpg'}, {'Image': 'Spring 6.jpg', 'Qustion': 'Is this Spring?', 'Response': 'Yes', 'CorrAns': 'Left', 'Path': 'Break_material/Image/Spring 6.jpg'}, {'Image': 'Summer 1.jpg', 'Qustion': 'Is this Autumn?', 'Response': 'No', 'CorrAns': 'Right', 'Path': 'Break_material/Image/Summer 1.jpg'}, {'Image': 'Summer 2.jpg', 'Qustion': 'Is this Summer?', 'Response': 'Yes', 'CorrAns': 'Left', 'Path': 'Break_material/Image/Summer 2.jpg'}, {'Image': 'Summer 3.jpg', 'Qustion': 'Is this Autumn?', 'Response': 'No', 'CorrAns': 'Right', 'Path': 'Break_material/Image/Summer 3.jpg'}, {'Image': 'Summer 4.jpg', 'Qustion': 'Is this Spring?', 'Response': 'No', 'CorrAns': 'Right', 'Path': 'Break_material/Image/Summer 4.jpg'}, {'Image': 'Summer 5.jpg', 'Qustion': 'Is this Summer?', 'Response': 'Yes', 'CorrAns': 'Left', 'Path': 'Break_material/Image/Summer 5.jpg'}, {'Image': 'Summer 6.jpg', 'Qustion': 'Is this Winter?', 'Response': 'No', 'CorrAns': 'Right', 'Path': 'Break_material/Image/Summer 6.jpg'}, {'Image': 'Autumn 1.jpg', 'Qustion': 'Is this Winter?', 'Response': 'No', 'CorrAns': 'Right', 'Path': 'Break_material/Image/Autumn 1.jpg'}, {'Image': 'Autumn 2.jpg', 'Qustion': 'Is this Winter?', 'Response': 'No', 'CorrAns': 'Right', 'Path': 'Break_material/Image/Autumn 2.jpg'}, {'Image': 'Autumn 3.jpg', 'Qustion': 'Is this Autumn?', 'Response': 'Yes', 'CorrAns': 'Left', 'Path': 'Break_material/Image/Autumn 3.jpg'}, {'Image': 'Autumn 4.jpg', 'Qustion': 'Is this Winter?', 'Response': 'No', 'CorrAns': 'Right', 'Path': 'Break_material/Image/Autumn 4.jpg'}, {'Image': 'Autumn 5.jpg', 'Qustion': 'Is this Spring?', 'Response': 'No', 'CorrAns': 'Right', 'Path': 'Break_material/Image/Autumn 5.jpg'}, {'Image': 'Autumn 6.jpg', 'Qustion': 'Is this Autumn?', 'Response': 'Yes', 'CorrAns': 'Left', 'Path': 'Break_material/Image/Autumn 6.jpg'}, {'Image': 'Winter 1.jpg', 'Qustion': 'Is this Summer?', 'Response': 'No', 'CorrAns': 'Right', 'Path': 'Break_material/Image/Winter 1.jpg'}, {'Image': 'Winter 2.jpg', 'Qustion': 'Is this Winter?', 'Response': 'Yes', 'CorrAns': 'Left', 'Path': 'Break_material/Image/Winter 2.jpg'}, {'Image': 'Winter 3.jpg', 'Qustion': 'Is this Spring?', 'Response': 'No', 'CorrAns': 'Right', 'Path': 'Break_material/Image/Winter 3.jpg'}, {'Image': 'Winter 4.jpg', 'Qustion': 'Is this Summer?', 'Response': 'No', 'CorrAns': 'Right', 'Path': 'Break_material/Image/Winter 4.jpg'}, {'Image': 'Winter 5.jpg', 'Qustion': 'Is this Autumn?', 'Response': 'No', 'CorrAns': 'Right', 'Path': 'Break_material/Image/Winter 5.jpg'}, {'Image': 'Winter 6.jpg', 'Qustion': 'Is this Spring?', 'Response': 'No', 'CorrAns': 'Right', 'Path': 'Break_material/Image/Winter 5.jpg'}]" valType="str"/>
+      <Param name="conditionsFile" updates="None" val="Break_material/Break_eng.xlsx" valType="file"/>
+      <Param name="endPoints" updates="None" val="[0, 1]" valType="num"/>
+      <Param name="isTrials" updates="None" val="True" valType="bool"/>
+      <Param name="loopType" updates="None" val="random" valType="str"/>
+      <Param name="nReps" updates="None" val="1" valType="num"/>
+      <Param name="name" updates="None" val="break3" valType="code"/>
+      <Param name="random seed" updates="None" val="" valType="code"/>
+    </LoopInitiator>
+    <Routine name="break_2"/>
+    <LoopTerminator name="break3"/>
+    <LoopInitiator loopType="TrialHandler" name="block4">
+      <Param name="Selected rows" updates="None" val="" valType="str"/>
+      <Param name="conditions" updates="None" val="[OrderedDict([('No', 79), ('Category', 'Month'), ('earlier_stim', 'November '), ('later_stim', 'September '), ('distance', 2), ('congruency', 'incongruent'), ('orientation', 'Vert'), ('instruction', 'late'), ('corr_resp', 'up'), ('Instruction_stim', 'image/Eng_late.png'), ('early_position', [0, 0.3]), ('late_position', [0, -0.3])]), OrderedDict([('No', 106), ('Category', 'Week'), ('earlier_stim', 'Wednesday\xa0'), ('later_stim', 'Thursday'), ('distance', 1), ('congruency', 'congruent'), ('orientation', 'Hori'), ('instruction', 'late'), ('corr_resp', 'right'), ('Instruction_stim', 'image/Eng_late.png'), ('early_position', [-0.3, 0]), ('late_position', [0.3, 0])]), OrderedDict([('No', 143), ('Category', 'Week'), ('earlier_stim', 'Saturday'), ('later_stim', 'Friday'), ('distance', 1), ('congruency', 'incongruent'), ('orientation', 'Vert'), ('instruction', 'early'), ('corr_resp', 'down'), ('Instruction_stim', 'image/Eng_early.png'), ('early_position', [0, 0.3]), ('late_position', [0, -0.3])]), OrderedDict([('No', 30), ('Category', 'Month'), ('earlier_stim', 'March'), ('later_stim', 'June'), ('distance', 3), ('congruency', 'congruent'), ('orientation', 'Vert'), ('instruction', 'late'), ('corr_resp', 'down'), ('Instruction_stim', 'image/Eng_late.png'), ('early_position', [0, 0.3]), ('late_position', [0, -0.3])]), OrderedDict([('No', 16), ('Category', 'Month'), ('earlier_stim', 'June'), ('later_stim', 'August'), ('distance', 2), ('congruency', 'congruent'), ('orientation', 'Hori'), ('instruction', 'late'), ('corr_resp', 'right'), ('Instruction_stim', 'image/Eng_late.png'), ('early_position', [-0.3, 0]), ('late_position', [0.3, 0])]), OrderedDict([('No', 68), ('Category', 'Month'), ('earlier_stim', 'March'), ('later_stim', 'February'), ('distance', 1), ('congruency', 'incongruent'), ('orientation', 'Vert'), ('instruction', 'early'), ('corr_resp', 'down'), ('Instruction_stim', 'image/Eng_early.png'), ('early_position', [0, 0.3]), ('late_position', [0, -0.3])]), OrderedDict([('No', 33), ('Category', 'Month'), ('earlier_stim', 'June'), ('later_stim', 'September '), ('distance', 3), ('congruency', 'congruent'), ('orientation', 'Vert'), ('instruction', 'late'), ('corr_resp', 'down'), ('Instruction_stim', 'image/Eng_late.png'), ('early_position', [0, 0.3]), ('late_position', [0, -0.3])]), OrderedDict([('No', 44), ('Category', 'Month'), ('earlier_stim', 'August'), ('later_stim', 'April'), ('distance', 4), ('congruency', 'incongruent'), ('orientation', 'Hori'), ('instruction', 'late'), ('corr_resp', 'left'), ('Instruction_stim', 'image/Eng_late.png'), ('early_position', [-0.3, 0]), ('late_position', [0.3, 0])]), OrderedDict([('No', 59), ('Category', 'Month'), ('earlier_stim', 'May'), ('later_stim', 'April'), ('distance', 1), ('congruency', 'incongruent'), ('orientation', 'Hori'), ('instruction', 'late'), ('corr_resp', 'left'), ('Instruction_stim', 'image/Eng_late.png'), ('early_position', [-0.3, 0]), ('late_position', [0.3, 0])]), OrderedDict([('No', 80), ('Category', 'Month'), ('earlier_stim', 'December'), ('later_stim', 'October '), ('distance', 2), ('congruency', 'incongruent'), ('orientation', 'Vert'), ('instruction', 'late'), ('corr_resp', 'up'), ('Instruction_stim', 'image/Eng_late.png'), ('early_position', [0, 0.3]), ('late_position', [0, -0.3])]), OrderedDict([('No', 106), ('Category', 'Week'), ('earlier_stim', 'Wednesday\xa0'), ('later_stim', 'Friday'), ('distance', 2), ('congruency', 'congruent'), ('orientation', 'Hori'), ('instruction', 'late'), ('corr_resp', 'right'), ('Instruction_stim', 'image/Eng_late.png'), ('early_position', [-0.3, 0]), ('late_position', [0.3, 0])]), OrderedDict([('No', 50), ('Category', 'Month'), ('earlier_stim', 'June'), ('later_stim', 'February'), ('distance', 4), ('congruency', 'incongruent'), ('orientation', 'Vert'), ('instruction', 'early'), ('corr_resp', 'down'), ('Instruction_stim', 'image/Eng_early.png'), ('early_position', [0, 0.3]), ('late_position', [0, -0.3])]), OrderedDict([('No', 118), ('Category', 'Week'), ('earlier_stim', 'Monday'), ('later_stim', 'Thursday'), ('distance', 3), ('congruency', 'congruent'), ('orientation', 'Vert'), ('instruction', 'late'), ('corr_resp', 'down'), ('Instruction_stim', 'image/Eng_late.png'), ('early_position', [0, 0.3]), ('late_position', [0, -0.3])]), OrderedDict([('No', 99), ('Category', 'Week'), ('earlier_stim', 'Wednesday\xa0'), ('later_stim', 'Friday'), ('distance', 2), ('congruency', 'congruent'), ('orientation', 'Hori'), ('instruction', 'early'), ('corr_resp', 'left'), ('Instruction_stim', 'image/Eng_early.png'), ('early_position', [-0.3, 0]), ('late_position', [0.3, 0])]), OrderedDict([('No', 75), ('Category', 'Month'), ('earlier_stim', 'July'), ('later_stim', 'May'), ('distance', 2), ('congruency', 'incongruent'), ('orientation', 'Vert'), ('instruction', 'late'), ('corr_resp', 'up'), ('Instruction_stim', 'image/Eng_late.png'), ('early_position', [0, 0.3]), ('late_position', [0, -0.3])]), OrderedDict([('No', 101), ('Category', 'Week'), ('earlier_stim', 'Friday'), ('later_stim', 'Sunday'), ('distance', 2), ('congruency', 'congruent'), ('orientation', 'Hori'), ('instruction', 'early'), ('corr_resp', 'left'), ('Instruction_stim', 'image/Eng_early.png'), ('early_position', [-0.3, 0]), ('late_position', [0.3, 0])]), OrderedDict([('No', 99), ('Category', 'Week'), ('earlier_stim', 'Wednesday\xa0'), ('later_stim', 'Saturday'), ('distance', 3), ('congruency', 'congruent'), ('orientation', 'Hori'), ('instruction', 'early'), ('corr_resp', 'left'), ('Instruction_stim', 'image/Eng_early.png'), ('early_position', [-0.3, 0]), ('late_position', [0.3, 0])]), OrderedDict([('No', 4), ('Category', 'Month'), ('earlier_stim', 'April'), ('later_stim', 'June'), ('distance', 2), ('congruency', 'congruent'), ('orientation', 'Hori'), ('instruction', 'early'), ('corr_resp', 'left'), ('Instruction_stim', 'image/Eng_early.png'), ('early_position', [-0.3, 0]), ('late_position', [0.3, 0])]), OrderedDict([('No', 39), ('Category', 'Month'), ('earlier_stim', 'November '), ('later_stim', 'July'), ('distance', 4), ('congruency', 'incongruent'), ('orientation', 'Hori'), ('instruction', 'early'), ('corr_resp', 'right'), ('Instruction_stim', 'image/Eng_early.png'), ('early_position', [-0.3, 0]), ('late_position', [0.3, 0])]), OrderedDict([('No', 3), ('Category', 'Month'), ('earlier_stim', 'March'), ('later_stim', 'April'), ('distance', 1), ('congruency', 'congruent'), ('orientation', 'Hori'), ('instruction', 'early'), ('corr_resp', 'left'), ('Instruction_stim', 'image/Eng_early.png'), ('early_position', [-0.3, 0]), ('late_position', [0.3, 0])]), OrderedDict([('No', 26), ('Category', 'Month'), ('earlier_stim', 'April'), ('later_stim', 'May'), ('distance', 1), ('congruency', 'congruent'), ('orientation', 'Vert'), ('instruction', 'early'), ('corr_resp', 'up'), ('Instruction_stim', 'image/Eng_early.png'), ('early_position', [0, 0.3]), ('late_position', [0, -0.3])]), OrderedDict([('No', 135), ('Category', 'Week'), ('earlier_stim', 'Sunday'), ('later_stim', 'Thursday'), ('distance', 3), ('congruency', 'incongruent'), ('orientation', 'Hori'), ('instruction', 'late'), ('corr_resp', 'left'), ('Instruction_stim', 'image/Eng_late.png'), ('early_position', [-0.3, 0]), ('late_position', [0.3, 0])]), OrderedDict([('No', 139), ('Category', 'Week'), ('earlier_stim', 'Wednesday\xa0'), ('later_stim', 'Monday'), ('distance', 2), ('congruency', 'incongruent'), ('orientation', 'Vert'), ('instruction', 'early'), ('corr_resp', 'down'), ('Instruction_stim', 'image/Eng_early.png'), ('early_position', [0, 0.3]), ('late_position', [0, -0.3])]), OrderedDict([('No', 32), ('Category', 'Month'), ('earlier_stim', 'October '), ('later_stim', 'November '), ('distance', 1), ('congruency', 'congruent'), ('orientation', 'Vert'), ('instruction', 'early'), ('corr_resp', 'up'), ('Instruction_stim', 'image/Eng_early.png'), ('early_position', [0, 0.3]), ('late_position', [0, -0.3])]), OrderedDict([('No', 74), ('Category', 'Month'), ('earlier_stim', 'September '), ('later_stim', 'August'), ('distance', 1), ('congruency', 'incongruent'), ('orientation', 'Vert'), ('instruction', 'early'), ('corr_resp', 'down'), ('Instruction_stim', 'image/Eng_early.png'), ('early_position', [0, 0.3]), ('late_position', [0, -0.3])]), OrderedDict([('No', 57), ('Category', 'Month'), ('earlier_stim', 'June'), ('later_stim', 'March'), ('distance', 3), ('congruency', 'incongruent'), ('orientation', 'Vert'), ('instruction', 'early'), ('corr_resp', 'down'), ('Instruction_stim', 'image/Eng_early.png'), ('early_position', [0, 0.3]), ('late_position', [0, -0.3])]), OrderedDict([('No', 13), ('Category', 'Month'), ('earlier_stim', 'April'), ('later_stim', 'July'), ('distance', 3), ('congruency', 'congruent'), ('orientation', 'Hori'), ('instruction', 'late'), ('corr_resp', 'right'), ('Instruction_stim', 'image/Eng_late.png'), ('early_position', [-0.3, 0]), ('late_position', [0.3, 0])]), OrderedDict([('No', 48), ('Category', 'Month'), ('earlier_stim', 'October '), ('later_stim', 'August'), ('distance', 2), ('congruency', 'incongruent'), ('orientation', 'Hori'), ('instruction', 'early'), ('corr_resp', 'right'), ('Instruction_stim', 'image/Eng_early.png'), ('early_position', [-0.3, 0]), ('late_position', [0.3, 0])]), OrderedDict([('No', 17), ('Category', 'Month'), ('earlier_stim', 'January'), ('later_stim', 'May'), ('distance', 4), ('congruency', 'congruent'), ('orientation', 'Vert'), ('instruction', 'early'), ('corr_resp', 'up'), ('Instruction_stim', 'image/Eng_early.png'), ('early_position', [0, 0.3]), ('late_position', [0, -0.3])]), OrderedDict([('No', 57), ('Category', 'Month'), ('earlier_stim', 'March'), ('later_stim', 'February'), ('distance', 1), ('congruency', 'incongruent'), ('orientation', 'Hori'), ('instruction', 'late'), ('corr_resp', 'left'), ('Instruction_stim', 'image/Eng_late.png'), ('early_position', [-0.3, 0]), ('late_position', [0.3, 0])]), OrderedDict([('No', 127), ('Category', 'Week'), ('earlier_stim', 'Friday'), ('later_stim', 'Wednesday\xa0'), ('distance', 2), ('congruency', 'incongruent'), ('orientation', 'Hori'), ('instruction', 'early'), ('corr_resp', 'right'), ('Instruction_stim', 'image/Eng_early.png'), ('early_position', [-0.3, 0]), ('late_position', [0.3, 0])]), OrderedDict([('No', 34), ('Category', 'Month'), ('earlier_stim', 'June'), ('later_stim', 'February'), ('distance', 4), ('congruency', 'incongruent'), ('orientation', 'Hori'), ('instruction', 'early'), ('corr_resp', 'right'), ('Instruction_stim', 'image/Eng_early.png'), ('early_position', [-0.3, 0]), ('late_position', [0.3, 0])]), OrderedDict([('No', 121), ('Category', 'Week'), ('earlier_stim', 'Thursday'), ('later_stim', 'Sunday'), ('distance', 3), ('congruency', 'congruent'), ('orientation', 'Vert'), ('instruction', 'late'), ('corr_resp', 'down'), ('Instruction_stim', 'image/Eng_late.png'), ('early_position', [0, 0.3]), ('late_position', [0, -0.3])]), OrderedDict([('No', 16), ('Category', 'Month'), ('earlier_stim', 'May'), ('later_stim', 'June'), ('distance', 1), ('congruency', 'congruent'), ('orientation', 'Hori'), ('instruction', 'late'), ('corr_resp', 'right'), ('Instruction_stim', 'image/Eng_late.png'), ('early_position', [-0.3, 0]), ('late_position', [0.3, 0])]), OrderedDict([('No', 6), ('Category', 'Month'), ('earlier_stim', 'June'), ('later_stim', 'July'), ('distance', 1), ('congruency', 'congruent'), ('orientation', 'Hori'), ('instruction', 'early'), ('corr_resp', 'left'), ('Instruction_stim', 'image/Eng_early.png'), ('early_position', [-0.3, 0]), ('late_position', [0.3, 0])]), OrderedDict([('No', 47), ('Category', 'Month'), ('earlier_stim', 'May'), ('later_stim', 'February'), ('distance', 3), ('congruency', 'incongruent'), ('orientation', 'Hori'), ('instruction', 'late'), ('corr_resp', 'left'), ('Instruction_stim', 'image/Eng_late.png'), ('early_position', [-0.3, 0]), ('late_position', [0.3, 0])]), OrderedDict([('No', 50), ('Category', 'Month'), ('earlier_stim', 'August'), ('later_stim', 'May'), ('distance', 3), ('congruency', 'incongruent'), ('orientation', 'Hori'), ('instruction', 'late'), ('corr_resp', 'left'), ('Instruction_stim', 'image/Eng_late.png'), ('early_position', [-0.3, 0]), ('late_position', [0.3, 0])]), OrderedDict([('No', 36), ('Category', 'Month'), ('earlier_stim', 'August'), ('later_stim', 'April'), ('distance', 4), ('congruency', 'incongruent'), ('orientation', 'Hori'), ('instruction', 'early'), ('corr_resp', 'right'), ('Instruction_stim', 'image/Eng_early.png'), ('early_position', [-0.3, 0]), ('late_position', [0.3, 0])]), OrderedDict([('No', 149), ('Category', 'Week'), ('earlier_stim', 'Saturday'), ('later_stim', 'Thursday'), ('distance', 2), ('congruency', 'incongruent'), ('orientation', 'Vert'), ('instruction', 'late'), ('corr_resp', 'up'), ('Instruction_stim', 'image/Eng_late.png'), ('early_position', [0, 0.3]), ('late_position', [0, -0.3])]), OrderedDict([('No', 33), ('Category', 'Month'), ('earlier_stim', 'November '), ('later_stim', 'December'), ('distance', 1), ('congruency', 'congruent'), ('orientation', 'Vert'), ('instruction', 'early'), ('corr_resp', 'up'), ('Instruction_stim', 'image/Eng_early.png'), ('early_position', [0, 0.3]), ('late_position', [0, -0.3])]), OrderedDict([('No', 60), ('Category', 'Month'), ('earlier_stim', 'June'), ('later_stim', 'May'), ('distance', 1), ('congruency', 'incongruent'), ('orientation', 'Hori'), ('instruction', 'late'), ('corr_resp', 'left'), ('Instruction_stim', 'image/Eng_late.png'), ('early_position', [-0.3, 0]), ('late_position', [0.3, 0])]), OrderedDict([('No', 20), ('Category', 'Month'), ('earlier_stim', 'October '), ('later_stim', 'December'), ('distance', 2), ('congruency', 'congruent'), ('orientation', 'Hori'), ('instruction', 'late'), ('corr_resp', 'right'), ('Instruction_stim', 'image/Eng_late.png'), ('early_position', [-0.3, 0]), ('late_position', [0.3, 0])]), OrderedDict([('No', 60), ('Category', 'Month'), ('earlier_stim', 'September '), ('later_stim', 'June'), ('distance', 3), ('congruency', 'incongruent'), ('orientation', 'Vert'), ('instruction', 'early'), ('corr_resp', 'down'), ('Instruction_stim', 'image/Eng_early.png'), ('early_position', [0, 0.3]), ('late_position', [0, -0.3])]), OrderedDict([('No', 98), ('Category', 'Week'), ('earlier_stim', 'Tuesday'), ('later_stim', 'Wednesday\xa0'), ('distance', 1), ('congruency', 'congruent'), ('orientation', 'Hori'), ('instruction', 'early'), ('corr_resp', 'left'), ('Instruction_stim', 'image/Eng_early.png'), ('early_position', [-0.3, 0]), ('late_position', [0.3, 0])]), OrderedDict([('No', 72), ('Category', 'Month'), ('earlier_stim', 'April'), ('later_stim', 'February'), ('distance', 2), ('congruency', 'incongruent'), ('orientation', 'Vert'), ('instruction', 'late'), ('corr_resp', 'up'), ('Instruction_stim', 'image/Eng_late.png'), ('early_position', [0, 0.3]), ('late_position', [0, -0.3])]), OrderedDict([('No', 49), ('Category', 'Month'), ('earlier_stim', 'June'), ('later_stim', 'May'), ('distance', 1), ('congruency', 'incongruent'), ('orientation', 'Hori'), ('instruction', 'early'), ('corr_resp', 'right'), ('Instruction_stim', 'image/Eng_early.png'), ('early_position', [-0.3, 0]), ('late_position', [0.3, 0])]), OrderedDict([('No', 74), ('Category', 'Month'), ('earlier_stim', 'June'), ('later_stim', 'April'), ('distance', 2), ('congruency', 'incongruent'), ('orientation', 'Vert'), ('instruction', 'late'), ('corr_resp', 'up'), ('Instruction_stim', 'image/Eng_late.png'), ('early_position', [0, 0.3]), ('late_position', [0, -0.3])]), OrderedDict([('No', 48), ('Category', 'Month'), ('earlier_stim', 'December'), ('later_stim', 'August'), ('distance', 4), ('congruency', 'incongruent'), ('orientation', 'Hori'), ('instruction', 'late'), ('corr_resp', 'left'), ('Instruction_stim', 'image/Eng_late.png'), ('early_position', [-0.3, 0]), ('late_position', [0.3, 0])]), OrderedDict([('No', 23), ('Category', 'Month'), ('earlier_stim', 'July'), ('later_stim', 'November '), ('distance', 4), ('congruency', 'congruent'), ('orientation', 'Vert'), ('instruction', 'early'), ('corr_resp', 'up'), ('Instruction_stim', 'image/Eng_early.png'), ('early_position', [0, 0.3]), ('late_position', [0, -0.3])]), OrderedDict([('No', 62), ('Category', 'Month'), ('earlier_stim', 'October '), ('later_stim', 'June'), ('distance', 4), ('congruency', 'incongruent'), ('orientation', 'Vert'), ('instruction', 'late'), ('corr_resp', 'up'), ('Instruction_stim', 'image/Eng_late.png'), ('early_position', [0, 0.3]), ('late_position', [0, -0.3])]), OrderedDict([('No', 29), ('Category', 'Month'), ('earlier_stim', 'July'), ('later_stim', 'August'), ('distance', 1), ('congruency', 'congruent'), ('orientation', 'Vert'), ('instruction', 'early'), ('corr_resp', 'up'), ('Instruction_stim', 'image/Eng_early.png'), ('early_position', [0, 0.3]), ('late_position', [0, -0.3])]), OrderedDict([('No', 23), ('Category', 'Month'), ('earlier_stim', 'May'), ('later_stim', 'August'), ('distance', 3), ('congruency', 'congruent'), ('orientation', 'Vert'), ('instruction', 'early'), ('corr_resp', 'up'), ('Instruction_stim', 'image/Eng_early.png'), ('early_position', [0, 0.3]), ('late_position', [0, -0.3])])]" valType="str"/>
+      <Param name="conditionsFile" updates="None" val="blocks/Block 4.csv" valType="file"/>
+      <Param name="endPoints" updates="None" val="[0, 1]" valType="num"/>
+      <Param name="isTrials" updates="None" val="True" valType="bool"/>
+      <Param name="loopType" updates="None" val="random" valType="str"/>
+      <Param name="nReps" updates="None" val="1" valType="num"/>
+      <Param name="name" updates="None" val="block4" valType="code"/>
+      <Param name="random seed" updates="None" val="" valType="code"/>
+    </LoopInitiator>
+    <Routine name="block"/>
+    <LoopTerminator name="block4"/>
+    <Routine name="The_end"/>
+  </Flow>
+</PsychoPy2experiment>

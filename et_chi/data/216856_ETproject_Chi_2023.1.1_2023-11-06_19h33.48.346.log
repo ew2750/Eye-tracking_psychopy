@@ -1,0 +1,318 @@
+5.0078 	EXP 	Created window1 = Window(allowGUI=True, allowStencil=False, autoLog=True, backendConf=UNKNOWN, backgroundFit=<method-wrapper '__getattribute__' of attributeSetter object at 0x000001BA40EBDDC0>, backgroundImage=<method-wrapper '__getattribute__' of attributeSetter object at 0x000001BA40EBDD60>, bitsMode=UNKNOWN, blendMode='avg', bpc=(8, 8, 8), color=array([0, 0, 0]), colorSpace='rgb', depthBits=8, fullscr=<method-wrapper '__getattribute__' of attributeSetter object at 0x000001BA40EBDA60>, gamma=None, gammaErrorPolicy='raise', lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x000001BA41E473A0>, multiSample=False, name='window1', numSamples=2, pos=(0, 0), screen=0, size=array([1920, 1080]), stencilBits=0, stereo=False, units='height', useFBO=True, useRetina=False, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+5.0079 	EXP 	window1: mouseVisible = True
+5.0080 	EXP 	window1: backgroundImage = ''
+5.0080 	EXP 	window1: backgroundFit = 'none'
+5.0081 	EXP 	window1: mouseVisible = False
+5.0082 	EXP 	window1: Attempting to measure frame rate of screen (0) ...
+5.0082 	EXP 	window1: recordFrameIntervals = False
+5.1736 	EXP 	window1: recordFrameIntervals = True
+5.3571 	EXP 	Screen (0) actual frame rate measured at 60.03Hz
+5.3572 	EXP 	window1: recordFrameIntervals = False
+6.6636 	EXP 	Created intro_1 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([-1., -1., -1.]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='NanumGothic', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='intro_1', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='Tasks', units='height', win=Window(...), wrapWidth=1)
+6.6873 	EXP 	Created intro_2 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([-1., -1., -1.]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='NanumGothic', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='intro_2', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='height', win=Window(...), wrapWidth=1)
+6.7155 	EXP 	Created Intro_3 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([-1., -1., -1.]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='NanumGothic', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='Intro_3', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='height', win=Window(...), wrapWidth=1)
+6.7161 	EXP 	Created pracintro = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([-1., -1., -1.]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='NanumGothic', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='pracintro', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+6.7257 	EXP 	Created image = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, flipHoriz=False, flipVert=False, image='default.png', interpolate=True, mask=None, maskParams=None, name='image', opacity=1.0, ori=0.0, pos=array([0., 0.]), size=array([1.5, 0.5]), texRes=128.0, units='height', win=Window(...))
+6.7265 	EXP 	Created early = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([-1., -1., -1.]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='early', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+6.7270 	EXP 	Created late = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([-1., -1., -1.]), colorSpace='rgb', contrast=1.0, depth=-2.0, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='late', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+6.7281 	EXP 	Created pracfeedback = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.1, italic=False, languageStyle='LTR', name='pracfeedback', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+6.7373 	EXP 	Created intro_5 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([-1., -1., -1.]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='NanumGothic', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='intro_5', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='height', win=Window(...), wrapWidth=1)
+6.7443 	EXP 	Created text_4 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='text_4', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='现在请您注视屏幕上即将出现的符号，我们将进行校准', units='height', win=Window(...), wrapWidth=1)
+6.7467 	EXP 	Created text_5 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([-1., -1., -1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='text_5', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='+', units='height', win=Window(...), wrapWidth=1)
+6.7539 	EXP 	Created main_image_2 = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, image='default.png', interpolate=True, mask=None, maskParams=None, name='main_image_2', opacity=1.0, ori=0.0, pos=array([0., 0.]), size=array([1.5, 0.5]), texRes=128.0, units='height', win=Window(...))
+6.7544 	EXP 	Created main_early = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([-1., -1., -1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='main_early', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+6.7550 	EXP 	Created main_late = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([-1., -1., -1.]), colorSpace='rgb', contrast=1.0, depth=-3.0, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='main_late', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+6.7563 	EXP 	Created fix = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([-1., -1., -1.]), colorSpace='rgb', contrast=1.0, depth=-4.0, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='fix', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='+', units='height', win=Window(...), wrapWidth=1)
+6.7569 	EXP 	Created text = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([-1., -1., -1.]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='text', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+6.7658 	EXP 	Created fengjing = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, flipHoriz=False, flipVert=False, image='default.png', interpolate=True, mask=None, maskParams=None, name='fengjing', opacity=1.0, ori=0.0, pos=array([0., 0.]), size=array([2. , 1.5]), texRes=128.0, units='height', win=Window(...))
+6.7688 	EXP 	Created text_2 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([-1., -1., -1.]), colorSpace='rgb', contrast=1.0, depth=-3.0, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='text_2', opacity=1.0, ori=0.0, pos=array([-0.3, -0.3]), rgb=UNKNOWN, text='是', units='height', win=Window(...), wrapWidth=1)
+6.7708 	EXP 	Created text_3 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([-1., -1., -1.]), colorSpace='rgb', contrast=1.0, depth=-4.0, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='text_3', opacity=1.0, ori=0.0, pos=array([ 0.3, -0.3]), rgb=UNKNOWN, text='否', units='height', win=Window(...), wrapWidth=1)
+6.7780 	EXP 	intro_1: autoDraw = True
+8.7902 	EXP 	intro_1: autoDraw = False
+8.7902 	EXP 	intro_2: autoDraw = True
+9.7402 	EXP 	intro_2: autoDraw = False
+9.7402 	EXP 	Intro_3: autoDraw = True
+9.7604 	DATA 	Keypress: space
+10.0597 	EXP 	Created sequence: random, trialTypes=1, nReps=3, seed=None
+10.0601 	EXP 	New trial (rep=0, index=0): None
+10.1404 	EXP 	Intro_3: autoDraw = False
+10.1404 	EXP 	pracintro: height = 0.05
+10.1404 	EXP 	pracintro: height = 0.05
+10.1404 	EXP 	pracintro: height = 0.05
+10.1404 	EXP 	pracintro: text = '在参与实验之前，我们先进行练习。 \n\n 为了通过练习，您必须在练习中答对 90%。 \n\n 如果您已理解，请按空格键以开始。 \n\nBefore participating in the experiment, we will pratice first.  \n\n In order to start the experiment, you must get at least 90% correct in the practice round. \n\n If you understand the explanation, please press the space bar. '
+10.1404 	EXP 	pracintro: autoDraw = True
+10.1415 	DATA 	Keypress: space
+10.2921 	EXP 	Imported Practice_Chi.xlsx as conditions, 8 conditions, 11 params
+10.2924 	EXP 	Created sequence: random, trialTypes=8, nReps=1, seed=None
+10.2926 	EXP 	New trial (rep=0, index=0): {'No': 4, 'Category': 'practice', 'earlier_stim': '星期日', 'later_stim': '星期一', 'conguency': 'congruent', 'orientation': 'Vert', 'instruction': 'late', 'corr_resp': 'down', 'Instruction_stim': 'image/Chi_late.png', 'early_position': [0, 0.3], 'late_position': [0, -0.3]}
+10.3348 	EXP 	pracintro: autoDraw = False
+10.3348 	EXP 	image: image = 'image/Chi_late.png'
+10.3348 	EXP 	image: autoDraw = True
+10.3356 	DATA 	Keypress: space
+10.5590 	DATA 	Keypress: space
+11.3066 	EXP 	image: autoDraw = False
+11.3066 	EXP 	early: height = 0.05
+11.3066 	EXP 	early: height = 0.05
+11.3066 	EXP 	early: height = 0.05
+11.3066 	EXP 	early: text = '星期日'
+11.3066 	EXP 	late: height = 0.05
+11.3066 	EXP 	late: height = 0.05
+11.3066 	EXP 	late: height = 0.05
+11.3066 	EXP 	late: text = '星期一'
+11.3066 	EXP 	early: autoDraw = True
+11.3066 	EXP 	late: autoDraw = True
+13.2052 	DATA 	Keypress: down
+13.2063 	EXP 	early: autoDraw = False
+13.2063 	EXP 	late: autoDraw = False
+13.2063 	EXP 	pracfeedback: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+13.2063 	EXP 	pracfeedback: height = 0.1
+13.2063 	EXP 	pracfeedback: height = 0.1
+13.2063 	EXP 	pracfeedback: height = 0.1
+13.2063 	EXP 	pracfeedback: text = 'Correct! \nScore = 100.0%'
+13.2063 	EXP 	pracfeedback: autoDraw = True
+14.1912 	EXP 	New trial (rep=0, index=1): {'No': 3, 'Category': 'practice', 'earlier_stim': '星期一', 'later_stim': '星期二', 'conguency': 'congruent', 'orientation': 'Vert', 'instruction': 'early', 'corr_resp': 'up', 'Instruction_stim': 'image/Chi_early.png', 'early_position': [0, 0.3], 'late_position': [0, -0.3]}
+14.2138 	EXP 	pracfeedback: autoDraw = False
+14.2138 	EXP 	pracfeedback: autoDraw = False
+14.2138 	EXP 	image: image = 'image/Chi_early.png'
+14.2138 	EXP 	image: autoDraw = True
+15.2231 	EXP 	image: autoDraw = False
+15.2231 	EXP 	early: height = 0.05
+15.2231 	EXP 	early: height = 0.05
+15.2231 	EXP 	early: height = 0.05
+15.2231 	EXP 	early: text = '星期一'
+15.2231 	EXP 	late: height = 0.05
+15.2231 	EXP 	late: height = 0.05
+15.2231 	EXP 	late: height = 0.05
+15.2231 	EXP 	late: text = '星期二'
+15.2231 	EXP 	early: autoDraw = True
+15.2231 	EXP 	late: autoDraw = True
+17.2567 	EXP 	early: autoDraw = False
+17.2567 	EXP 	late: autoDraw = False
+17.2567 	EXP 	pracfeedback: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+17.2567 	EXP 	pracfeedback: text = 'Correct! \nScore = 100.0%'
+17.2567 	EXP 	pracfeedback: autoDraw = True
+17.2595 	DATA 	Keypress: up
+18.2417 	EXP 	New trial (rep=0, index=2): {'No': 1, 'Category': 'practice', 'earlier_stim': '星期三 ', 'later_stim': '星期四', 'conguency': 'congruent', 'orientation': 'Hori', 'instruction': 'early', 'corr_resp': 'left', 'Instruction_stim': 'image/Chi_early.png', 'early_position': [-0.3, 0], 'late_position': [0.3, 0]}
+18.2578 	EXP 	pracfeedback: autoDraw = False
+18.2578 	EXP 	pracfeedback: autoDraw = False
+18.2578 	EXP 	image: image = 'image/Chi_early.png'
+18.2578 	EXP 	image: autoDraw = True
+19.2564 	EXP 	image: autoDraw = False
+19.2564 	EXP 	image: autoDraw = False
+19.2564 	EXP 	early: height = 0.05
+19.2564 	EXP 	early: height = 0.05
+19.2564 	EXP 	early: height = 0.05
+19.2564 	EXP 	early: text = '星期三 '
+19.2564 	EXP 	late: height = 0.05
+19.2564 	EXP 	late: height = 0.05
+19.2564 	EXP 	late: height = 0.05
+19.2564 	EXP 	late: text = '星期四'
+19.2564 	EXP 	early: autoDraw = True
+19.2564 	EXP 	late: autoDraw = True
+20.0567 	EXP 	early: autoDraw = False
+20.0567 	EXP 	late: autoDraw = False
+20.0567 	EXP 	pracfeedback: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+20.0567 	EXP 	pracfeedback: text = 'Correct! \nScore = 100.0%'
+20.0567 	EXP 	pracfeedback: autoDraw = True
+20.0595 	DATA 	Keypress: left
+21.0413 	EXP 	New trial (rep=0, index=3): {'No': 2, 'Category': 'practice', 'earlier_stim': '星期五', 'later_stim': '星期六', 'conguency': 'congruent', 'orientation': 'Hori', 'instruction': 'late', 'corr_resp': 'right', 'Instruction_stim': 'image/Chi_late.png', 'early_position': [-0.3, 0], 'late_position': [0.3, 0]}
+21.0579 	EXP 	pracfeedback: autoDraw = False
+21.0579 	EXP 	pracfeedback: autoDraw = False
+21.0579 	EXP 	image: image = 'image/Chi_late.png'
+21.0579 	EXP 	image: autoDraw = True
+22.0731 	EXP 	image: autoDraw = False
+22.0731 	EXP 	early: height = 0.05
+22.0731 	EXP 	early: height = 0.05
+22.0731 	EXP 	early: height = 0.05
+22.0731 	EXP 	early: text = '星期五'
+22.0731 	EXP 	late: height = 0.05
+22.0731 	EXP 	late: height = 0.05
+22.0731 	EXP 	late: height = 0.05
+22.0731 	EXP 	late: text = '星期六'
+22.0731 	EXP 	early: autoDraw = True
+22.0731 	EXP 	late: autoDraw = True
+22.9732 	EXP 	early: autoDraw = False
+22.9732 	EXP 	late: autoDraw = False
+22.9732 	EXP 	pracfeedback: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+22.9732 	EXP 	pracfeedback: text = 'Correct! \nScore = 100.0%'
+22.9732 	EXP 	pracfeedback: autoDraw = True
+22.9763 	DATA 	Keypress: right
+23.9583 	EXP 	New trial (rep=0, index=4): {'No': 7, 'Category': 'practice', 'earlier_stim': '星期三 ', 'later_stim': '星期二', 'conguency': 'incongruent', 'orientation': 'Vert', 'instruction': 'early', 'corr_resp': 'down', 'Instruction_stim': 'image/Chi_early.png', 'early_position': [0, 0.3], 'late_position': [0, -0.3]}
+23.9745 	EXP 	pracfeedback: autoDraw = False
+23.9745 	EXP 	pracfeedback: autoDraw = False
+23.9745 	EXP 	image: image = 'image/Chi_early.png'
+23.9745 	EXP 	image: autoDraw = True
+24.9731 	EXP 	image: autoDraw = False
+24.9731 	EXP 	image: autoDraw = False
+24.9731 	EXP 	early: height = 0.05
+24.9731 	EXP 	early: height = 0.05
+24.9731 	EXP 	early: height = 0.05
+24.9731 	EXP 	early: text = '星期三 '
+24.9731 	EXP 	late: height = 0.05
+24.9731 	EXP 	late: height = 0.05
+24.9731 	EXP 	late: height = 0.05
+24.9731 	EXP 	late: text = '星期二'
+24.9731 	EXP 	early: autoDraw = True
+24.9731 	EXP 	late: autoDraw = True
+26.0270 	DATA 	Keypress: down
+26.0400 	EXP 	early: autoDraw = False
+26.0400 	EXP 	late: autoDraw = False
+26.0400 	EXP 	pracfeedback: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+26.0400 	EXP 	pracfeedback: text = 'Correct! \nScore = 100.0%'
+26.0400 	EXP 	pracfeedback: autoDraw = True
+27.0244 	EXP 	New trial (rep=0, index=5): {'No': 6, 'Category': 'practice', 'earlier_stim': '星期四', 'later_stim': '星期三 ', 'conguency': 'incongruent', 'orientation': 'Hori', 'instruction': 'late', 'corr_resp': 'left', 'Instruction_stim': 'image/Chi_late.png', 'early_position': [-0.3, 0], 'late_position': [0.3, 0]}
+27.0412 	EXP 	pracfeedback: autoDraw = False
+27.0412 	EXP 	pracfeedback: autoDraw = False
+27.0412 	EXP 	image: image = 'image/Chi_late.png'
+27.0412 	EXP 	image: autoDraw = True
+28.0566 	EXP 	image: autoDraw = False
+28.0566 	EXP 	early: height = 0.05
+28.0566 	EXP 	early: height = 0.05
+28.0566 	EXP 	early: height = 0.05
+28.0566 	EXP 	early: text = '星期四'
+28.0566 	EXP 	late: height = 0.05
+28.0566 	EXP 	late: height = 0.05
+28.0566 	EXP 	late: height = 0.05
+28.0566 	EXP 	late: text = '星期三 '
+28.0566 	EXP 	early: autoDraw = True
+28.0566 	EXP 	late: autoDraw = True
+29.1933 	DATA 	Keypress: left
+29.2067 	EXP 	early: autoDraw = False
+29.2067 	EXP 	late: autoDraw = False
+29.2067 	EXP 	pracfeedback: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+29.2067 	EXP 	pracfeedback: text = 'Correct! \nScore = 100.0%'
+29.2067 	EXP 	pracfeedback: autoDraw = True
+30.1913 	EXP 	New trial (rep=0, index=6): {'No': 5, 'Category': 'practice', 'earlier_stim': '星期二', 'later_stim': '星期一', 'conguency': 'incongruent', 'orientation': 'Hori', 'instruction': 'early', 'corr_resp': 'right', 'Instruction_stim': 'image/Chi_early.png', 'early_position': [-0.3, 0], 'late_position': [0.3, 0]}
+30.2110 	EXP 	pracfeedback: autoDraw = False
+30.2110 	EXP 	pracfeedback: autoDraw = False
+30.2110 	EXP 	image: image = 'image/Chi_early.png'
+30.2110 	EXP 	image: autoDraw = True
+31.2233 	EXP 	image: autoDraw = False
+31.2233 	EXP 	early: height = 0.05
+31.2233 	EXP 	early: height = 0.05
+31.2233 	EXP 	early: height = 0.05
+31.2233 	EXP 	early: text = '星期二'
+31.2233 	EXP 	late: height = 0.05
+31.2233 	EXP 	late: height = 0.05
+31.2233 	EXP 	late: height = 0.05
+31.2233 	EXP 	late: text = '星期一'
+31.2233 	EXP 	early: autoDraw = True
+31.2233 	EXP 	late: autoDraw = True
+32.3067 	EXP 	early: autoDraw = False
+32.3067 	EXP 	late: autoDraw = False
+32.3067 	EXP 	pracfeedback: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+32.3067 	EXP 	pracfeedback: text = 'Correct! \nScore = 100.0%'
+32.3067 	EXP 	pracfeedback: autoDraw = True
+32.3098 	DATA 	Keypress: right
+33.2912 	EXP 	New trial (rep=0, index=7): {'No': 8, 'Category': 'practice', 'earlier_stim': '星期六', 'later_stim': '星期五', 'conguency': 'incongruent', 'orientation': 'Vert', 'instruction': 'late', 'corr_resp': 'up', 'Instruction_stim': 'image/Chi_late.png', 'early_position': [0, 0.3], 'late_position': [0, -0.3]}
+33.3129 	EXP 	pracfeedback: autoDraw = False
+33.3129 	EXP 	pracfeedback: autoDraw = False
+33.3129 	EXP 	image: image = 'image/Chi_late.png'
+33.3129 	EXP 	image: autoDraw = True
+34.3233 	EXP 	image: autoDraw = False
+34.3233 	EXP 	early: height = 0.05
+34.3233 	EXP 	early: height = 0.05
+34.3233 	EXP 	early: height = 0.05
+34.3233 	EXP 	early: text = '星期六'
+34.3233 	EXP 	late: height = 0.05
+34.3233 	EXP 	late: height = 0.05
+34.3233 	EXP 	late: height = 0.05
+34.3233 	EXP 	late: text = '星期五'
+34.3233 	EXP 	early: autoDraw = True
+34.3233 	EXP 	late: autoDraw = True
+35.3901 	EXP 	early: autoDraw = False
+35.3901 	EXP 	late: autoDraw = False
+35.3901 	EXP 	pracfeedback: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+35.3901 	EXP 	pracfeedback: text = 'Correct! \nScore = 100.0%'
+35.3901 	EXP 	pracfeedback: autoDraw = True
+35.3932 	DATA 	Keypress: up
+36.3750 	EXP 	New trial (rep=1, index=0): None
+36.3903 	EXP 	pracfeedback: autoDraw = False
+36.3903 	EXP 	pracfeedback: autoDraw = False
+36.3903 	EXP 	pracintro: text = '在参与实验之前，我们先进行练习。 \n\n 为了通过练习，您必须在练习中答对 90%。 \n\n 如果您已理解，请按空格键以开始。 \n\nBefore participating in the experiment, we will pratice first.  \n\n In order to start the experiment, you must get at least 90% correct in the practice round. \n\n If you understand the explanation, please press the space bar. '
+36.3903 	EXP 	pracintro: autoDraw = True
+37.4093 	EXP 	Imported Practice_Chi.xlsx as conditions, 8 conditions, 11 params
+37.4096 	EXP 	Created sequence: random, trialTypes=8, nReps=1, seed=None
+37.4098 	EXP 	New trial (rep=0, index=0): {'No': 7, 'Category': 'practice', 'earlier_stim': '星期三 ', 'later_stim': '星期二', 'conguency': 'incongruent', 'orientation': 'Vert', 'instruction': 'early', 'corr_resp': 'down', 'Instruction_stim': 'image/Chi_early.png', 'early_position': [0, 0.3], 'late_position': [0, -0.3]}
+37.4207 	EXP 	pracintro: autoDraw = False
+37.4207 	EXP 	image: image = 'image/Chi_early.png'
+37.4207 	EXP 	image: autoDraw = True
+37.4215 	DATA 	Keypress: space
+38.4232 	EXP 	image: autoDraw = False
+38.4232 	EXP 	early: height = 0.05
+38.4232 	EXP 	early: height = 0.05
+38.4232 	EXP 	early: height = 0.05
+38.4232 	EXP 	early: text = '星期三 '
+38.4232 	EXP 	late: height = 0.05
+38.4232 	EXP 	late: height = 0.05
+38.4232 	EXP 	late: height = 0.05
+38.4232 	EXP 	late: text = '星期二'
+38.4232 	EXP 	early: autoDraw = True
+38.4232 	EXP 	late: autoDraw = True
+40.1232 	EXP 	early: autoDraw = False
+40.1232 	EXP 	late: autoDraw = False
+40.1232 	EXP 	pracfeedback: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+40.1232 	EXP 	pracfeedback: text = 'Correct! \nScore = 100.0%'
+40.1232 	EXP 	pracfeedback: autoDraw = True
+40.1269 	DATA 	Keypress: down
+41.1080 	EXP 	New trial (rep=0, index=1): {'No': 3, 'Category': 'practice', 'earlier_stim': '星期一', 'later_stim': '星期二', 'conguency': 'congruent', 'orientation': 'Vert', 'instruction': 'early', 'corr_resp': 'up', 'Instruction_stim': 'image/Chi_early.png', 'early_position': [0, 0.3], 'late_position': [0, -0.3]}
+41.1237 	EXP 	pracfeedback: autoDraw = False
+41.1237 	EXP 	pracfeedback: autoDraw = False
+41.1237 	EXP 	image: image = 'image/Chi_early.png'
+41.1237 	EXP 	image: autoDraw = True
+42.1233 	EXP 	image: autoDraw = False
+42.1233 	EXP 	image: autoDraw = False
+42.1233 	EXP 	early: height = 0.05
+42.1233 	EXP 	early: height = 0.05
+42.1233 	EXP 	early: height = 0.05
+42.1233 	EXP 	early: text = '星期一'
+42.1233 	EXP 	late: text = '星期二'
+42.1233 	EXP 	early: autoDraw = True
+42.1233 	EXP 	late: autoDraw = True
+43.3733 	EXP 	early: autoDraw = False
+43.3733 	EXP 	late: autoDraw = False
+43.3733 	EXP 	pracfeedback: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+43.3733 	EXP 	pracfeedback: text = 'Correct! \nScore = 100.0%'
+43.3733 	EXP 	pracfeedback: autoDraw = True
+43.3767 	DATA 	Keypress: up
+44.3581 	EXP 	New trial (rep=0, index=2): {'No': 4, 'Category': 'practice', 'earlier_stim': '星期日', 'later_stim': '星期一', 'conguency': 'congruent', 'orientation': 'Vert', 'instruction': 'late', 'corr_resp': 'down', 'Instruction_stim': 'image/Chi_late.png', 'early_position': [0, 0.3], 'late_position': [0, -0.3]}
+44.3748 	EXP 	pracfeedback: autoDraw = False
+44.3748 	EXP 	pracfeedback: autoDraw = False
+44.3748 	EXP 	image: image = 'image/Chi_late.png'
+44.3748 	EXP 	image: autoDraw = True
+45.3901 	EXP 	image: autoDraw = False
+45.3901 	EXP 	early: height = 0.05
+45.3901 	EXP 	early: height = 0.05
+45.3901 	EXP 	early: height = 0.05
+45.3901 	EXP 	early: text = '星期日'
+45.3901 	EXP 	late: height = 0.05
+45.3901 	EXP 	late: height = 0.05
+45.3901 	EXP 	late: height = 0.05
+45.3901 	EXP 	late: text = '星期一'
+45.3901 	EXP 	early: autoDraw = True
+45.3901 	EXP 	late: autoDraw = True
+47.5232 	EXP 	early: autoDraw = False
+47.5232 	EXP 	late: autoDraw = False
+47.5232 	EXP 	pracfeedback: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+47.5232 	EXP 	pracfeedback: text = 'Correct! \nScore = 100.0%'
+47.5232 	EXP 	pracfeedback: autoDraw = True
+47.5261 	DATA 	Keypress: down
+48.5081 	EXP 	New trial (rep=0, index=3): {'No': 8, 'Category': 'practice', 'earlier_stim': '星期六', 'later_stim': '星期五', 'conguency': 'incongruent', 'orientation': 'Vert', 'instruction': 'late', 'corr_resp': 'up', 'Instruction_stim': 'image/Chi_late.png', 'early_position': [0, 0.3], 'late_position': [0, -0.3]}
+48.5236 	EXP 	pracfeedback: autoDraw = False
+48.5236 	EXP 	pracfeedback: autoDraw = False
+48.5236 	EXP 	image: image = 'image/Chi_late.png'
+48.5236 	EXP 	image: autoDraw = True
+49.5232 	EXP 	image: autoDraw = False
+49.5232 	EXP 	image: autoDraw = False
+49.5232 	EXP 	early: height = 0.05
+49.5232 	EXP 	early: height = 0.05
+49.5232 	EXP 	early: height = 0.05
+49.5232 	EXP 	early: text = '星期六'
+49.5232 	EXP 	late: height = 0.05
+49.5232 	EXP 	late: height = 0.05
+49.5232 	EXP 	late: height = 0.05
+49.5232 	EXP 	late: text = '星期五'
+49.5232 	EXP 	early: autoDraw = True
+49.5232 	EXP 	late: autoDraw = True
+49.5945 	DATA 	Keypress: escape
+50.2735 	EXP 	window1: mouseVisible = True

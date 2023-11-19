@@ -1,0 +1,1725 @@
+3.6317 	ERROR 	Support for the `sounddevice` audio backend is not available this session. Please install `psychopy-sounddevice` and restart the session to enable support.
+9.7442 	INFO 	Loaded monitor calibration from ['2022_10_20 13:53']
+10.1381 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.1398 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.1417 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.1446 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.1472 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.1482 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.1500 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.1527 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.1532 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.1537 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.1557 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.1576 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.1592 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.1611 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.1624 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.1646 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.1663 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.1668 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.1677 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.1704 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.1709 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.1718 	DEBUG 	Uploading Texture Font fontname to graphics card
+10.1774 	DEBUG 	Upload of Texture Font fontname complete
+10.2064 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.2092 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.2118 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.2121 	DEBUG 	Uploading Texture Font fontname to graphics card
+10.2157 	DEBUG 	Upload of Texture Font fontname complete
+11.3082 	WARNING 	Couldn't measure a consistent frame rate!
+  - Is your graphics card set to sync to vertical blank?
+  - Are you running other processes on your computer?
+
+11.3097 	EXP 	Created window1 = Window(allowGUI=True, allowStencil=False, autoLog=True, backendConf=UNKNOWN, backgroundFit=<method-wrapper '__getattribute__' of attributeSetter object at 0x7fa3d878aa90>, backgroundImage=<method-wrapper '__getattribute__' of attributeSetter object at 0x7fa3d878aa30>, bitsMode=UNKNOWN, blendMode='avg', bpc=(8, 8, 8), color=array([0, 0, 0]), colorSpace='rgb', depthBits=8, fullscr=<method-wrapper '__getattribute__' of attributeSetter object at 0x7fa3d878a880>, gamma=None, gammaErrorPolicy='raise', lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x7fa3c06121f0>, multiSample=False, name='window1', numSamples=2, pos=[367.5, 239.0], screen=0, size=array([2940, 1912]), stencilBits=0, stereo=False, title='PsychoPy', units='height', useFBO=True, useRetina=True, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+11.3159 	EXP 	window1: mouseVisible = True
+11.3159 	EXP 	window1: backgroundImage = ''
+11.3160 	EXP 	window1: backgroundFit = 'none'
+11.3190 	EXP 	window1: Attempting to measure frame rate of screen (0) ...
+11.3190 	EXP 	window1: recordFrameIntervals = False
+11.4082 	EXP 	window1: recordFrameIntervals = True
+12.2588 	WARNING 	Couldn't measure a consistent frame rate!
+  - Is your graphics card set to sync to vertical blank?
+  - Are you running other processes on your computer?
+
+12.2596 	EXP 	window1: mouseVisible = False
+17.0448 	INFO 	keyboard.Keyboard is using iohub backend.
+17.0449 	EXP 	ETchi: status = STARTED
+17.0503 	EXP 	window1: mouseVisible = True
+17.1012 	EXP 	Created intro_1 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([-1., -1., -1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='NanumGothic', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='intro_1', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text=' Tasks', units='height', win=Window(...), wrapWidth=1)
+17.1080 	EXP 	window1: mouseVisible = True
+17.1854 	EXP 	Created intro_2 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([-1., -1., -1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='NanumGothic', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='intro_2', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='height', win=Window(...), wrapWidth=1)
+17.1855 	INFO 	keyboard.Keyboard is using iohub backend.
+17.1907 	EXP 	window1: mouseVisible = True
+17.2592 	EXP 	Created Intro_3 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([-1., -1., -1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='NanumGothic', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='Intro_3', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='height', win=Window(...), wrapWidth=1)
+17.2593 	INFO 	keyboard.Keyboard is using iohub backend.
+17.2635 	EXP 	window1: mouseVisible = True
+17.2647 	EXP 	Created pracintro = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([-1., -1., -1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='NanumGothic', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='pracintro', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+17.2648 	INFO 	keyboard.Keyboard is using iohub backend.
+17.2683 	EXP 	window1: mouseVisible = True
+17.3020 	EXP 	Created image = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, draggable=False, flipHoriz=False, flipVert=False, image='default.png', interpolate=True, mask=None, maskParams=None, name='image', opacity=1.0, ori=0.0, pos=array([0., 0.]), size=array([2. , 0.7]), texRes=128.0, units='height', win=Window(...))
+17.3077 	EXP 	window1: mouseVisible = True
+17.3121 	EXP 	Created early = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([-1., -1., -1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='early', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+17.3121 	INFO 	keyboard.Keyboard is using iohub backend.
+17.3158 	EXP 	window1: mouseVisible = True
+17.3172 	EXP 	Created late = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([-1., -1., -1.]), colorSpace='rgb', contrast=1.0, depth=-2.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='late', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+17.3208 	EXP 	window1: mouseVisible = True
+17.3222 	EXP 	Created pracfeedback = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.1, italic=False, languageStyle='LTR', name='pracfeedback', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+17.3275 	EXP 	window1: mouseVisible = True
+17.3451 	EXP 	Created intro_5 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([-1., -1., -1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='NanumGothic', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='intro_5', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='height', win=Window(...), wrapWidth=1)
+17.3451 	INFO 	keyboard.Keyboard is using iohub backend.
+17.3544 	EXP 	window1: mouseVisible = True
+17.3733 	EXP 	Created main_image_2 = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, image='default.png', interpolate=True, mask=None, maskParams=None, name='main_image_2', opacity=1.0, ori=0.0, pos=array([0., 0.]), size=array([2. , 0.7]), texRes=128.0, units='height', win=Window(...))
+17.3772 	EXP 	window1: mouseVisible = True
+17.3784 	EXP 	Created main_early = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([-1., -1., -1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='main_early', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+17.3785 	INFO 	keyboard.Keyboard is using iohub backend.
+17.3821 	EXP 	window1: mouseVisible = True
+17.3833 	EXP 	Created main_late = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([-1., -1., -1.]), colorSpace='rgb', contrast=1.0, depth=-3.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='main_late', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+17.3870 	EXP 	window1: mouseVisible = True
+17.3911 	EXP 	Created fix = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-4.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='fix', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='+', units='height', win=Window(...), wrapWidth=1)
+17.3947 	EXP 	window1: mouseVisible = True
+17.3959 	EXP 	Created text = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='text', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+17.3994 	EXP 	window1: mouseVisible = True
+17.4178 	EXP 	Created fengjing = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, draggable=False, flipHoriz=False, flipVert=False, image='default.png', interpolate=True, mask=None, maskParams=None, name='fengjing', opacity=1.0, ori=0.0, pos=array([0., 0.]), size=array([0.5, 0.5]), texRes=128.0, units='height', win=Window(...))
+17.4178 	INFO 	keyboard.Keyboard is using iohub backend.
+17.4215 	EXP 	window1: mouseVisible = True
+17.4395 	EXP 	Created main_image_2 = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, image='default.png', interpolate=True, mask=None, maskParams=None, name='main_image_2', opacity=1.0, ori=0.0, pos=array([0., 0.]), size=array([2. , 0.7]), texRes=128.0, units='height', win=Window(...))
+17.4444 	EXP 	window1: mouseVisible = True
+17.4456 	EXP 	Created main_early = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([-1., -1., -1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='main_early', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+17.4457 	INFO 	keyboard.Keyboard is using iohub backend.
+17.4492 	EXP 	window1: mouseVisible = True
+17.4504 	EXP 	Created main_late = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([-1., -1., -1.]), colorSpace='rgb', contrast=1.0, depth=-3.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='main_late', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+17.4540 	EXP 	window1: mouseVisible = True
+17.4575 	EXP 	Created fix = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-4.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='fix', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='+', units='height', win=Window(...), wrapWidth=1)
+17.4613 	EXP 	window1: mouseVisible = True
+17.4625 	EXP 	Created text = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='text', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+17.4659 	EXP 	window1: mouseVisible = True
+17.4841 	EXP 	Created fengjing = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, draggable=False, flipHoriz=False, flipVert=False, image='default.png', interpolate=True, mask=None, maskParams=None, name='fengjing', opacity=1.0, ori=0.0, pos=array([0., 0.]), size=array([0.5, 0.5]), texRes=128.0, units='height', win=Window(...))
+17.4841 	INFO 	keyboard.Keyboard is using iohub backend.
+17.4877 	EXP 	window1: mouseVisible = True
+17.5057 	EXP 	Created main_image_2 = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, image='default.png', interpolate=True, mask=None, maskParams=None, name='main_image_2', opacity=1.0, ori=0.0, pos=array([0., 0.]), size=array([2. , 0.7]), texRes=128.0, units='height', win=Window(...))
+17.5110 	EXP 	window1: mouseVisible = True
+17.5122 	EXP 	Created main_early = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([-1., -1., -1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='main_early', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+17.5122 	INFO 	keyboard.Keyboard is using iohub backend.
+17.5158 	EXP 	window1: mouseVisible = True
+17.5169 	EXP 	Created main_late = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([-1., -1., -1.]), colorSpace='rgb', contrast=1.0, depth=-3.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='main_late', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+17.5204 	EXP 	window1: mouseVisible = True
+17.5228 	EXP 	Created fix = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-4.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='fix', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='+', units='height', win=Window(...), wrapWidth=1)
+17.5273 	EXP 	window1: mouseVisible = True
+17.5285 	EXP 	Created text = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='text', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+17.5319 	EXP 	window1: mouseVisible = True
+17.5498 	EXP 	Created fengjing = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, draggable=False, flipHoriz=False, flipVert=False, image='default.png', interpolate=True, mask=None, maskParams=None, name='fengjing', opacity=1.0, ori=0.0, pos=array([0., 0.]), size=array([0.5, 0.5]), texRes=128.0, units='height', win=Window(...))
+17.5498 	INFO 	keyboard.Keyboard is using iohub backend.
+17.5534 	EXP 	window1: mouseVisible = True
+17.5714 	EXP 	Created main_image_2 = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, image='default.png', interpolate=True, mask=None, maskParams=None, name='main_image_2', opacity=1.0, ori=0.0, pos=array([0., 0.]), size=array([2. , 0.7]), texRes=128.0, units='height', win=Window(...))
+17.5749 	EXP 	window1: mouseVisible = True
+17.5761 	EXP 	Created main_early = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([-1., -1., -1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='main_early', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+17.5761 	INFO 	keyboard.Keyboard is using iohub backend.
+17.5796 	EXP 	window1: mouseVisible = True
+17.5807 	EXP 	Created main_late = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([-1., -1., -1.]), colorSpace='rgb', contrast=1.0, depth=-3.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='main_late', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+17.5842 	EXP 	window1: mouseVisible = True
+17.5865 	EXP 	Created fix = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-4.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='fix', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='+', units='height', win=Window(...), wrapWidth=1)
+17.5909 	EXP 	window1: mouseVisible = True
+17.6103 	EXP 	Created theend = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([-1., -1., -1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='NanumGothic', fontFiles=[], height=0.1, italic=False, languageStyle='LTR', name='theend', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='height', win=Window(...), wrapWidth=1)
+0.0751 	EXP 	intro_1: autoDraw = True
+2.0134 	INFO 	Keyboard events cleared
+2.0131 	EXP 	intro_1: autoDraw = False
+2.0131 	EXP 	intro_2: autoDraw = True
+8.4226 	WARNING 	t of last frame was 20.48ms (=1/48)
+9.2872 	INFO 	Keyboard events cleared
+9.2868 	WARNING 	t of last frame was 34.21ms (=1/29)
+9.2868 	EXP 	intro_2: autoDraw = False
+9.2868 	EXP 	Intro_3: autoDraw = True
+9.4843 	DATA 	Keypress: space
+9.5119 	WARNING 	t of last frame was 214.87ms (=1/4)
+19.0503 	EXP 	Created sequence: sequential, trialTypes=1, nReps=3, seed=None
+19.0509 	EXP 	New trial (rep=0, index=0): None
+19.1055 	DATA 	Keypress: space
+19.1100 	INFO 	Keyboard events cleared
+19.1096 	WARNING 	t of last frame was 62.57ms (=1/15)
+19.1096 	EXP 	Intro_3: autoDraw = False
+19.1096 	EXP 	pracintro: height = 0.05
+19.1096 	EXP 	pracintro: height = 0.05
+19.1096 	EXP 	pracintro: height = 0.05
+19.1096 	EXP 	pracintro: text = '在参与实验之前，我们先进行练习。 \n\n 为了通过练习，您必须在练习中答对 90%。 \n\n 如果您已理解，请按空格键以开始。 \n\nBefore participating in the experiment, we will pratice first.  \n\n In order to start the experiment, you must get at least 90% correct in the practice round. \n\n If you understand the explanation, please press the space bar. '
+19.1096 	EXP 	pracintro: autoDraw = True
+22.0432 	DEBUG 	Read excel file with openpyxl: Practice_Chi.xlsx
+22.0458 	EXP 	Imported Practice_Chi.xlsx as conditions, 8 conditions, 11 params
+22.0479 	EXP 	Created sequence: random, trialTypes=8, nReps=1, seed=None
+22.0481 	EXP 	New trial (rep=0, index=0): {'No': 1, 'Category': 'practice', 'earlier_stim': '星期三 ', 'later_stim': '星期四', 'conguency': 'congruent', 'orientation': 'Hori', 'instruction': 'early', 'corr_resp': 'left', 'Instruction_stim': 'image/Chi_early.png', 'early_position': [-0.3, 0], 'late_position': [0.3, 0]}
+22.0984 	DATA 	Keypress: space
+22.1035 	WARNING 	Multiple dropped frames have occurred - I'll stop bothering you about them!
+22.1035 	EXP 	pracintro: autoDraw = False
+22.1035 	EXP 	image: image = 'image/Chi_early.png'
+22.1035 	EXP 	image: autoDraw = True
+23.0359 	INFO 	Keyboard events cleared
+23.0356 	EXP 	image: autoDraw = False
+23.0356 	EXP 	early: height = 0.05
+23.0356 	EXP 	early: height = 0.05
+23.0356 	EXP 	early: height = 0.05
+23.0356 	EXP 	early: text = '星期三 '
+23.0356 	EXP 	late: height = 0.05
+23.0356 	EXP 	late: height = 0.05
+23.0356 	EXP 	late: height = 0.05
+23.0356 	EXP 	late: text = '星期四'
+23.0356 	EXP 	early: autoDraw = True
+23.0356 	EXP 	late: autoDraw = True
+26.4988 	DATA 	Keypress: left
+26.5035 	EXP 	early: autoDraw = False
+26.5035 	EXP 	late: autoDraw = False
+26.5035 	EXP 	pracfeedback: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+26.5035 	EXP 	pracfeedback: height = 0.1
+26.5035 	EXP 	pracfeedback: height = 0.1
+26.5035 	EXP 	pracfeedback: height = 0.1
+26.5035 	EXP 	pracfeedback: text = 'Correct! \nScore = 100.0%'
+26.5035 	EXP 	pracfeedback: autoDraw = True
+27.3982 	EXP 	New trial (rep=0, index=1): {'No': 7, 'Category': 'practice', 'earlier_stim': '星期三 ', 'later_stim': '星期二', 'conguency': 'incongruent', 'orientation': 'Vert', 'instruction': 'early', 'corr_resp': 'down', 'Instruction_stim': 'image/Chi_early.png', 'early_position': [0, 0.3], 'late_position': [0, -0.3]}
+27.4336 	EXP 	pracfeedback: autoDraw = False
+27.4336 	EXP 	image: image = 'image/Chi_early.png'
+27.4336 	EXP 	image: autoDraw = True
+28.4127 	INFO 	Keyboard events cleared
+28.4122 	EXP 	image: autoDraw = False
+28.4122 	EXP 	early: text = '星期三 '
+28.4122 	EXP 	late: height = 0.05
+28.4122 	EXP 	late: height = 0.05
+28.4122 	EXP 	late: height = 0.05
+28.4122 	EXP 	late: text = '星期二'
+28.4122 	EXP 	early: autoDraw = True
+28.4122 	EXP 	late: autoDraw = True
+29.7704 	DATA 	Keypress: down
+29.7742 	EXP 	early: autoDraw = False
+29.7742 	EXP 	late: autoDraw = False
+29.7742 	EXP 	pracfeedback: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+29.7742 	EXP 	pracfeedback: text = 'Correct! \nScore = 100.0%'
+29.7742 	EXP 	pracfeedback: autoDraw = True
+30.7652 	EXP 	New trial (rep=0, index=2): {'No': 2, 'Category': 'practice', 'earlier_stim': '星期五', 'later_stim': '星期六', 'conguency': 'congruent', 'orientation': 'Hori', 'instruction': 'late', 'corr_resp': 'right', 'Instruction_stim': 'image/Chi_late.png', 'early_position': [-0.3, 0], 'late_position': [0.3, 0]}
+30.8060 	EXP 	pracfeedback: autoDraw = False
+30.8060 	EXP 	pracfeedback: autoDraw = False
+30.8060 	EXP 	image: image = 'image/Chi_late.png'
+30.8060 	EXP 	image: autoDraw = True
+31.7881 	INFO 	Keyboard events cleared
+31.7877 	EXP 	image: autoDraw = False
+31.7877 	EXP 	early: height = 0.05
+31.7877 	EXP 	early: height = 0.05
+31.7877 	EXP 	early: height = 0.05
+31.7877 	EXP 	early: text = '星期五'
+31.7877 	EXP 	late: height = 0.05
+31.7877 	EXP 	late: height = 0.05
+31.7877 	EXP 	late: height = 0.05
+31.7877 	EXP 	late: text = '星期六'
+31.7877 	EXP 	early: autoDraw = True
+31.7877 	EXP 	late: autoDraw = True
+33.1097 	DATA 	Keypress: right
+33.1138 	EXP 	early: autoDraw = False
+33.1138 	EXP 	late: autoDraw = False
+33.1138 	EXP 	pracfeedback: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+33.1138 	EXP 	pracfeedback: text = 'Correct! \nScore = 100.0%'
+33.1138 	EXP 	pracfeedback: autoDraw = True
+34.0981 	EXP 	New trial (rep=0, index=3): {'No': 8, 'Category': 'practice', 'earlier_stim': '星期六', 'later_stim': '星期五', 'conguency': 'incongruent', 'orientation': 'Vert', 'instruction': 'late', 'corr_resp': 'up', 'Instruction_stim': 'image/Chi_late.png', 'early_position': [0, 0.3], 'late_position': [0, -0.3]}
+34.1323 	EXP 	pracfeedback: autoDraw = False
+34.1323 	EXP 	pracfeedback: autoDraw = False
+34.1323 	EXP 	image: image = 'image/Chi_late.png'
+34.1323 	EXP 	image: autoDraw = True
+35.1269 	INFO 	Keyboard events cleared
+35.1266 	EXP 	image: autoDraw = False
+35.1266 	EXP 	early: height = 0.05
+35.1266 	EXP 	early: height = 0.05
+35.1266 	EXP 	early: height = 0.05
+35.1266 	EXP 	early: text = '星期六'
+35.1266 	EXP 	late: height = 0.05
+35.1266 	EXP 	late: height = 0.05
+35.1266 	EXP 	late: height = 0.05
+35.1266 	EXP 	late: text = '星期五'
+35.1266 	EXP 	early: autoDraw = True
+35.1266 	EXP 	late: autoDraw = True
+36.2348 	DATA 	Keypress: up
+36.2389 	EXP 	early: autoDraw = False
+36.2389 	EXP 	late: autoDraw = False
+36.2389 	EXP 	pracfeedback: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+36.2389 	EXP 	pracfeedback: text = 'Correct! \nScore = 100.0%'
+36.2389 	EXP 	pracfeedback: autoDraw = True
+37.2313 	EXP 	New trial (rep=0, index=4): {'No': 3, 'Category': 'practice', 'earlier_stim': '星期一', 'later_stim': '星期二', 'conguency': 'congruent', 'orientation': 'Vert', 'instruction': 'early', 'corr_resp': 'up', 'Instruction_stim': 'image/Chi_early.png', 'early_position': [0, 0.3], 'late_position': [0, -0.3]}
+37.2672 	EXP 	pracfeedback: autoDraw = False
+37.2672 	EXP 	pracfeedback: autoDraw = False
+37.2672 	EXP 	image: image = 'image/Chi_early.png'
+37.2672 	EXP 	image: autoDraw = True
+38.2536 	INFO 	Keyboard events cleared
+38.2533 	EXP 	image: autoDraw = False
+38.2533 	EXP 	early: height = 0.05
+38.2533 	EXP 	early: height = 0.05
+38.2533 	EXP 	early: height = 0.05
+38.2533 	EXP 	early: text = '星期一'
+38.2533 	EXP 	late: height = 0.05
+38.2533 	EXP 	late: height = 0.05
+38.2533 	EXP 	late: height = 0.05
+38.2533 	EXP 	late: text = '星期二'
+38.2533 	EXP 	early: autoDraw = True
+38.2533 	EXP 	late: autoDraw = True
+39.5580 	DATA 	Keypress: up
+39.5625 	EXP 	early: autoDraw = False
+39.5625 	EXP 	late: autoDraw = False
+39.5625 	EXP 	pracfeedback: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+39.5625 	EXP 	pracfeedback: text = 'Correct! \nScore = 100.0%'
+39.5625 	EXP 	pracfeedback: autoDraw = True
+40.5487 	EXP 	New trial (rep=0, index=5): {'No': 4, 'Category': 'practice', 'earlier_stim': '星期日', 'later_stim': '星期一', 'conguency': 'congruent', 'orientation': 'Vert', 'instruction': 'late', 'corr_resp': 'down', 'Instruction_stim': 'image/Chi_late.png', 'early_position': [0, 0.3], 'late_position': [0, -0.3]}
+40.5878 	EXP 	pracfeedback: autoDraw = False
+40.5878 	EXP 	pracfeedback: autoDraw = False
+40.5878 	EXP 	image: image = 'image/Chi_late.png'
+40.5878 	EXP 	image: autoDraw = True
+41.5840 	INFO 	Keyboard events cleared
+41.5836 	EXP 	image: autoDraw = False
+41.5836 	EXP 	early: height = 0.05
+41.5836 	EXP 	early: height = 0.05
+41.5836 	EXP 	early: height = 0.05
+41.5836 	EXP 	early: text = '星期日'
+41.5836 	EXP 	late: height = 0.05
+41.5836 	EXP 	late: height = 0.05
+41.5836 	EXP 	late: height = 0.05
+41.5836 	EXP 	late: text = '星期一'
+41.5836 	EXP 	early: autoDraw = True
+41.5836 	EXP 	late: autoDraw = True
+42.9978 	DATA 	Keypress: up
+43.0019 	EXP 	early: autoDraw = False
+43.0019 	EXP 	late: autoDraw = False
+43.0019 	EXP 	pracfeedback: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+43.0019 	EXP 	pracfeedback: height = 0.1
+43.0019 	EXP 	pracfeedback: height = 0.1
+43.0019 	EXP 	pracfeedback: height = 0.1
+43.0019 	EXP 	pracfeedback: text = 'Oops! That was wrong \nScore = 83.3%'
+43.0019 	EXP 	pracfeedback: autoDraw = True
+43.9861 	EXP 	New trial (rep=0, index=6): {'No': 6, 'Category': 'practice', 'earlier_stim': '星期四', 'later_stim': '星期三 ', 'conguency': 'incongruent', 'orientation': 'Hori', 'instruction': 'late', 'corr_resp': 'left', 'Instruction_stim': 'image/Chi_late.png', 'early_position': [-0.3, 0], 'late_position': [0.3, 0]}
+44.0211 	EXP 	pracfeedback: autoDraw = False
+44.0211 	EXP 	image: image = 'image/Chi_late.png'
+44.0211 	EXP 	image: autoDraw = True
+45.0008 	INFO 	Keyboard events cleared
+45.0006 	EXP 	image: autoDraw = False
+45.0006 	EXP 	early: height = 0.05
+45.0006 	EXP 	early: height = 0.05
+45.0006 	EXP 	early: height = 0.05
+45.0006 	EXP 	early: text = '星期四'
+45.0006 	EXP 	late: height = 0.05
+45.0006 	EXP 	late: height = 0.05
+45.0006 	EXP 	late: height = 0.05
+45.0006 	EXP 	late: text = '星期三 '
+45.0006 	EXP 	early: autoDraw = True
+45.0006 	EXP 	late: autoDraw = True
+46.9413 	DATA 	Keypress: left
+46.9454 	EXP 	early: autoDraw = False
+46.9454 	EXP 	late: autoDraw = False
+46.9454 	EXP 	pracfeedback: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+46.9454 	EXP 	pracfeedback: height = 0.1
+46.9454 	EXP 	pracfeedback: height = 0.1
+46.9454 	EXP 	pracfeedback: height = 0.1
+46.9454 	EXP 	pracfeedback: text = 'Correct! \nScore = 85.7%'
+46.9454 	EXP 	pracfeedback: autoDraw = True
+47.9318 	EXP 	New trial (rep=0, index=7): {'No': 5, 'Category': 'practice', 'earlier_stim': '星期二', 'later_stim': '星期一', 'conguency': 'incongruent', 'orientation': 'Hori', 'instruction': 'early', 'corr_resp': 'right', 'Instruction_stim': 'image/Chi_early.png', 'early_position': [-0.3, 0], 'late_position': [0.3, 0]}
+47.9704 	EXP 	pracfeedback: autoDraw = False
+47.9704 	EXP 	pracfeedback: autoDraw = False
+47.9704 	EXP 	image: image = 'image/Chi_early.png'
+47.9704 	EXP 	image: autoDraw = True
+48.9509 	INFO 	Keyboard events cleared
+48.9506 	EXP 	image: autoDraw = False
+48.9506 	EXP 	early: height = 0.05
+48.9506 	EXP 	early: height = 0.05
+48.9506 	EXP 	early: height = 0.05
+48.9506 	EXP 	early: text = '星期二'
+48.9506 	EXP 	late: height = 0.05
+48.9506 	EXP 	late: height = 0.05
+48.9506 	EXP 	late: height = 0.05
+48.9506 	EXP 	late: text = '星期一'
+48.9506 	EXP 	early: autoDraw = True
+48.9506 	EXP 	late: autoDraw = True
+50.0317 	DATA 	Keypress: right
+50.0356 	EXP 	early: autoDraw = False
+50.0356 	EXP 	late: autoDraw = False
+50.0356 	EXP 	pracfeedback: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+50.0356 	EXP 	pracfeedback: height = 0.1
+50.0356 	EXP 	pracfeedback: height = 0.1
+50.0356 	EXP 	pracfeedback: height = 0.1
+50.0356 	EXP 	pracfeedback: text = 'Correct! \nScore = 87.5%'
+50.0356 	EXP 	pracfeedback: autoDraw = True
+51.0294 	INFO 	Keyboard events cleared
+51.0292 	EXP 	pracfeedback: autoDraw = False
+51.0292 	EXP 	pracfeedback: autoDraw = False
+51.0292 	EXP 	intro_5: autoDraw = True
+53.2041 	DEBUG 	Read csv file with pandas: blocks/Block 1.csv
+53.2100 	DEBUG 	Clearing unnamed columns from blocks/Block 1.csv
+53.2157 	EXP 	Imported blocks/Block 1.csv as conditions, 50 conditions, 12 params
+53.2165 	EXP 	Created sequence: sequential, trialTypes=50, nReps=1, seed=None
+53.2167 	EXP 	New trial (rep=0, index=0): OrderedDict([('No', 142), ('Category', 'Week'), ('earlier_stim', '星期五'), ('later_stim', '星期四'), ('distance', 1), ('congruency', 'incongruent'), ('orientation', 'Vert'), ('instruction', 'early'), ('corr_resp', 'down'), ('Instruction_stim', 'image/Chi_early.png'), ('early_position', [0, 0.3]), ('late_position', [0, -0.3])])
+53.2500 	DATA 	Keypress: space
+53.2560 	EXP 	intro_5: autoDraw = False
+53.2560 	EXP 	main_image_2: image = 'image/Chi_early.png'
+53.2560 	EXP 	main_early: height = 0.05
+53.2560 	EXP 	main_early: height = 0.05
+53.2560 	EXP 	main_early: height = 0.05
+53.2560 	EXP 	main_early: text = '星期五'
+53.2560 	EXP 	main_late: height = 0.05
+53.2560 	EXP 	main_late: height = 0.05
+53.2560 	EXP 	main_late: height = 0.05
+53.2560 	EXP 	main_late: text = '星期四'
+53.2560 	EXP 	main_image_2: autoDraw = True
+54.1800 	EXP 	fix: autoDraw = True
+54.2516 	EXP 	main_image_2: autoDraw = False
+54.6709 	INFO 	Keyboard events cleared
+54.6704 	EXP 	main_early: autoDraw = True
+54.6704 	EXP 	main_late: autoDraw = True
+54.6704 	EXP 	fix: autoDraw = False
+55.9889 	EXP 	New trial (rep=0, index=1): OrderedDict([('No', 75), ('Category', 'Month'), ('earlier_stim', '十月 '), ('later_stim', '九月 '), ('distance', 1), ('congruency', 'incongruent'), ('orientation', 'Vert'), ('instruction', 'early'), ('corr_resp', 'down'), ('Instruction_stim', 'image/Chi_early.png'), ('early_position', [0, 0.3]), ('late_position', [0, -0.3])])
+56.0214 	DATA 	Keypress: up
+56.0272 	EXP 	main_image_2: autoDraw = False
+56.0272 	EXP 	main_early: autoDraw = False
+56.0272 	EXP 	main_late: autoDraw = False
+56.0272 	EXP 	fix: autoDraw = False
+56.0272 	EXP 	main_image_2: image = 'image/Chi_early.png'
+56.0272 	EXP 	main_early: height = 0.05
+56.0272 	EXP 	main_early: height = 0.05
+56.0272 	EXP 	main_early: height = 0.05
+56.0272 	EXP 	main_early: text = '十月 '
+56.0272 	EXP 	main_late: height = 0.05
+56.0272 	EXP 	main_late: height = 0.05
+56.0272 	EXP 	main_late: height = 0.05
+56.0272 	EXP 	main_late: text = '九月 '
+56.0272 	EXP 	main_image_2: autoDraw = True
+56.9886 	EXP 	fix: autoDraw = True
+57.0303 	EXP 	main_image_2: autoDraw = False
+57.4886 	INFO 	Keyboard events cleared
+57.4881 	EXP 	main_early: autoDraw = True
+57.4881 	EXP 	main_late: autoDraw = True
+57.4881 	EXP 	fix: autoDraw = False
+57.5376 	EXP 	New trial (rep=0, index=2): OrderedDict([('No', 29), ('Category', 'Month'), ('earlier_stim', '七月'), ('later_stim', '八月'), ('distance', 1), ('congruency', 'congruent'), ('orientation', 'Vert'), ('instruction', 'early'), ('corr_resp', 'up'), ('Instruction_stim', 'image/Chi_early.png'), ('early_position', [0, 0.3]), ('late_position', [0, -0.3])])
+57.5728 	DATA 	Keypress: up
+57.5786 	EXP 	main_image_2: autoDraw = False
+57.5786 	EXP 	main_early: autoDraw = False
+57.5786 	EXP 	main_late: autoDraw = False
+57.5786 	EXP 	fix: autoDraw = False
+57.5786 	EXP 	main_image_2: image = 'image/Chi_early.png'
+57.5786 	EXP 	main_early: height = 0.05
+57.5786 	EXP 	main_early: height = 0.05
+57.5786 	EXP 	main_early: height = 0.05
+57.5786 	EXP 	main_early: text = '七月'
+57.5786 	EXP 	main_late: height = 0.05
+57.5786 	EXP 	main_late: height = 0.05
+57.5786 	EXP 	main_late: height = 0.05
+57.5786 	EXP 	main_late: text = '八月'
+57.5786 	EXP 	main_image_2: autoDraw = True
+57.7712 	DATA 	Keypress: up
+58.0070 	DATA 	Keypress: up
+58.2337 	DATA 	Keypress: up
+58.4334 	DATA 	Keypress: up
+58.5391 	EXP 	fix: autoDraw = True
+58.5667 	EXP 	main_image_2: autoDraw = False
+58.6197 	DATA 	Keypress: up
+58.8072 	DATA 	Keypress: up
+58.9881 	DATA 	Keypress: up
+59.0379 	INFO 	Keyboard events cleared
+59.0375 	EXP 	main_early: autoDraw = True
+59.0375 	EXP 	main_late: autoDraw = True
+59.0375 	EXP 	fix: autoDraw = False
+59.4533 	EXP 	New trial (rep=0, index=3): OrderedDict([('No', 106), ('Category', 'Week'), ('earlier_stim', '星期三\xa0'), ('later_stim', '星期六'), ('distance', 3), ('congruency', 'congruent'), ('orientation', 'Hori'), ('instruction', 'late'), ('corr_resp', 'right'), ('Instruction_stim', 'image/Chi_late.png'), ('early_position', [-0.3, 0]), ('late_position', [0.3, 0])])
+59.4891 	DATA 	Keypress: left
+59.4946 	EXP 	main_image_2: autoDraw = False
+59.4946 	EXP 	main_early: autoDraw = False
+59.4946 	EXP 	main_late: autoDraw = False
+59.4946 	EXP 	fix: autoDraw = False
+59.4946 	EXP 	main_image_2: image = 'image/Chi_late.png'
+59.4946 	EXP 	main_early: height = 0.05
+59.4946 	EXP 	main_early: height = 0.05
+59.4946 	EXP 	main_early: height = 0.05
+59.4946 	EXP 	main_early: text = '星期三\xa0'
+59.4946 	EXP 	main_late: height = 0.05
+59.4946 	EXP 	main_late: height = 0.05
+59.4946 	EXP 	main_late: height = 0.05
+59.4946 	EXP 	main_late: text = '星期六'
+59.4946 	EXP 	main_image_2: autoDraw = True
+59.6206 	DATA 	Keypress: left
+59.7907 	DATA 	Keypress: left
+59.9761 	DATA 	Keypress: left
+60.1486 	DATA 	Keypress: left
+60.3570 	DATA 	Keypress: left
+60.4472 	EXP 	fix: autoDraw = True
+60.4853 	EXP 	main_image_2: autoDraw = False
+60.5499 	DATA 	Keypress: left
+60.7705 	DATA 	Keypress: left
+60.9336 	EXP 	fix: autoDraw = False
+60.9551 	INFO 	Keyboard events cleared
+60.9547 	EXP 	main_early: autoDraw = True
+60.9547 	EXP 	main_late: autoDraw = True
+61.0050 	EXP 	New trial (rep=0, index=4): OrderedDict([('No', 20), ('Category', 'Month'), ('earlier_stim', '四月'), ('later_stim', '八月'), ('distance', 4), ('congruency', 'congruent'), ('orientation', 'Vert'), ('instruction', 'early'), ('corr_resp', 'up'), ('Instruction_stim', 'image/Chi_early.png'), ('early_position', [0, 0.3]), ('late_position', [0, -0.3])])
+61.0380 	DATA 	Keypress: left
+61.0438 	EXP 	main_image_2: autoDraw = False
+61.0438 	EXP 	main_early: autoDraw = False
+61.0438 	EXP 	main_late: autoDraw = False
+61.0438 	EXP 	fix: autoDraw = False
+61.0438 	EXP 	main_image_2: image = 'image/Chi_early.png'
+61.0438 	EXP 	main_early: height = 0.05
+61.0438 	EXP 	main_early: height = 0.05
+61.0438 	EXP 	main_early: height = 0.05
+61.0438 	EXP 	main_early: text = '四月'
+61.0438 	EXP 	main_late: height = 0.05
+61.0438 	EXP 	main_late: height = 0.05
+61.0438 	EXP 	main_late: height = 0.05
+61.0438 	EXP 	main_late: text = '八月'
+61.0438 	EXP 	main_image_2: autoDraw = True
+61.3407 	DATA 	Keypress: left
+61.5246 	DATA 	Keypress: left
+61.6912 	DATA 	Keypress: left
+61.8578 	DATA 	Keypress: left
+62.0057 	EXP 	fix: autoDraw = True
+62.0344 	EXP 	main_image_2: autoDraw = False
+62.0373 	DATA 	Keypress: left
+62.2215 	DATA 	Keypress: left
+62.4016 	DATA 	Keypress: left
+62.5042 	INFO 	Keyboard events cleared
+62.5037 	EXP 	main_early: autoDraw = True
+62.5037 	EXP 	main_late: autoDraw = True
+62.5037 	EXP 	fix: autoDraw = False
+62.5552 	EXP 	New trial (rep=0, index=5): OrderedDict([('No', 125), ('Category', 'Week'), ('earlier_stim', '星期三\xa0'), ('later_stim', '星期一'), ('distance', 2), ('congruency', 'incongruent'), ('orientation', 'Hori'), ('instruction', 'early'), ('corr_resp', 'right'), ('Instruction_stim', 'image/Chi_early.png'), ('early_position', [-0.3, 0]), ('late_position', [0.3, 0])])
+62.5878 	DATA 	Keypress: left
+62.5935 	EXP 	main_image_2: autoDraw = False
+62.5935 	EXP 	main_early: autoDraw = False
+62.5935 	EXP 	main_late: autoDraw = False
+62.5935 	EXP 	fix: autoDraw = False
+62.5935 	EXP 	main_image_2: image = 'image/Chi_early.png'
+62.5935 	EXP 	main_early: height = 0.05
+62.5935 	EXP 	main_early: height = 0.05
+62.5935 	EXP 	main_early: height = 0.05
+62.5935 	EXP 	main_early: text = '星期三\xa0'
+62.5935 	EXP 	main_late: height = 0.05
+62.5935 	EXP 	main_late: height = 0.05
+62.5935 	EXP 	main_late: height = 0.05
+62.5935 	EXP 	main_late: text = '星期一'
+62.5935 	EXP 	main_image_2: autoDraw = True
+62.7332 	DATA 	Keypress: left
+62.9077 	DATA 	Keypress: left
+63.0899 	DATA 	Keypress: left
+63.2859 	DATA 	Keypress: left
+63.4580 	DATA 	Keypress: left
+63.5541 	EXP 	fix: autoDraw = True
+63.5844 	EXP 	main_image_2: autoDraw = False
+63.6387 	DATA 	Keypress: left
+63.8501 	DATA 	Keypress: left
+64.0341 	DATA 	Keypress: left
+64.0462 	INFO 	Keyboard events cleared
+64.0458 	EXP 	main_early: autoDraw = True
+64.0458 	EXP 	main_late: autoDraw = True
+64.0458 	EXP 	fix: autoDraw = False
+64.1982 	EXP 	New trial (rep=0, index=6): OrderedDict([('No', 99), ('Category', 'Week'), ('earlier_stim', '星期三\xa0'), ('later_stim', '星期六'), ('distance', 3), ('congruency', 'congruent'), ('orientation', 'Hori'), ('instruction', 'early'), ('corr_resp', 'left'), ('Instruction_stim', 'image/Chi_early.png'), ('early_position', [-0.3, 0]), ('late_position', [0.3, 0])])
+64.2310 	DATA 	Keypress: left
+64.2365 	EXP 	main_image_2: autoDraw = False
+64.2365 	EXP 	main_early: autoDraw = False
+64.2365 	EXP 	main_late: autoDraw = False
+64.2365 	EXP 	fix: autoDraw = False
+64.2365 	EXP 	main_image_2: image = 'image/Chi_early.png'
+64.2365 	EXP 	main_early: text = '星期三\xa0'
+64.2365 	EXP 	main_late: height = 0.05
+64.2365 	EXP 	main_late: height = 0.05
+64.2365 	EXP 	main_late: height = 0.05
+64.2365 	EXP 	main_late: text = '星期六'
+64.2365 	EXP 	main_image_2: autoDraw = True
+64.3708 	DATA 	Keypress: left
+64.5669 	DATA 	Keypress: left
+64.7580 	DATA 	Keypress: left
+64.9711 	DATA 	Keypress: left
+65.1416 	DATA 	Keypress: left
+65.1957 	EXP 	fix: autoDraw = True
+65.2306 	EXP 	main_image_2: autoDraw = False
+65.3166 	DATA 	Keypress: left
+65.4749 	DATA 	Keypress: left
+65.6368 	DATA 	Keypress: left
+65.6874 	INFO 	Keyboard events cleared
+65.6870 	EXP 	main_early: autoDraw = True
+65.6870 	EXP 	main_late: autoDraw = True
+65.6870 	EXP 	fix: autoDraw = False
+65.8152 	EXP 	New trial (rep=0, index=7): OrderedDict([('No', 139), ('Category', 'Week'), ('earlier_stim', '星期四'), ('later_stim', '星期一'), ('distance', 3), ('congruency', 'incongruent'), ('orientation', 'Vert'), ('instruction', 'early'), ('corr_resp', 'down'), ('Instruction_stim', 'image/Chi_early.png'), ('early_position', [0, 0.3]), ('late_position', [0, -0.3])])
+65.8475 	DATA 	Keypress: left
+65.8530 	EXP 	main_image_2: autoDraw = False
+65.8530 	EXP 	main_early: autoDraw = False
+65.8530 	EXP 	main_late: autoDraw = False
+65.8530 	EXP 	fix: autoDraw = False
+65.8530 	EXP 	main_image_2: image = 'image/Chi_early.png'
+65.8530 	EXP 	main_early: height = 0.05
+65.8530 	EXP 	main_early: height = 0.05
+65.8530 	EXP 	main_early: height = 0.05
+65.8530 	EXP 	main_early: text = '星期四'
+65.8530 	EXP 	main_late: height = 0.05
+65.8530 	EXP 	main_late: height = 0.05
+65.8530 	EXP 	main_late: height = 0.05
+65.8530 	EXP 	main_late: text = '星期一'
+65.8530 	EXP 	main_image_2: autoDraw = True
+65.9873 	DATA 	Keypress: left
+66.1409 	DATA 	Keypress: left
+66.3007 	DATA 	Keypress: left
+66.4403 	DATA 	Keypress: left
+66.5736 	DATA 	Keypress: left
+66.7515 	DATA 	Keypress: left
+66.8123 	EXP 	fix: autoDraw = True
+66.8469 	EXP 	main_image_2: autoDraw = False
+66.8884 	DATA 	Keypress: left
+67.0711 	DATA 	Keypress: left
+67.2392 	DATA 	Keypress: left
+67.3012 	EXP 	fix: autoDraw = False
+67.3138 	INFO 	Keyboard events cleared
+67.3134 	EXP 	main_early: autoDraw = True
+67.3134 	EXP 	main_late: autoDraw = True
+67.4144 	EXP 	New trial (rep=0, index=8): OrderedDict([('No', 24), ('Category', 'Month'), ('earlier_stim', '四月'), ('later_stim', '六月'), ('distance', 2), ('congruency', 'congruent'), ('orientation', 'Vert'), ('instruction', 'early'), ('corr_resp', 'up'), ('Instruction_stim', 'image/Chi_early.png'), ('early_position', [0, 0.3]), ('late_position', [0, -0.3])])
+67.4427 	DATA 	Keypress: left
+67.4488 	EXP 	main_image_2: autoDraw = False
+67.4488 	EXP 	main_early: autoDraw = False
+67.4488 	EXP 	main_late: autoDraw = False
+67.4488 	EXP 	fix: autoDraw = False
+67.4488 	EXP 	main_image_2: image = 'image/Chi_early.png'
+67.4488 	EXP 	main_early: height = 0.05
+67.4488 	EXP 	main_early: height = 0.05
+67.4488 	EXP 	main_early: height = 0.05
+67.4488 	EXP 	main_early: text = '四月'
+67.4488 	EXP 	main_late: height = 0.05
+67.4488 	EXP 	main_late: height = 0.05
+67.4488 	EXP 	main_late: height = 0.05
+67.4488 	EXP 	main_late: text = '六月'
+67.4488 	EXP 	main_image_2: autoDraw = True
+67.5987 	DATA 	Keypress: left
+67.7737 	DATA 	Keypress: left
+67.9525 	DATA 	Keypress: left
+68.1178 	DATA 	Keypress: left
+68.2746 	DATA 	Keypress: left
+68.4050 	EXP 	fix: autoDraw = True
+68.4159 	DATA 	Keypress: left
+68.4472 	EXP 	main_image_2: autoDraw = False
+68.5714 	DATA 	Keypress: left
+68.7181 	DATA 	Keypress: left
+68.8881 	DATA 	Keypress: left
+68.9041 	INFO 	Keyboard events cleared
+68.9037 	EXP 	main_early: autoDraw = True
+68.9037 	EXP 	main_late: autoDraw = True
+68.9037 	EXP 	fix: autoDraw = False
+69.0541 	EXP 	New trial (rep=0, index=9): OrderedDict([('No', 12), ('Category', 'Week'), ('earlier_stim', '星期日'), ('later_stim', '星期四'), ('distance', 3), ('congruency', 'incongruent'), ('orientation', 'Vert'), ('instruction', 'late'), ('corr_resp', 'up'), ('Instruction_stim', 'image/Chi_late.png'), ('early_position', [0, 0.3]), ('late_position', [0, -0.3])])
+69.0877 	DATA 	Keypress: left
+69.0933 	EXP 	main_image_2: autoDraw = False
+69.0933 	EXP 	main_early: autoDraw = False
+69.0933 	EXP 	main_late: autoDraw = False
+69.0933 	EXP 	fix: autoDraw = False
+69.0933 	EXP 	main_image_2: image = 'image/Chi_late.png'
+69.0933 	EXP 	main_early: height = 0.05
+69.0933 	EXP 	main_early: height = 0.05
+69.0933 	EXP 	main_early: height = 0.05
+69.0933 	EXP 	main_early: text = '星期日'
+69.0933 	EXP 	main_late: height = 0.05
+69.0933 	EXP 	main_late: height = 0.05
+69.0933 	EXP 	main_late: height = 0.05
+69.0933 	EXP 	main_late: text = '星期四'
+69.0933 	EXP 	main_image_2: autoDraw = True
+69.2321 	DATA 	Keypress: left
+69.3904 	DATA 	Keypress: left
+69.5584 	DATA 	Keypress: left
+69.7335 	DATA 	Keypress: left
+69.8925 	DATA 	Keypress: left
+70.0459 	EXP 	fix: autoDraw = True
+70.0718 	DATA 	Keypress: left
+70.0837 	EXP 	main_image_2: autoDraw = False
+70.2667 	DATA 	Keypress: left
+70.4391 	DATA 	Keypress: left
+70.5338 	EXP 	fix: autoDraw = False
+70.5566 	INFO 	Keyboard events cleared
+70.5561 	EXP 	main_early: autoDraw = True
+70.5561 	EXP 	main_late: autoDraw = True
+70.7542 	EXP 	New trial (rep=0, index=10): OrderedDict([('No', 116), ('Category', 'Week'), ('earlier_stim', '星期六'), ('later_stim', '星期日'), ('distance', 1), ('congruency', 'congruent'), ('orientation', 'Vert'), ('instruction', 'early'), ('corr_resp', 'up'), ('Instruction_stim', 'image/Chi_early.png'), ('early_position', [0, 0.3]), ('late_position', [0, -0.3])])
+70.7862 	DATA 	Keypress: left
+70.7915 	EXP 	main_image_2: autoDraw = False
+70.7915 	EXP 	main_early: autoDraw = False
+70.7915 	EXP 	main_late: autoDraw = False
+70.7915 	EXP 	fix: autoDraw = False
+70.7915 	EXP 	main_image_2: image = 'image/Chi_early.png'
+70.7915 	EXP 	main_early: height = 0.05
+70.7915 	EXP 	main_early: height = 0.05
+70.7915 	EXP 	main_early: height = 0.05
+70.7915 	EXP 	main_early: text = '星期六'
+70.7915 	EXP 	main_late: height = 0.05
+70.7915 	EXP 	main_late: height = 0.05
+70.7915 	EXP 	main_late: height = 0.05
+70.7915 	EXP 	main_late: text = '星期日'
+70.7915 	EXP 	main_image_2: autoDraw = True
+70.9321 	DATA 	Keypress: left
+71.1410 	DATA 	Keypress: left
+71.3223 	DATA 	Keypress: left
+71.5079 	DATA 	Keypress: left
+71.6899 	DATA 	Keypress: left
+71.7456 	EXP 	fix: autoDraw = True
+71.7854 	EXP 	main_image_2: autoDraw = False
+71.8856 	DATA 	Keypress: left
+72.0671 	DATA 	Keypress: left
+72.2335 	DATA 	Keypress: left
+72.2378 	EXP 	fix: autoDraw = False
+72.2462 	INFO 	Keyboard events cleared
+72.2458 	EXP 	main_early: autoDraw = True
+72.2458 	EXP 	main_late: autoDraw = True
+72.4041 	EXP 	New trial (rep=0, index=11): OrderedDict([('No', 34), ('Category', 'Month'), ('earlier_stim', '七月'), ('later_stim', '十月 '), ('distance', 3), ('congruency', 'congruent'), ('orientation', 'Vert'), ('instruction', 'late'), ('corr_resp', 'down'), ('Instruction_stim', 'image/Chi_late.png'), ('early_position', [0, 0.3]), ('late_position', [0, -0.3])])
+72.4362 	DATA 	Keypress: left
+72.4418 	EXP 	main_image_2: autoDraw = False
+72.4418 	EXP 	main_early: autoDraw = False
+72.4418 	EXP 	main_late: autoDraw = False
+72.4418 	EXP 	fix: autoDraw = False
+72.4418 	EXP 	main_image_2: image = 'image/Chi_late.png'
+72.4418 	EXP 	main_early: height = 0.05
+72.4418 	EXP 	main_early: height = 0.05
+72.4418 	EXP 	main_early: height = 0.05
+72.4418 	EXP 	main_early: text = '七月'
+72.4418 	EXP 	main_late: height = 0.05
+72.4418 	EXP 	main_late: height = 0.05
+72.4418 	EXP 	main_late: height = 0.05
+72.4418 	EXP 	main_late: text = '十月 '
+72.4418 	EXP 	main_image_2: autoDraw = True
+72.5823 	DATA 	Keypress: left
+72.7517 	DATA 	Keypress: left
+72.9241 	DATA 	Keypress: left
+73.0721 	DATA 	Keypress: left
+73.2169 	DATA 	Keypress: left
+73.3658 	DATA 	Keypress: left
+73.4053 	EXP 	fix: autoDraw = True
+73.4346 	EXP 	main_image_2: autoDraw = False
+73.5208 	DATA 	Keypress: left
+73.6831 	DATA 	Keypress: left
+73.8396 	DATA 	Keypress: left
+73.9038 	INFO 	Keyboard events cleared
+73.9035 	EXP 	main_early: autoDraw = True
+73.9035 	EXP 	main_late: autoDraw = True
+73.9035 	EXP 	fix: autoDraw = False
+74.0042 	EXP 	New trial (rep=0, index=12): OrderedDict([('No', 114), ('Category', 'Week'), ('earlier_stim', '星期四'), ('later_stim', '星期日'), ('distance', 3), ('congruency', 'congruent'), ('orientation', 'Vert'), ('instruction', 'early'), ('corr_resp', 'up'), ('Instruction_stim', 'image/Chi_early.png'), ('early_position', [0, 0.3]), ('late_position', [0, -0.3])])
+74.0361 	DATA 	Keypress: left
+74.0417 	EXP 	main_image_2: autoDraw = False
+74.0417 	EXP 	main_early: autoDraw = False
+74.0417 	EXP 	main_late: autoDraw = False
+74.0417 	EXP 	fix: autoDraw = False
+74.0417 	EXP 	main_image_2: image = 'image/Chi_early.png'
+74.0417 	EXP 	main_early: height = 0.05
+74.0417 	EXP 	main_early: height = 0.05
+74.0417 	EXP 	main_early: height = 0.05
+74.0417 	EXP 	main_early: text = '星期四'
+74.0417 	EXP 	main_late: height = 0.05
+74.0417 	EXP 	main_late: height = 0.05
+74.0417 	EXP 	main_late: height = 0.05
+74.0417 	EXP 	main_late: text = '星期日'
+74.0417 	EXP 	main_image_2: autoDraw = True
+74.1994 	DATA 	Keypress: left
+74.3834 	DATA 	Keypress: left
+74.5760 	DATA 	Keypress: left
+74.7503 	DATA 	Keypress: left
+74.9734 	DATA 	Keypress: left
+75.0053 	EXP 	fix: autoDraw = True
+75.0334 	EXP 	main_image_2: autoDraw = False
+75.1347 	DATA 	Keypress: left
+75.2916 	DATA 	Keypress: left
+75.4572 	DATA 	Keypress: left
+75.5039 	INFO 	Keyboard events cleared
+75.5035 	EXP 	main_early: autoDraw = True
+75.5035 	EXP 	main_late: autoDraw = True
+75.5035 	EXP 	fix: autoDraw = False
+75.6479 	EXP 	New trial (rep=0, index=13): OrderedDict([('No', 127), ('Category', 'Week'), ('earlier_stim', '星期五'), ('later_stim', '星期三\xa0'), ('distance', 2), ('congruency', 'incongruent'), ('orientation', 'Hori'), ('instruction', 'early'), ('corr_resp', 'right'), ('Instruction_stim', 'image/Chi_early.png'), ('early_position', [-0.3, 0]), ('late_position', [0.3, 0])])
+75.6768 	DATA 	Keypress: left
+75.6825 	EXP 	main_image_2: autoDraw = False
+75.6825 	EXP 	main_early: autoDraw = False
+75.6825 	EXP 	main_late: autoDraw = False
+75.6825 	EXP 	fix: autoDraw = False
+75.6825 	EXP 	main_image_2: image = 'image/Chi_early.png'
+75.6825 	EXP 	main_early: height = 0.05
+75.6825 	EXP 	main_early: height = 0.05
+75.6825 	EXP 	main_early: height = 0.05
+75.6825 	EXP 	main_early: text = '星期五'
+75.6825 	EXP 	main_late: height = 0.05
+75.6825 	EXP 	main_late: height = 0.05
+75.6825 	EXP 	main_late: height = 0.05
+75.6825 	EXP 	main_late: text = '星期三\xa0'
+75.6825 	EXP 	main_image_2: autoDraw = True
+75.7867 	DATA 	Keypress: left
+75.9569 	DATA 	Keypress: left
+76.1218 	DATA 	Keypress: left
+76.3001 	DATA 	Keypress: left
+76.4755 	DATA 	Keypress: left
+76.6390 	EXP 	fix: autoDraw = True
+76.6484 	DATA 	Keypress: left
+76.6805 	EXP 	main_image_2: autoDraw = False
+76.8238 	DATA 	Keypress: left
+77.1377 	INFO 	Keyboard events cleared
+77.1373 	EXP 	main_early: autoDraw = True
+77.1373 	EXP 	main_late: autoDraw = True
+77.1373 	EXP 	fix: autoDraw = False
+77.3070 	DATA 	Keypress: left
+77.3133 	EXP 	New trial (rep=0, index=14): OrderedDict([('No', 46), ('Category', 'Month'), ('earlier_stim', '四月'), ('later_stim', '一月'), ('distance', 3), ('congruency', 'incongruent'), ('orientation', 'Hori'), ('instruction', 'late'), ('corr_resp', 'left'), ('Instruction_stim', 'image/Chi_late.png'), ('early_position', [-0.3, 0]), ('late_position', [0.3, 0])])
+77.3487 	EXP 	main_image_2: autoDraw = False
+77.3487 	EXP 	main_early: autoDraw = False
+77.3487 	EXP 	main_late: autoDraw = False
+77.3487 	EXP 	fix: autoDraw = False
+77.3487 	EXP 	main_image_2: image = 'image/Chi_late.png'
+77.3487 	EXP 	main_early: height = 0.05
+77.3487 	EXP 	main_early: height = 0.05
+77.3487 	EXP 	main_early: height = 0.05
+77.3487 	EXP 	main_early: text = '四月'
+77.3487 	EXP 	main_late: height = 0.05
+77.3487 	EXP 	main_late: height = 0.05
+77.3487 	EXP 	main_late: height = 0.05
+77.3487 	EXP 	main_late: text = '一月'
+77.3487 	EXP 	main_image_2: autoDraw = True
+78.3059 	EXP 	fix: autoDraw = True
+78.3467 	EXP 	main_image_2: autoDraw = False
+78.8044 	INFO 	Keyboard events cleared
+78.8040 	EXP 	main_early: autoDraw = True
+78.8040 	EXP 	main_late: autoDraw = True
+78.8040 	EXP 	fix: autoDraw = False
+79.9541 	EXP 	New trial (rep=0, index=15): OrderedDict([('No', 141), ('Category', 'Week'), ('earlier_stim', '星期五'), ('later_stim', '星期三\xa0'), ('distance', 2), ('congruency', 'incongruent'), ('orientation', 'Vert'), ('instruction', 'early'), ('corr_resp', 'down'), ('Instruction_stim', 'image/Chi_early.png'), ('early_position', [0, 0.3]), ('late_position', [0, -0.3])])
+79.9863 	DATA 	Keypress: left
+79.9922 	EXP 	main_image_2: autoDraw = False
+79.9922 	EXP 	main_early: autoDraw = False
+79.9922 	EXP 	main_late: autoDraw = False
+79.9922 	EXP 	fix: autoDraw = False
+79.9922 	EXP 	main_image_2: image = 'image/Chi_early.png'
+79.9922 	EXP 	main_early: height = 0.05
+79.9922 	EXP 	main_early: height = 0.05
+79.9922 	EXP 	main_early: height = 0.05
+79.9922 	EXP 	main_early: text = '星期五'
+79.9922 	EXP 	main_late: height = 0.05
+79.9922 	EXP 	main_late: height = 0.05
+79.9922 	EXP 	main_late: height = 0.05
+79.9922 	EXP 	main_late: text = '星期三\xa0'
+79.9922 	EXP 	main_image_2: autoDraw = True
+80.1370 	DATA 	Keypress: left
+80.3181 	DATA 	Keypress: left
+80.5208 	DATA 	Keypress: left
+80.7568 	DATA 	Keypress: left
+80.9456 	EXP 	fix: autoDraw = True
+80.9742 	DATA 	Keypress: left
+80.9845 	EXP 	main_image_2: autoDraw = False
+81.3176 	DATA 	Keypress: left
+81.4338 	EXP 	fix: autoDraw = False
+81.4546 	INFO 	Keyboard events cleared
+81.4542 	EXP 	main_early: autoDraw = True
+81.4542 	EXP 	main_late: autoDraw = True
+81.5197 	EXP 	New trial (rep=0, index=16): OrderedDict([('No', 107), ('Category', 'Week'), ('earlier_stim', '星期四'), ('later_stim', '星期六'), ('distance', 2), ('congruency', 'congruent'), ('orientation', 'Hori'), ('instruction', 'late'), ('corr_resp', 'right'), ('Instruction_stim', 'image/Chi_late.png'), ('early_position', [-0.3, 0]), ('late_position', [0.3, 0])])
+81.5518 	DATA 	Keypress: left
+81.5574 	EXP 	main_image_2: autoDraw = False
+81.5574 	EXP 	main_early: autoDraw = False
+81.5574 	EXP 	main_late: autoDraw = False
+81.5574 	EXP 	fix: autoDraw = False
+81.5574 	EXP 	main_image_2: image = 'image/Chi_late.png'
+81.5574 	EXP 	main_early: height = 0.05
+81.5574 	EXP 	main_early: height = 0.05
+81.5574 	EXP 	main_early: height = 0.05
+81.5574 	EXP 	main_early: text = '星期四'
+81.5574 	EXP 	main_late: height = 0.05
+81.5574 	EXP 	main_late: height = 0.05
+81.5574 	EXP 	main_late: height = 0.05
+81.5574 	EXP 	main_late: text = '星期六'
+81.5574 	EXP 	main_image_2: autoDraw = True
+81.7326 	DATA 	Keypress: left
+82.0582 	DATA 	Keypress: left
+82.3075 	DATA 	Keypress: left
+82.5120 	EXP 	fix: autoDraw = True
+82.5499 	EXP 	main_image_2: autoDraw = False
+82.6375 	DATA 	Keypress: left
+82.9072 	DATA 	Keypress: left
+83.0017 	EXP 	fix: autoDraw = False
+83.0204 	INFO 	Keyboard events cleared
+83.0200 	EXP 	main_early: autoDraw = True
+83.0200 	EXP 	main_late: autoDraw = True
+83.1312 	EXP 	New trial (rep=0, index=17): OrderedDict([('No', 136), ('Category', 'Week'), ('earlier_stim', '星期日'), ('later_stim', '星期五'), ('distance', 2), ('congruency', 'incongruent'), ('orientation', 'Hori'), ('instruction', 'late'), ('corr_resp', 'left'), ('Instruction_stim', 'image/Chi_late.png'), ('early_position', [-0.3, 0]), ('late_position', [0.3, 0])])
+83.1636 	DATA 	Keypress: left
+83.1690 	EXP 	main_image_2: autoDraw = False
+83.1690 	EXP 	main_early: autoDraw = False
+83.1690 	EXP 	main_late: autoDraw = False
+83.1690 	EXP 	fix: autoDraw = False
+83.1690 	EXP 	main_image_2: image = 'image/Chi_late.png'
+83.1690 	EXP 	main_early: height = 0.05
+83.1690 	EXP 	main_early: height = 0.05
+83.1690 	EXP 	main_early: height = 0.05
+83.1690 	EXP 	main_early: text = '星期日'
+83.1690 	EXP 	main_late: height = 0.05
+83.1690 	EXP 	main_late: height = 0.05
+83.1690 	EXP 	main_late: height = 0.05
+83.1690 	EXP 	main_late: text = '星期五'
+83.1690 	EXP 	main_image_2: autoDraw = True
+83.5496 	DATA 	Keypress: left
+84.1290 	EXP 	fix: autoDraw = True
+84.1639 	EXP 	main_image_2: autoDraw = False
+84.4214 	DATA 	Keypress: left
+84.6172 	EXP 	fix: autoDraw = False
+84.6303 	INFO 	Keyboard events cleared
+84.6298 	EXP 	main_early: autoDraw = True
+84.6298 	EXP 	main_late: autoDraw = True
+84.6345 	DATA 	Keypress: left
+85.1730 	DATA 	Keypress: left
+85.1800 	EXP 	New trial (rep=0, index=18): OrderedDict([('No', 58), ('Category', 'Month'), ('earlier_stim', '六月'), ('later_stim', '二月'), ('distance', 4), ('congruency', 'incongruent'), ('orientation', 'Vert'), ('instruction', 'late'), ('corr_resp', 'up'), ('Instruction_stim', 'image/Chi_late.png'), ('early_position', [0, 0.3]), ('late_position', [0, -0.3])])
+85.2134 	EXP 	main_image_2: autoDraw = False
+85.2134 	EXP 	main_early: autoDraw = False
+85.2134 	EXP 	main_late: autoDraw = False
+85.2134 	EXP 	fix: autoDraw = False
+85.2134 	EXP 	main_image_2: image = 'image/Chi_late.png'
+85.2134 	EXP 	main_early: height = 0.05
+85.2134 	EXP 	main_early: height = 0.05
+85.2134 	EXP 	main_early: height = 0.05
+85.2134 	EXP 	main_early: text = '六月'
+85.2134 	EXP 	main_late: height = 0.05
+85.2134 	EXP 	main_late: height = 0.05
+85.2134 	EXP 	main_late: height = 0.05
+85.2134 	EXP 	main_late: text = '二月'
+85.2134 	EXP 	main_image_2: autoDraw = True
+86.1725 	EXP 	fix: autoDraw = True
+86.2136 	EXP 	main_image_2: autoDraw = False
+86.6706 	INFO 	Keyboard events cleared
+86.6701 	EXP 	main_early: autoDraw = True
+86.6701 	EXP 	main_late: autoDraw = True
+86.6701 	EXP 	fix: autoDraw = False
+90.2311 	EXP 	New trial (rep=0, index=19): OrderedDict([('No', 132), ('Category', 'Week'), ('earlier_stim', '星期四'), ('later_stim', '星期一'), ('distance', 3), ('congruency', 'incongruent'), ('orientation', 'Hori'), ('instruction', 'late'), ('corr_resp', 'left'), ('Instruction_stim', 'image/Chi_late.png'), ('early_position', [-0.3, 0]), ('late_position', [0.3, 0])])
+90.2640 	DATA 	Keypress: left
+90.2695 	EXP 	main_image_2: autoDraw = False
+90.2695 	EXP 	main_early: autoDraw = False
+90.2695 	EXP 	main_late: autoDraw = False
+90.2695 	EXP 	fix: autoDraw = False
+90.2695 	EXP 	main_image_2: image = 'image/Chi_late.png'
+90.2695 	EXP 	main_early: height = 0.05
+90.2695 	EXP 	main_early: height = 0.05
+90.2695 	EXP 	main_early: height = 0.05
+90.2695 	EXP 	main_early: text = '星期四'
+90.2695 	EXP 	main_late: height = 0.05
+90.2695 	EXP 	main_late: height = 0.05
+90.2695 	EXP 	main_late: height = 0.05
+90.2695 	EXP 	main_late: text = '星期一'
+90.2695 	EXP 	main_image_2: autoDraw = True
+90.4377 	DATA 	Keypress: left
+90.6588 	DATA 	Keypress: left
+91.0076 	DATA 	Keypress: left
+91.2287 	EXP 	fix: autoDraw = True
+91.2488 	DATA 	Keypress: left
+91.2622 	EXP 	main_image_2: autoDraw = False
+91.4499 	DATA 	Keypress: left
+91.6732 	DATA 	Keypress: left
+91.7217 	INFO 	Keyboard events cleared
+91.7212 	EXP 	main_early: autoDraw = True
+91.7212 	EXP 	main_late: autoDraw = True
+91.7212 	EXP 	fix: autoDraw = False
+91.9148 	EXP 	New trial (rep=0, index=20): OrderedDict([('No', 97), ('Category', 'Week'), ('earlier_stim', '星期一'), ('later_stim', '星期四'), ('distance', 3), ('congruency', 'congruent'), ('orientation', 'Hori'), ('instruction', 'early'), ('corr_resp', 'left'), ('Instruction_stim', 'image/Chi_early.png'), ('early_position', [-0.3, 0]), ('late_position', [0.3, 0])])
+91.9481 	DATA 	Keypress: left
+91.9534 	EXP 	main_image_2: autoDraw = False
+91.9534 	EXP 	main_early: autoDraw = False
+91.9534 	EXP 	main_late: autoDraw = False
+91.9534 	EXP 	fix: autoDraw = False
+91.9534 	EXP 	main_image_2: image = 'image/Chi_early.png'
+91.9534 	EXP 	main_early: height = 0.05
+91.9534 	EXP 	main_early: height = 0.05
+91.9534 	EXP 	main_early: height = 0.05
+91.9534 	EXP 	main_early: text = '星期一'
+91.9534 	EXP 	main_late: height = 0.05
+91.9534 	EXP 	main_late: height = 0.05
+91.9534 	EXP 	main_late: height = 0.05
+91.9534 	EXP 	main_late: text = '星期四'
+91.9534 	EXP 	main_image_2: autoDraw = True
+92.9122 	EXP 	fix: autoDraw = True
+92.9452 	EXP 	main_image_2: autoDraw = False
+93.4007 	EXP 	fix: autoDraw = False
+93.4135 	INFO 	Keyboard events cleared
+93.4131 	EXP 	main_early: autoDraw = True
+93.4131 	EXP 	main_late: autoDraw = True
+98.3971 	EXP 	New trial (rep=0, index=21): OrderedDict([('No', 34), ('Category', 'Month'), ('earlier_stim', '六月'), ('later_stim', '二月'), ('distance', 4), ('congruency', 'incongruent'), ('orientation', 'Hori'), ('instruction', 'early'), ('corr_resp', 'right'), ('Instruction_stim', 'image/Chi_early.png'), ('early_position', [-0.3, 0]), ('late_position', [0.3, 0])])
+98.4307 	EXP 	main_early: autoDraw = False
+98.4307 	EXP 	main_late: autoDraw = False
+98.4307 	EXP 	main_image_2: autoDraw = False
+98.4307 	EXP 	main_early: autoDraw = False
+98.4307 	EXP 	main_late: autoDraw = False
+98.4307 	EXP 	fix: autoDraw = False
+98.4307 	EXP 	main_image_2: image = 'image/Chi_early.png'
+98.4307 	EXP 	main_early: height = 0.05
+98.4307 	EXP 	main_early: height = 0.05
+98.4307 	EXP 	main_early: height = 0.05
+98.4307 	EXP 	main_early: text = '六月'
+98.4307 	EXP 	main_late: height = 0.05
+98.4307 	EXP 	main_late: height = 0.05
+98.4307 	EXP 	main_late: height = 0.05
+98.4307 	EXP 	main_late: text = '二月'
+98.4307 	EXP 	main_image_2: autoDraw = True
+99.4133 	EXP 	fix: autoDraw = True
+99.4206 	EXP 	main_image_2: autoDraw = False
+99.9053 	INFO 	Keyboard events cleared
+99.9049 	EXP 	main_early: autoDraw = True
+99.9049 	EXP 	main_late: autoDraw = True
+99.9049 	EXP 	fix: autoDraw = False
+103.7365 	EXP 	New trial (rep=0, index=22): OrderedDict([('No', 63), ('Category', 'Month'), ('earlier_stim', '十二月'), ('later_stim', '九月 '), ('distance', 3), ('congruency', 'incongruent'), ('orientation', 'Vert'), ('instruction', 'early'), ('corr_resp', 'down'), ('Instruction_stim', 'image/Chi_early.png'), ('early_position', [0, 0.3]), ('late_position', [0, -0.3])])
+103.7670 	DATA 	Keypress: left
+103.7723 	EXP 	main_image_2: autoDraw = False
+103.7723 	EXP 	main_early: autoDraw = False
+103.7723 	EXP 	main_late: autoDraw = False
+103.7723 	EXP 	fix: autoDraw = False
+103.7723 	EXP 	main_image_2: image = 'image/Chi_early.png'
+103.7723 	EXP 	main_early: height = 0.05
+103.7723 	EXP 	main_early: height = 0.05
+103.7723 	EXP 	main_early: height = 0.05
+103.7723 	EXP 	main_early: text = '十二月'
+103.7723 	EXP 	main_late: height = 0.05
+103.7723 	EXP 	main_late: height = 0.05
+103.7723 	EXP 	main_late: height = 0.05
+103.7723 	EXP 	main_late: text = '九月 '
+103.7723 	EXP 	main_image_2: autoDraw = True
+104.7290 	EXP 	fix: autoDraw = True
+104.7682 	EXP 	main_image_2: autoDraw = False
+105.2163 	EXP 	fix: autoDraw = False
+105.2373 	INFO 	Keyboard events cleared
+105.2369 	EXP 	main_early: autoDraw = True
+105.2369 	EXP 	main_late: autoDraw = True
+110.2309 	EXP 	New trial (rep=0, index=23): OrderedDict([('No', 150), ('Category', 'Week'), ('earlier_stim', '星期六'), ('later_stim', '星期五'), ('distance', 1), ('congruency', 'incongruent'), ('orientation', 'Vert'), ('instruction', 'late'), ('corr_resp', 'up'), ('Instruction_stim', 'image/Chi_late.png'), ('early_position', [0, 0.3]), ('late_position', [0, -0.3])])
+110.2677 	EXP 	main_early: autoDraw = False
+110.2677 	EXP 	main_late: autoDraw = False
+110.2677 	EXP 	main_image_2: autoDraw = False
+110.2677 	EXP 	main_early: autoDraw = False
+110.2677 	EXP 	main_late: autoDraw = False
+110.2677 	EXP 	fix: autoDraw = False
+110.2677 	EXP 	main_image_2: image = 'image/Chi_late.png'
+110.2677 	EXP 	main_early: height = 0.05
+110.2677 	EXP 	main_early: height = 0.05
+110.2677 	EXP 	main_early: height = 0.05
+110.2677 	EXP 	main_early: text = '星期六'
+110.2677 	EXP 	main_late: height = 0.05
+110.2677 	EXP 	main_late: height = 0.05
+110.2677 	EXP 	main_late: height = 0.05
+110.2677 	EXP 	main_late: text = '星期五'
+110.2677 	EXP 	main_image_2: autoDraw = True
+111.2284 	EXP 	fix: autoDraw = True
+111.2629 	EXP 	main_image_2: autoDraw = False
+111.7167 	EXP 	fix: autoDraw = False
+111.7461 	INFO 	Keyboard events cleared
+111.7458 	EXP 	main_early: autoDraw = True
+111.7458 	EXP 	main_late: autoDraw = True
+113.1642 	EXP 	New trial (rep=0, index=24): OrderedDict([('No', 112), ('Category', 'Week'), ('earlier_stim', '星期二'), ('later_stim', '星期五'), ('distance', 3), ('congruency', 'congruent'), ('orientation', 'Vert'), ('instruction', 'early'), ('corr_resp', 'up'), ('Instruction_stim', 'image/Chi_early.png'), ('early_position', [0, 0.3]), ('late_position', [0, -0.3])])
+113.1976 	DATA 	Keypress: left
+113.2034 	EXP 	main_image_2: autoDraw = False
+113.2034 	EXP 	main_early: autoDraw = False
+113.2034 	EXP 	main_late: autoDraw = False
+113.2034 	EXP 	fix: autoDraw = False
+113.2034 	EXP 	main_image_2: image = 'image/Chi_early.png'
+113.2034 	EXP 	main_early: height = 0.05
+113.2034 	EXP 	main_early: height = 0.05
+113.2034 	EXP 	main_early: height = 0.05
+113.2034 	EXP 	main_early: text = '星期二'
+113.2034 	EXP 	main_late: text = '星期五'
+113.2034 	EXP 	main_image_2: autoDraw = True
+113.3858 	DATA 	Keypress: left
+113.6892 	DATA 	Keypress: left
+113.8892 	DATA 	Keypress: left
+114.0871 	DATA 	Keypress: left
+114.1617 	EXP 	fix: autoDraw = True
+114.1961 	EXP 	main_image_2: autoDraw = False
+114.2828 	DATA 	Keypress: left
+114.4723 	DATA 	Keypress: left
+114.6549 	INFO 	Keyboard events cleared
+114.6545 	EXP 	main_early: autoDraw = True
+114.6545 	EXP 	main_late: autoDraw = True
+114.6545 	EXP 	fix: autoDraw = False
+114.6594 	DATA 	Keypress: left
+114.8691 	EXP 	New trial (rep=0, index=25): OrderedDict([('No', 126), ('Category', 'Week'), ('earlier_stim', '星期三\xa0'), ('later_stim', '星期二'), ('distance', 1), ('congruency', 'incongruent'), ('orientation', 'Hori'), ('instruction', 'early'), ('corr_resp', 'right'), ('Instruction_stim', 'image/Chi_early.png'), ('early_position', [-0.3, 0]), ('late_position', [0.3, 0])])
+114.8982 	DATA 	Keypress: left
+114.9036 	EXP 	main_image_2: autoDraw = False
+114.9036 	EXP 	main_early: autoDraw = False
+114.9036 	EXP 	main_late: autoDraw = False
+114.9036 	EXP 	fix: autoDraw = False
+114.9036 	EXP 	main_image_2: image = 'image/Chi_early.png'
+114.9036 	EXP 	main_early: height = 0.05
+114.9036 	EXP 	main_early: height = 0.05
+114.9036 	EXP 	main_early: height = 0.05
+114.9036 	EXP 	main_early: text = '星期三\xa0'
+114.9036 	EXP 	main_late: height = 0.05
+114.9036 	EXP 	main_late: height = 0.05
+114.9036 	EXP 	main_late: height = 0.05
+114.9036 	EXP 	main_late: text = '星期二'
+114.9036 	EXP 	main_image_2: autoDraw = True
+115.0698 	DATA 	Keypress: left
+115.2820 	DATA 	Keypress: left
+115.4653 	DATA 	Keypress: left
+115.6535 	DATA 	Keypress: left
+115.8487 	DATA 	Keypress: left
+115.8621 	EXP 	fix: autoDraw = True
+115.8959 	EXP 	main_image_2: autoDraw = False
+116.0369 	DATA 	Keypress: left
+116.2203 	DATA 	Keypress: left
+116.3495 	EXP 	fix: autoDraw = False
+116.3721 	INFO 	Keyboard events cleared
+116.3716 	EXP 	main_early: autoDraw = True
+116.3716 	EXP 	main_late: autoDraw = True
+117.8809 	EXP 	New trial (rep=0, index=26): OrderedDict([('No', 148), ('Category', 'Week'), ('earlier_stim', '星期六'), ('later_stim', '星期三\xa0'), ('distance', 3), ('congruency', 'incongruent'), ('orientation', 'Vert'), ('instruction', 'late'), ('corr_resp', 'up'), ('Instruction_stim', 'image/Chi_late.png'), ('early_position', [0, 0.3]), ('late_position', [0, -0.3])])
+117.9151 	DATA 	Keypress: left
+117.9205 	EXP 	main_image_2: autoDraw = False
+117.9205 	EXP 	main_early: autoDraw = False
+117.9205 	EXP 	main_late: autoDraw = False
+117.9205 	EXP 	fix: autoDraw = False
+117.9205 	EXP 	main_image_2: image = 'image/Chi_late.png'
+117.9205 	EXP 	main_early: height = 0.05
+117.9205 	EXP 	main_early: height = 0.05
+117.9205 	EXP 	main_early: height = 0.05
+117.9205 	EXP 	main_early: text = '星期六'
+117.9205 	EXP 	main_late: height = 0.05
+117.9205 	EXP 	main_late: height = 0.05
+117.9205 	EXP 	main_late: height = 0.05
+117.9205 	EXP 	main_late: text = '星期三\xa0'
+117.9205 	EXP 	main_image_2: autoDraw = True
+118.0701 	DATA 	Keypress: left
+118.2501 	DATA 	Keypress: left
+118.4411 	DATA 	Keypress: left
+118.8307 	DATA 	Keypress: left
+118.8732 	DATA 	Keypress: left
+118.8965 	EXP 	fix: autoDraw = True
+118.9126 	EXP 	main_image_2: autoDraw = False
+119.0735 	DATA 	Keypress: left
+119.3801 	INFO 	Keyboard events cleared
+119.3798 	EXP 	main_early: autoDraw = True
+119.3798 	EXP 	main_late: autoDraw = True
+119.3853 	EXP 	fix: autoDraw = False
+124.0714 	EXP 	New trial (rep=0, index=27): OrderedDict([('No', 62), ('Category', 'Month'), ('earlier_stim', '十月 '), ('later_stim', '六月'), ('distance', 4), ('congruency', 'incongruent'), ('orientation', 'Vert'), ('instruction', 'late'), ('corr_resp', 'up'), ('Instruction_stim', 'image/Chi_late.png'), ('early_position', [0, 0.3]), ('late_position', [0, -0.3])])
+124.1071 	DATA 	Keypress: left
+124.1128 	EXP 	main_image_2: autoDraw = False
+124.1128 	EXP 	main_early: autoDraw = False
+124.1128 	EXP 	main_late: autoDraw = False
+124.1128 	EXP 	fix: autoDraw = False
+124.1128 	EXP 	main_image_2: image = 'image/Chi_late.png'
+124.1128 	EXP 	main_early: height = 0.05
+124.1128 	EXP 	main_early: height = 0.05
+124.1128 	EXP 	main_early: height = 0.05
+124.1128 	EXP 	main_early: text = '十月 '
+124.1128 	EXP 	main_late: height = 0.05
+124.1128 	EXP 	main_late: height = 0.05
+124.1128 	EXP 	main_late: height = 0.05
+124.1128 	EXP 	main_late: text = '六月'
+124.1128 	EXP 	main_image_2: autoDraw = True
+124.2699 	DATA 	Keypress: left
+124.4392 	DATA 	Keypress: left
+124.6064 	DATA 	Keypress: left
+124.7737 	DATA 	Keypress: left
+124.9577 	DATA 	Keypress: left
+125.0694 	EXP 	fix: autoDraw = True
+125.1008 	EXP 	main_image_2: autoDraw = False
+125.1663 	DATA 	Keypress: left
+125.3825 	DATA 	Keypress: left
+125.5628 	EXP 	fix: autoDraw = False
+125.5711 	INFO 	Keyboard events cleared
+125.5706 	EXP 	main_early: autoDraw = True
+125.5706 	EXP 	main_late: autoDraw = True
+125.5855 	EXP 	New trial (rep=0, index=28): OrderedDict([('No', 1), ('Category', 'Month'), ('earlier_stim', '一月'), ('later_stim', '二月 '), ('distance', 1), ('congruency', 'congruent'), ('orientation', 'Hori'), ('instruction', 'early'), ('corr_resp', 'left'), ('Instruction_stim', 'image/Chi_early.png'), ('early_position', [-0.3, 0]), ('late_position', [0.3, 0])])
+125.6224 	DATA 	Keypress: left
+125.6281 	EXP 	main_image_2: autoDraw = False
+125.6281 	EXP 	main_early: autoDraw = False
+125.6281 	EXP 	main_late: autoDraw = False
+125.6281 	EXP 	fix: autoDraw = False
+125.6281 	EXP 	main_image_2: image = 'image/Chi_early.png'
+125.6281 	EXP 	main_early: height = 0.05
+125.6281 	EXP 	main_early: height = 0.05
+125.6281 	EXP 	main_early: height = 0.05
+125.6281 	EXP 	main_early: text = '一月'
+125.6281 	EXP 	main_late: height = 0.05
+125.6281 	EXP 	main_late: height = 0.05
+125.6281 	EXP 	main_late: height = 0.05
+125.6281 	EXP 	main_late: text = '二月 '
+125.6281 	EXP 	main_image_2: autoDraw = True
+125.8035 	DATA 	Keypress: left
+126.0067 	DATA 	Keypress: left
+126.2408 	DATA 	Keypress: left
+126.5334 	DATA 	Keypress: left
+126.5796 	EXP 	fix: autoDraw = True
+126.6175 	EXP 	main_image_2: autoDraw = False
+126.7705 	DATA 	Keypress: left
+127.0495 	DATA 	Keypress: left
+127.0791 	EXP 	fix: autoDraw = False
+127.0869 	INFO 	Keyboard events cleared
+127.0865 	EXP 	main_early: autoDraw = True
+127.0865 	EXP 	main_late: autoDraw = True
+127.2696 	EXP 	New trial (rep=0, index=29): OrderedDict([('No', 6), ('Category', 'Month'), ('earlier_stim', '六月'), ('later_stim', '十月 '), ('distance', 4), ('congruency', 'congruent'), ('orientation', 'Hori'), ('instruction', 'early'), ('corr_resp', 'left'), ('Instruction_stim', 'image/Chi_early.png'), ('early_position', [-0.3, 0]), ('late_position', [0.3, 0])])
+127.2988 	DATA 	Keypress: left
+127.3042 	EXP 	main_image_2: autoDraw = False
+127.3042 	EXP 	main_early: autoDraw = False
+127.3042 	EXP 	main_late: autoDraw = False
+127.3042 	EXP 	fix: autoDraw = False
+127.3042 	EXP 	main_image_2: image = 'image/Chi_early.png'
+127.3042 	EXP 	main_early: height = 0.05
+127.3042 	EXP 	main_early: height = 0.05
+127.3042 	EXP 	main_early: height = 0.05
+127.3042 	EXP 	main_early: text = '六月'
+127.3042 	EXP 	main_late: height = 0.05
+127.3042 	EXP 	main_late: height = 0.05
+127.3042 	EXP 	main_late: height = 0.05
+127.3042 	EXP 	main_late: text = '十月 '
+127.3042 	EXP 	main_image_2: autoDraw = True
+127.4839 	DATA 	Keypress: left
+127.6484 	DATA 	Keypress: left
+127.8315 	DATA 	Keypress: left
+128.0152 	DATA 	Keypress: left
+128.1987 	DATA 	Keypress: left
+128.2618 	EXP 	fix: autoDraw = True
+128.3000 	EXP 	main_image_2: autoDraw = False
+128.3830 	DATA 	Keypress: left
+128.5502 	DATA 	Keypress: left
+128.7161 	DATA 	Keypress: left
+128.7496 	EXP 	fix: autoDraw = False
+128.7726 	INFO 	Keyboard events cleared
+128.7721 	EXP 	main_early: autoDraw = True
+128.7721 	EXP 	main_late: autoDraw = True
+128.8873 	EXP 	New trial (rep=0, index=30): OrderedDict([('No', 16), ('Category', 'Month'), ('earlier_stim', '六月'), ('later_stim', '八月'), ('distance', 2), ('congruency', 'congruent'), ('orientation', 'Hori'), ('instruction', 'late'), ('corr_resp', 'right'), ('Instruction_stim', 'image/Chi_late.png'), ('early_position', [-0.3, 0]), ('late_position', [0.3, 0])])
+128.9166 	DATA 	Keypress: left
+128.9220 	EXP 	main_image_2: autoDraw = False
+128.9220 	EXP 	main_early: autoDraw = False
+128.9220 	EXP 	main_late: autoDraw = False
+128.9220 	EXP 	fix: autoDraw = False
+128.9220 	EXP 	main_image_2: image = 'image/Chi_late.png'
+128.9220 	EXP 	main_early: text = '六月'
+128.9220 	EXP 	main_late: height = 0.05
+128.9220 	EXP 	main_late: height = 0.05
+128.9220 	EXP 	main_late: height = 0.05
+128.9220 	EXP 	main_late: text = '八月'
+128.9220 	EXP 	main_image_2: autoDraw = True
+129.0703 	DATA 	Keypress: left
+129.2578 	DATA 	Keypress: left
+129.4409 	DATA 	Keypress: left
+129.6313 	DATA 	Keypress: left
+129.8069 	DATA 	Keypress: left
+129.8788 	EXP 	fix: autoDraw = True
+129.9179 	EXP 	main_image_2: autoDraw = False
+129.9870 	DATA 	Keypress: left
+130.1727 	DATA 	Keypress: left
+130.3399 	DATA 	Keypress: left
+130.3664 	EXP 	fix: autoDraw = False
+130.3877 	INFO 	Keyboard events cleared
+130.3872 	EXP 	main_early: autoDraw = True
+130.3872 	EXP 	main_late: autoDraw = True
+130.5139 	EXP 	New trial (rep=0, index=31): OrderedDict([('No', 112), ('Category', 'Week'), ('earlier_stim', '星期二'), ('later_stim', '星期三\xa0'), ('distance', 1), ('congruency', 'congruent'), ('orientation', 'Vert'), ('instruction', 'early'), ('corr_resp', 'up'), ('Instruction_stim', 'image/Chi_early.png'), ('early_position', [0, 0.3]), ('late_position', [0, -0.3])])
+130.5473 	DATA 	Keypress: left
+130.5526 	EXP 	main_image_2: autoDraw = False
+130.5526 	EXP 	main_early: autoDraw = False
+130.5526 	EXP 	main_late: autoDraw = False
+130.5526 	EXP 	fix: autoDraw = False
+130.5526 	EXP 	main_image_2: image = 'image/Chi_early.png'
+130.5526 	EXP 	main_early: height = 0.05
+130.5526 	EXP 	main_early: height = 0.05
+130.5526 	EXP 	main_early: height = 0.05
+130.5526 	EXP 	main_early: text = '星期二'
+130.5526 	EXP 	main_late: height = 0.05
+130.5526 	EXP 	main_late: height = 0.05
+130.5526 	EXP 	main_late: height = 0.05
+130.5526 	EXP 	main_late: text = '星期三\xa0'
+130.5526 	EXP 	main_image_2: autoDraw = True
+130.6867 	DATA 	Keypress: left
+130.8724 	DATA 	Keypress: left
+131.0661 	DATA 	Keypress: left
+131.2532 	DATA 	Keypress: left
+131.4335 	DATA 	Keypress: left
+131.5116 	EXP 	fix: autoDraw = True
+131.5467 	EXP 	main_image_2: autoDraw = False
+131.6172 	DATA 	Keypress: left
+131.8053 	DATA 	Keypress: left
+131.9864 	DATA 	Keypress: left
+132.0036 	INFO 	Keyboard events cleared
+132.0032 	EXP 	main_early: autoDraw = True
+132.0032 	EXP 	main_late: autoDraw = True
+132.0032 	EXP 	fix: autoDraw = False
+132.1872 	EXP 	New trial (rep=0, index=32): OrderedDict([('No', 26), ('Category', 'Month'), ('earlier_stim', '六月'), ('later_stim', '八月'), ('distance', 2), ('congruency', 'congruent'), ('orientation', 'Vert'), ('instruction', 'early'), ('corr_resp', 'up'), ('Instruction_stim', 'image/Chi_early.png'), ('early_position', [0, 0.3]), ('late_position', [0, -0.3])])
+132.2166 	DATA 	Keypress: left
+132.2218 	EXP 	main_image_2: autoDraw = False
+132.2218 	EXP 	main_early: autoDraw = False
+132.2218 	EXP 	main_late: autoDraw = False
+132.2218 	EXP 	fix: autoDraw = False
+132.2218 	EXP 	main_image_2: image = 'image/Chi_early.png'
+132.2218 	EXP 	main_early: height = 0.05
+132.2218 	EXP 	main_early: height = 0.05
+132.2218 	EXP 	main_early: height = 0.05
+132.2218 	EXP 	main_early: text = '六月'
+132.2218 	EXP 	main_late: height = 0.05
+132.2218 	EXP 	main_late: height = 0.05
+132.2218 	EXP 	main_late: height = 0.05
+132.2218 	EXP 	main_late: text = '八月'
+132.2218 	EXP 	main_image_2: autoDraw = True
+132.3813 	DATA 	Keypress: left
+132.5663 	DATA 	Keypress: left
+132.7487 	DATA 	Keypress: left
+132.9326 	DATA 	Keypress: left
+133.1078 	DATA 	Keypress: left
+133.1878 	EXP 	fix: autoDraw = True
+133.2160 	EXP 	main_image_2: autoDraw = False
+133.3033 	DATA 	Keypress: left
+133.4897 	DATA 	Keypress: left
+133.6846 	DATA 	Keypress: left
+133.6894 	INFO 	Keyboard events cleared
+133.6889 	EXP 	main_early: autoDraw = True
+133.6889 	EXP 	main_late: autoDraw = True
+133.6889 	EXP 	fix: autoDraw = False
+133.8872 	EXP 	New trial (rep=0, index=33): OrderedDict([('No', 24), ('Category', 'Month'), ('earlier_stim', '六月'), ('later_stim', '九月 '), ('distance', 3), ('congruency', 'congruent'), ('orientation', 'Vert'), ('instruction', 'early'), ('corr_resp', 'up'), ('Instruction_stim', 'image/Chi_early.png'), ('early_position', [0, 0.3]), ('late_position', [0, -0.3])])
+133.9152 	DATA 	Keypress: left
+133.9206 	EXP 	main_image_2: autoDraw = False
+133.9206 	EXP 	main_early: autoDraw = False
+133.9206 	EXP 	main_late: autoDraw = False
+133.9206 	EXP 	fix: autoDraw = False
+133.9206 	EXP 	main_image_2: image = 'image/Chi_early.png'
+133.9206 	EXP 	main_early: text = '六月'
+133.9206 	EXP 	main_late: height = 0.05
+133.9206 	EXP 	main_late: height = 0.05
+133.9206 	EXP 	main_late: height = 0.05
+133.9206 	EXP 	main_late: text = '九月 '
+133.9206 	EXP 	main_image_2: autoDraw = True
+134.1384 	DATA 	Keypress: left
+134.3396 	DATA 	Keypress: left
+134.5497 	DATA 	Keypress: left
+134.8055 	DATA 	Keypress: left
+134.8882 	EXP 	fix: autoDraw = True
+134.9162 	EXP 	main_image_2: autoDraw = False
+135.0490 	DATA 	Keypress: left
+135.3502 	DATA 	Keypress: left
+135.3864 	INFO 	Keyboard events cleared
+135.3860 	EXP 	main_early: autoDraw = True
+135.3860 	EXP 	main_late: autoDraw = True
+135.3860 	EXP 	fix: autoDraw = False
+135.5705 	EXP 	New trial (rep=0, index=34): OrderedDict([('No', 120), ('Category', 'Week'), ('earlier_stim', '星期三\xa0'), ('later_stim', '星期六'), ('distance', 3), ('congruency', 'congruent'), ('orientation', 'Vert'), ('instruction', 'late'), ('corr_resp', 'down'), ('Instruction_stim', 'image/Chi_late.png'), ('early_position', [0, 0.3]), ('late_position', [0, -0.3])])
+135.6034 	DATA 	Keypress: left
+135.6091 	EXP 	main_image_2: autoDraw = False
+135.6091 	EXP 	main_early: autoDraw = False
+135.6091 	EXP 	main_late: autoDraw = False
+135.6091 	EXP 	fix: autoDraw = False
+135.6091 	EXP 	main_image_2: image = 'image/Chi_late.png'
+135.6091 	EXP 	main_early: height = 0.05
+135.6091 	EXP 	main_early: height = 0.05
+135.6091 	EXP 	main_early: height = 0.05
+135.6091 	EXP 	main_early: text = '星期三\xa0'
+135.6091 	EXP 	main_late: height = 0.05
+135.6091 	EXP 	main_late: height = 0.05
+135.6091 	EXP 	main_late: height = 0.05
+135.6091 	EXP 	main_late: text = '星期六'
+135.6091 	EXP 	main_image_2: autoDraw = True
+135.7818 	DATA 	Keypress: left
+135.9734 	DATA 	Keypress: left
+136.2242 	DATA 	Keypress: left
+136.4740 	DATA 	Keypress: left
+136.5711 	EXP 	fix: autoDraw = True
+136.5992 	EXP 	main_image_2: autoDraw = False
+136.8677 	DATA 	Keypress: left
+137.0698 	INFO 	Keyboard events cleared
+137.0694 	EXP 	main_early: autoDraw = True
+137.0694 	EXP 	main_late: autoDraw = True
+137.0694 	EXP 	fix: autoDraw = False
+137.6199 	EXP 	New trial (rep=0, index=35): OrderedDict([('No', 50), ('Category', 'Month'), ('earlier_stim', '八月'), ('later_stim', '五月'), ('distance', 3), ('congruency', 'incongruent'), ('orientation', 'Hori'), ('instruction', 'late'), ('corr_resp', 'left'), ('Instruction_stim', 'image/Chi_late.png'), ('early_position', [-0.3, 0]), ('late_position', [0.3, 0])])
+137.6497 	DATA 	Keypress: left
+137.6550 	EXP 	main_image_2: autoDraw = False
+137.6550 	EXP 	main_early: autoDraw = False
+137.6550 	EXP 	main_late: autoDraw = False
+137.6550 	EXP 	fix: autoDraw = False
+137.6550 	EXP 	main_image_2: image = 'image/Chi_late.png'
+137.6550 	EXP 	main_early: height = 0.05
+137.6550 	EXP 	main_early: height = 0.05
+137.6550 	EXP 	main_early: height = 0.05
+137.6550 	EXP 	main_early: text = '八月'
+137.6550 	EXP 	main_late: height = 0.05
+137.6550 	EXP 	main_late: height = 0.05
+137.6550 	EXP 	main_late: height = 0.05
+137.6550 	EXP 	main_late: text = '五月'
+137.6550 	EXP 	main_image_2: autoDraw = True
+137.9065 	DATA 	Keypress: left
+138.1556 	DATA 	Keypress: left
+138.4231 	DATA 	Keypress: left
+138.6126 	EXP 	fix: autoDraw = True
+138.6492 	EXP 	main_image_2: autoDraw = False
+138.7214 	DATA 	Keypress: left
+138.9839 	DATA 	Keypress: left
+139.0999 	EXP 	fix: autoDraw = False
+139.1216 	INFO 	Keyboard events cleared
+139.1211 	EXP 	main_early: autoDraw = True
+139.1211 	EXP 	main_late: autoDraw = True
+139.2968 	EXP 	New trial (rep=0, index=36): OrderedDict([('No', 143), ('Category', 'Week'), ('earlier_stim', '星期六'), ('later_stim', '星期五'), ('distance', 1), ('congruency', 'incongruent'), ('orientation', 'Vert'), ('instruction', 'early'), ('corr_resp', 'down'), ('Instruction_stim', 'image/Chi_early.png'), ('early_position', [0, 0.3]), ('late_position', [0, -0.3])])
+139.3299 	DATA 	Keypress: left
+139.3353 	EXP 	main_image_2: autoDraw = False
+139.3353 	EXP 	main_early: autoDraw = False
+139.3353 	EXP 	main_late: autoDraw = False
+139.3353 	EXP 	fix: autoDraw = False
+139.3353 	EXP 	main_image_2: image = 'image/Chi_early.png'
+139.3353 	EXP 	main_early: height = 0.05
+139.3353 	EXP 	main_early: height = 0.05
+139.3353 	EXP 	main_early: height = 0.05
+139.3353 	EXP 	main_early: text = '星期六'
+139.3353 	EXP 	main_late: height = 0.05
+139.3353 	EXP 	main_late: height = 0.05
+139.3353 	EXP 	main_late: height = 0.05
+139.3353 	EXP 	main_late: text = '星期五'
+139.3353 	EXP 	main_image_2: autoDraw = True
+139.5033 	DATA 	Keypress: left
+139.7657 	DATA 	Keypress: left
+140.2952 	EXP 	fix: autoDraw = True
+140.3287 	EXP 	main_image_2: autoDraw = False
+140.7879 	INFO 	Keyboard events cleared
+140.7875 	EXP 	main_early: autoDraw = True
+140.7875 	EXP 	main_late: autoDraw = True
+140.7875 	EXP 	fix: autoDraw = False
+141.3835 	EXP 	New trial (rep=0, index=37): OrderedDict([('No', 38), ('Category', 'Month'), ('earlier_stim', '八月'), ('later_stim', '十月 '), ('distance', 2), ('congruency', 'congruent'), ('orientation', 'Vert'), ('instruction', 'late'), ('corr_resp', 'down'), ('Instruction_stim', 'image/Chi_late.png'), ('early_position', [0, 0.3]), ('late_position', [0, -0.3])])
+141.4141 	DATA 	Keypress: left
+141.4194 	EXP 	main_image_2: autoDraw = False
+141.4194 	EXP 	main_early: autoDraw = False
+141.4194 	EXP 	main_late: autoDraw = False
+141.4194 	EXP 	fix: autoDraw = False
+141.4194 	EXP 	main_image_2: image = 'image/Chi_late.png'
+141.4194 	EXP 	main_early: height = 0.05
+141.4194 	EXP 	main_early: height = 0.05
+141.4194 	EXP 	main_early: height = 0.05
+141.4194 	EXP 	main_early: text = '八月'
+141.4194 	EXP 	main_late: height = 0.05
+141.4194 	EXP 	main_late: height = 0.05
+141.4194 	EXP 	main_late: height = 0.05
+141.4194 	EXP 	main_late: text = '十月 '
+141.4194 	EXP 	main_image_2: autoDraw = True
+141.5855 	DATA 	Keypress: left
+142.3782 	EXP 	fix: autoDraw = True
+142.4126 	EXP 	main_image_2: autoDraw = False
+142.8660 	EXP 	fix: autoDraw = False
+142.8827 	INFO 	Keyboard events cleared
+142.8824 	EXP 	main_early: autoDraw = True
+142.8824 	EXP 	main_late: autoDraw = True
+144.8298 	EXP 	New trial (rep=0, index=38): OrderedDict([('No', 49), ('Category', 'Month'), ('earlier_stim', '七月'), ('later_stim', '四月'), ('distance', 3), ('congruency', 'incongruent'), ('orientation', 'Hori'), ('instruction', 'late'), ('corr_resp', 'left'), ('Instruction_stim', 'image/Chi_late.png'), ('early_position', [-0.3, 0]), ('late_position', [0.3, 0])])
+144.8649 	DATA 	Keypress: left
+144.8703 	EXP 	main_image_2: autoDraw = False
+144.8703 	EXP 	main_early: autoDraw = False
+144.8703 	EXP 	main_late: autoDraw = False
+144.8703 	EXP 	fix: autoDraw = False
+144.8703 	EXP 	main_image_2: image = 'image/Chi_late.png'
+144.8703 	EXP 	main_early: height = 0.05
+144.8703 	EXP 	main_early: height = 0.05
+144.8703 	EXP 	main_early: height = 0.05
+144.8703 	EXP 	main_early: text = '七月'
+144.8703 	EXP 	main_late: height = 0.05
+144.8703 	EXP 	main_late: height = 0.05
+144.8703 	EXP 	main_late: height = 0.05
+144.8703 	EXP 	main_late: text = '四月'
+144.8703 	EXP 	main_image_2: autoDraw = True
+145.0532 	DATA 	Keypress: left
+145.2566 	DATA 	Keypress: left
+145.4496 	DATA 	Keypress: left
+145.6333 	DATA 	Keypress: left
+145.8245 	DATA 	Keypress: left
+145.8304 	EXP 	fix: autoDraw = True
+145.8667 	EXP 	main_image_2: autoDraw = False
+146.0073 	DATA 	Keypress: left
+146.2054 	DATA 	Keypress: left
+146.3212 	INFO 	Keyboard events cleared
+146.3207 	EXP 	main_early: autoDraw = True
+146.3207 	EXP 	main_late: autoDraw = True
+146.3277 	EXP 	fix: autoDraw = False
+146.8303 	EXP 	New trial (rep=0, index=39): OrderedDict([('No', 45), ('Category', 'Month'), ('earlier_stim', '九月 '), ('later_stim', '五月'), ('distance', 4), ('congruency', 'incongruent'), ('orientation', 'Hori'), ('instruction', 'late'), ('corr_resp', 'left'), ('Instruction_stim', 'image/Chi_late.png'), ('early_position', [-0.3, 0]), ('late_position', [0.3, 0])])
+146.8633 	DATA 	Keypress: left
+146.8688 	EXP 	main_image_2: autoDraw = False
+146.8688 	EXP 	main_early: autoDraw = False
+146.8688 	EXP 	main_late: autoDraw = False
+146.8688 	EXP 	fix: autoDraw = False
+146.8688 	EXP 	main_image_2: image = 'image/Chi_late.png'
+146.8688 	EXP 	main_early: height = 0.05
+146.8688 	EXP 	main_early: height = 0.05
+146.8688 	EXP 	main_early: height = 0.05
+146.8688 	EXP 	main_early: text = '九月 '
+146.8688 	EXP 	main_late: height = 0.05
+146.8688 	EXP 	main_late: height = 0.05
+146.8688 	EXP 	main_late: height = 0.05
+146.8688 	EXP 	main_late: text = '五月'
+146.8688 	EXP 	main_image_2: autoDraw = True
+147.0697 	DATA 	Keypress: left
+147.3545 	DATA 	Keypress: left
+147.6386 	DATA 	Keypress: left
+147.8285 	EXP 	fix: autoDraw = True
+147.8668 	EXP 	main_image_2: autoDraw = False
+147.9015 	DATA 	Keypress: left
+148.1552 	DATA 	Keypress: left
+148.3198 	INFO 	Keyboard events cleared
+148.3193 	EXP 	main_early: autoDraw = True
+148.3193 	EXP 	main_late: autoDraw = True
+148.3193 	EXP 	fix: autoDraw = False
+148.3970 	EXP 	New trial (rep=0, index=40): OrderedDict([('No', 101), ('Category', 'Week'), ('earlier_stim', '星期五'), ('later_stim', '星期日'), ('distance', 2), ('congruency', 'congruent'), ('orientation', 'Hori'), ('instruction', 'early'), ('corr_resp', 'left'), ('Instruction_stim', 'image/Chi_early.png'), ('early_position', [-0.3, 0]), ('late_position', [0.3, 0])])
+148.4303 	DATA 	Keypress: left
+148.4356 	EXP 	main_image_2: autoDraw = False
+148.4356 	EXP 	main_early: autoDraw = False
+148.4356 	EXP 	main_late: autoDraw = False
+148.4356 	EXP 	fix: autoDraw = False
+148.4356 	EXP 	main_image_2: image = 'image/Chi_early.png'
+148.4356 	EXP 	main_early: height = 0.05
+148.4356 	EXP 	main_early: height = 0.05
+148.4356 	EXP 	main_early: height = 0.05
+148.4356 	EXP 	main_early: text = '星期五'
+148.4356 	EXP 	main_late: height = 0.05
+148.4356 	EXP 	main_late: height = 0.05
+148.4356 	EXP 	main_late: height = 0.05
+148.4356 	EXP 	main_late: text = '星期日'
+148.4356 	EXP 	main_image_2: autoDraw = True
+148.6363 	DATA 	Keypress: left
+148.9003 	DATA 	Keypress: left
+149.1574 	DATA 	Keypress: left
+149.3947 	EXP 	fix: autoDraw = True
+149.4077 	DATA 	Keypress: left
+149.4290 	EXP 	main_image_2: autoDraw = False
+149.8826 	EXP 	fix: autoDraw = False
+149.8968 	INFO 	Keyboard events cleared
+149.8965 	EXP 	main_early: autoDraw = True
+149.8965 	EXP 	main_late: autoDraw = True
+150.0861 	EXP 	New trial (rep=0, index=41): OrderedDict([('No', 13), ('Category', 'Month'), ('earlier_stim', '四月'), ('later_stim', '七月'), ('distance', 3), ('congruency', 'congruent'), ('orientation', 'Hori'), ('instruction', 'late'), ('corr_resp', 'right'), ('Instruction_stim', 'image/Chi_late.png'), ('early_position', [-0.3, 0]), ('late_position', [0.3, 0])])
+150.1177 	DATA 	Keypress: left
+150.1230 	EXP 	main_image_2: autoDraw = False
+150.1230 	EXP 	main_early: autoDraw = False
+150.1230 	EXP 	main_late: autoDraw = False
+150.1230 	EXP 	fix: autoDraw = False
+150.1230 	EXP 	main_image_2: image = 'image/Chi_late.png'
+150.1230 	EXP 	main_early: height = 0.05
+150.1230 	EXP 	main_early: height = 0.05
+150.1230 	EXP 	main_early: height = 0.05
+150.1230 	EXP 	main_early: text = '四月'
+150.1230 	EXP 	main_late: height = 0.05
+150.1230 	EXP 	main_late: height = 0.05
+150.1230 	EXP 	main_late: height = 0.05
+150.1230 	EXP 	main_late: text = '七月'
+150.1230 	EXP 	main_image_2: autoDraw = True
+150.2976 	DATA 	Keypress: left
+150.4828 	DATA 	Keypress: left
+150.6670 	DATA 	Keypress: left
+150.8561 	DATA 	Keypress: left
+151.0527 	DATA 	Keypress: left
+151.0876 	EXP 	fix: autoDraw = True
+151.1167 	EXP 	main_image_2: autoDraw = False
+151.2488 	DATA 	Keypress: left
+151.4389 	DATA 	Keypress: left
+151.5877 	INFO 	Keyboard events cleared
+151.5873 	EXP 	main_early: autoDraw = True
+151.5873 	EXP 	main_late: autoDraw = True
+151.5873 	EXP 	fix: autoDraw = False
+151.6359 	EXP 	New trial (rep=0, index=42): OrderedDict([('No', 101), ('Category', 'Week'), ('earlier_stim', '星期五'), ('later_stim', '星期六'), ('distance', 1), ('congruency', 'congruent'), ('orientation', 'Hori'), ('instruction', 'early'), ('corr_resp', 'left'), ('Instruction_stim', 'image/Chi_early.png'), ('early_position', [-0.3, 0]), ('late_position', [0.3, 0])])
+151.6685 	DATA 	Keypress: left
+151.6738 	EXP 	main_image_2: autoDraw = False
+151.6738 	EXP 	main_early: autoDraw = False
+151.6738 	EXP 	main_late: autoDraw = False
+151.6738 	EXP 	fix: autoDraw = False
+151.6738 	EXP 	main_image_2: image = 'image/Chi_early.png'
+151.6738 	EXP 	main_early: height = 0.05
+151.6738 	EXP 	main_early: height = 0.05
+151.6738 	EXP 	main_early: height = 0.05
+151.6738 	EXP 	main_early: text = '星期五'
+151.6738 	EXP 	main_late: height = 0.05
+151.6738 	EXP 	main_late: height = 0.05
+151.6738 	EXP 	main_late: height = 0.05
+151.6738 	EXP 	main_late: text = '星期六'
+151.6738 	EXP 	main_image_2: autoDraw = True
+151.8144 	DATA 	Keypress: left
+152.0062 	DATA 	Keypress: left
+152.1817 	DATA 	Keypress: left
+152.3529 	DATA 	Keypress: left
+152.5333 	DATA 	Keypress: left
+152.6281 	EXP 	fix: autoDraw = True
+152.6662 	EXP 	main_image_2: autoDraw = False
+152.7030 	DATA 	Keypress: left
+152.8557 	DATA 	Keypress: left
+153.0168 	DATA 	Keypress: left
+153.1156 	EXP 	fix: autoDraw = False
+153.1367 	INFO 	Keyboard events cleared
+153.1363 	EXP 	main_early: autoDraw = True
+153.1363 	EXP 	main_late: autoDraw = True
+153.1638 	EXP 	New trial (rep=0, index=43): OrderedDict([('No', 77), ('Category', 'Month'), ('earlier_stim', '九月 '), ('later_stim', '七月'), ('distance', 2), ('congruency', 'incongruent'), ('orientation', 'Vert'), ('instruction', 'late'), ('corr_resp', 'up'), ('Instruction_stim', 'image/Chi_late.png'), ('early_position', [0, 0.3]), ('late_position', [0, -0.3])])
+153.1966 	DATA 	Keypress: left
+153.2022 	EXP 	main_image_2: autoDraw = False
+153.2022 	EXP 	main_early: autoDraw = False
+153.2022 	EXP 	main_late: autoDraw = False
+153.2022 	EXP 	fix: autoDraw = False
+153.2022 	EXP 	main_image_2: image = 'image/Chi_late.png'
+153.2022 	EXP 	main_early: height = 0.05
+153.2022 	EXP 	main_early: height = 0.05
+153.2022 	EXP 	main_early: height = 0.05
+153.2022 	EXP 	main_early: text = '九月 '
+153.2022 	EXP 	main_late: height = 0.05
+153.2022 	EXP 	main_late: height = 0.05
+153.2022 	EXP 	main_late: height = 0.05
+153.2022 	EXP 	main_late: text = '七月'
+153.2022 	EXP 	main_image_2: autoDraw = True
+153.3306 	DATA 	Keypress: left
+153.4700 	DATA 	Keypress: left
+153.6052 	DATA 	Keypress: left
+153.7503 	DATA 	Keypress: left
+153.8894 	DATA 	Keypress: left
+154.0234 	DATA 	Keypress: left
+154.1629 	EXP 	fix: autoDraw = True
+154.1740 	DATA 	Keypress: left
+154.1960 	EXP 	main_image_2: autoDraw = False
+154.3320 	DATA 	Keypress: left
+154.4857 	DATA 	Keypress: left
+154.6498 	EXP 	fix: autoDraw = False
+154.6625 	INFO 	Keyboard events cleared
+154.6621 	EXP 	main_early: autoDraw = True
+154.6621 	EXP 	main_late: autoDraw = True
+154.6668 	DATA 	Keypress: left
+154.8465 	EXP 	New trial (rep=0, index=44): OrderedDict([('No', 78), ('Category', 'Month'), ('earlier_stim', '十月 '), ('later_stim', '八月'), ('distance', 2), ('congruency', 'incongruent'), ('orientation', 'Vert'), ('instruction', 'late'), ('corr_resp', 'up'), ('Instruction_stim', 'image/Chi_late.png'), ('early_position', [0, 0.3]), ('late_position', [0, -0.3])])
+154.8799 	DATA 	Keypress: left
+154.8854 	EXP 	main_image_2: autoDraw = False
+154.8854 	EXP 	main_early: autoDraw = False
+154.8854 	EXP 	main_late: autoDraw = False
+154.8854 	EXP 	fix: autoDraw = False
+154.8854 	EXP 	main_image_2: image = 'image/Chi_late.png'
+154.8854 	EXP 	main_early: height = 0.05
+154.8854 	EXP 	main_early: height = 0.05
+154.8854 	EXP 	main_early: height = 0.05
+154.8854 	EXP 	main_early: text = '十月 '
+154.8854 	EXP 	main_late: height = 0.05
+154.8854 	EXP 	main_late: height = 0.05
+154.8854 	EXP 	main_late: height = 0.05
+154.8854 	EXP 	main_late: text = '八月'
+154.8854 	EXP 	main_image_2: autoDraw = True
+155.0475 	DATA 	Keypress: left
+155.2354 	DATA 	Keypress: left
+155.4366 	DATA 	Keypress: left
+155.6486 	DATA 	Keypress: left
+155.8359 	EXP 	fix: autoDraw = True
+155.8558 	DATA 	Keypress: left
+155.8790 	EXP 	main_image_2: autoDraw = False
+156.0531 	DATA 	Keypress: left
+156.2505 	DATA 	Keypress: left
+156.3362 	INFO 	Keyboard events cleared
+156.3358 	EXP 	main_early: autoDraw = True
+156.3358 	EXP 	main_late: autoDraw = True
+156.3358 	EXP 	fix: autoDraw = False
+156.4359 	EXP 	New trial (rep=0, index=45): OrderedDict([('No', 118), ('Category', 'Week'), ('earlier_stim', '星期一'), ('later_stim', '星期四'), ('distance', 3), ('congruency', 'congruent'), ('orientation', 'Vert'), ('instruction', 'late'), ('corr_resp', 'down'), ('Instruction_stim', 'image/Chi_late.png'), ('early_position', [0, 0.3]), ('late_position', [0, -0.3])])
+156.4663 	DATA 	Keypress: left
+156.4715 	EXP 	main_image_2: autoDraw = False
+156.4715 	EXP 	main_early: autoDraw = False
+156.4715 	EXP 	main_late: autoDraw = False
+156.4715 	EXP 	fix: autoDraw = False
+156.4715 	EXP 	main_image_2: image = 'image/Chi_late.png'
+156.4715 	EXP 	main_early: height = 0.05
+156.4715 	EXP 	main_early: height = 0.05
+156.4715 	EXP 	main_early: height = 0.05
+156.4715 	EXP 	main_early: text = '星期一'
+156.4715 	EXP 	main_late: height = 0.05
+156.4715 	EXP 	main_late: height = 0.05
+156.4715 	EXP 	main_late: height = 0.05
+156.4715 	EXP 	main_late: text = '星期四'
+156.4715 	EXP 	main_image_2: autoDraw = True
+156.6311 	DATA 	Keypress: left
+156.7994 	DATA 	Keypress: left
+156.9666 	DATA 	Keypress: left
+157.1372 	DATA 	Keypress: left
+157.3032 	DATA 	Keypress: left
+157.4276 	EXP 	fix: autoDraw = True
+157.4680 	EXP 	main_image_2: autoDraw = False
+157.4883 	DATA 	Keypress: left
+157.6550 	DATA 	Keypress: left
+157.8229 	DATA 	Keypress: left
+157.9159 	EXP 	fix: autoDraw = False
+157.9367 	INFO 	Keyboard events cleared
+157.9361 	EXP 	main_early: autoDraw = True
+157.9361 	EXP 	main_late: autoDraw = True
+158.0034 	EXP 	New trial (rep=0, index=46): OrderedDict([('No', 150), ('Category', 'Week'), ('earlier_stim', '星期日'), ('later_stim', '星期五'), ('distance', 2), ('congruency', 'incongruent'), ('orientation', 'Vert'), ('instruction', 'late'), ('corr_resp', 'up'), ('Instruction_stim', 'image/Chi_late.png'), ('early_position', [0, 0.3]), ('late_position', [0, -0.3])])
+158.0353 	DATA 	Keypress: left
+158.0410 	EXP 	main_image_2: autoDraw = False
+158.0410 	EXP 	main_early: autoDraw = False
+158.0410 	EXP 	main_late: autoDraw = False
+158.0410 	EXP 	fix: autoDraw = False
+158.0410 	EXP 	main_image_2: image = 'image/Chi_late.png'
+158.0410 	EXP 	main_early: height = 0.05
+158.0410 	EXP 	main_early: height = 0.05
+158.0410 	EXP 	main_early: height = 0.05
+158.0410 	EXP 	main_early: text = '星期日'
+158.0410 	EXP 	main_late: height = 0.05
+158.0410 	EXP 	main_late: height = 0.05
+158.0410 	EXP 	main_late: height = 0.05
+158.0410 	EXP 	main_late: text = '星期五'
+158.0410 	EXP 	main_image_2: autoDraw = True
+158.1701 	DATA 	Keypress: left
+158.3328 	DATA 	Keypress: left
+158.5071 	DATA 	Keypress: left
+158.6863 	DATA 	Keypress: left
+158.8553 	DATA 	Keypress: left
+159.0048 	EXP 	fix: autoDraw = True
+159.0310 	DATA 	Keypress: left
+159.0353 	EXP 	main_image_2: autoDraw = False
+159.2033 	DATA 	Keypress: left
+159.3823 	DATA 	Keypress: left
+159.5030 	INFO 	Keyboard events cleared
+159.5025 	EXP 	main_early: autoDraw = True
+159.5025 	EXP 	main_late: autoDraw = True
+159.5025 	EXP 	fix: autoDraw = False
+159.5698 	EXP 	New trial (rep=0, index=47): OrderedDict([('No', 59), ('Category', 'Month'), ('earlier_stim', '七月'), ('later_stim', '三月'), ('distance', 4), ('congruency', 'incongruent'), ('orientation', 'Vert'), ('instruction', 'late'), ('corr_resp', 'up'), ('Instruction_stim', 'image/Chi_late.png'), ('early_position', [0, 0.3]), ('late_position', [0, -0.3])])
+159.6007 	DATA 	Keypress: left
+159.6060 	EXP 	main_image_2: autoDraw = False
+159.6060 	EXP 	main_early: autoDraw = False
+159.6060 	EXP 	main_late: autoDraw = False
+159.6060 	EXP 	fix: autoDraw = False
+159.6060 	EXP 	main_image_2: image = 'image/Chi_late.png'
+159.6060 	EXP 	main_early: height = 0.05
+159.6060 	EXP 	main_early: height = 0.05
+159.6060 	EXP 	main_early: height = 0.05
+159.6060 	EXP 	main_early: text = '七月'
+159.6060 	EXP 	main_late: height = 0.05
+159.6060 	EXP 	main_late: height = 0.05
+159.6060 	EXP 	main_late: height = 0.05
+159.6060 	EXP 	main_late: text = '三月'
+159.6060 	EXP 	main_image_2: autoDraw = True
+159.7647 	DATA 	Keypress: left
+159.9498 	DATA 	Keypress: left
+160.1382 	DATA 	Keypress: left
+160.3218 	DATA 	Keypress: left
+160.5147 	DATA 	Keypress: left
+160.5722 	EXP 	fix: autoDraw = True
+160.5989 	EXP 	main_image_2: autoDraw = False
+160.6987 	DATA 	Keypress: left
+160.8696 	DATA 	Keypress: left
+161.0672 	DATA 	Keypress: left
+161.0722 	INFO 	Keyboard events cleared
+161.0718 	EXP 	main_early: autoDraw = True
+161.0718 	EXP 	main_late: autoDraw = True
+161.0718 	EXP 	fix: autoDraw = False
+161.2302 	EXP 	New trial (rep=0, index=48): OrderedDict([('No', 23), ('Category', 'Month'), ('earlier_stim', '七月'), ('later_stim', '十一月 '), ('distance', 4), ('congruency', 'congruent'), ('orientation', 'Vert'), ('instruction', 'early'), ('corr_resp', 'up'), ('Instruction_stim', 'image/Chi_early.png'), ('early_position', [0, 0.3]), ('late_position', [0, -0.3])])
+161.2635 	DATA 	Keypress: left
+161.2691 	EXP 	main_image_2: autoDraw = False
+161.2691 	EXP 	main_early: autoDraw = False
+161.2691 	EXP 	main_late: autoDraw = False
+161.2691 	EXP 	fix: autoDraw = False
+161.2691 	EXP 	main_image_2: image = 'image/Chi_early.png'
+161.2691 	EXP 	main_early: text = '七月'
+161.2691 	EXP 	main_late: height = 0.05
+161.2691 	EXP 	main_late: height = 0.05
+161.2691 	EXP 	main_late: height = 0.05
+161.2691 	EXP 	main_late: text = '十一月 '
+161.2691 	EXP 	main_image_2: autoDraw = True
+161.4361 	DATA 	Keypress: left
+161.6153 	DATA 	Keypress: left
+161.7970 	DATA 	Keypress: left
+162.0148 	DATA 	Keypress: left
+162.1889 	DATA 	Keypress: left
+162.2297 	EXP 	fix: autoDraw = True
+162.2622 	EXP 	main_image_2: autoDraw = False
+162.4199 	DATA 	Keypress: left
+162.6496 	DATA 	Keypress: left
+162.7293 	INFO 	Keyboard events cleared
+162.7290 	EXP 	main_early: autoDraw = True
+162.7290 	EXP 	main_late: autoDraw = True
+162.7290 	EXP 	fix: autoDraw = False
+162.8635 	EXP 	New trial (rep=0, index=49): OrderedDict([('No', 98), ('Category', 'Week'), ('earlier_stim', '星期二'), ('later_stim', '星期三\xa0'), ('distance', 1), ('congruency', 'congruent'), ('orientation', 'Hori'), ('instruction', 'early'), ('corr_resp', 'left'), ('Instruction_stim', 'image/Chi_early.png'), ('early_position', [-0.3, 0]), ('late_position', [0.3, 0])])
+162.8968 	DATA 	Keypress: left
+162.9023 	EXP 	main_image_2: autoDraw = False
+162.9023 	EXP 	main_early: autoDraw = False
+162.9023 	EXP 	main_late: autoDraw = False
+162.9023 	EXP 	fix: autoDraw = False
+162.9023 	EXP 	main_image_2: image = 'image/Chi_early.png'
+162.9023 	EXP 	main_early: height = 0.05
+162.9023 	EXP 	main_early: height = 0.05
+162.9023 	EXP 	main_early: height = 0.05
+162.9023 	EXP 	main_early: text = '星期二'
+162.9023 	EXP 	main_late: height = 0.05
+162.9023 	EXP 	main_late: height = 0.05
+162.9023 	EXP 	main_late: height = 0.05
+162.9023 	EXP 	main_late: text = '星期三\xa0'
+162.9023 	EXP 	main_image_2: autoDraw = True
+163.0359 	DATA 	Keypress: left
+163.2320 	DATA 	Keypress: left
+163.4743 	DATA 	Keypress: left
+163.8565 	DATA 	Keypress: left
+163.8624 	EXP 	fix: autoDraw = True
+163.9000 	EXP 	main_image_2: autoDraw = False
+164.1157 	DATA 	Keypress: left
+164.3530 	INFO 	Keyboard events cleared
+164.3525 	EXP 	main_early: autoDraw = True
+164.3525 	EXP 	main_late: autoDraw = True
+164.3525 	EXP 	fix: autoDraw = False
+164.4395 	DATA 	Keypress: left
+164.4603 	DEBUG 	Read excel file with openpyxl: Break_material/Break_chi.xlsx
+164.4621 	EXP 	Imported Break_material/Break_chi.xlsx as conditions, 2 conditions, 5 params
+164.4650 	EXP 	Created sequence: random, trialTypes=2, nReps=1, seed=None
+164.4653 	EXP 	New trial (rep=0, index=0): {'Image': 'Spring 2.jpg', 'Qustion': '这是冬天吗？', 'Response': '否', 'CorrAns': 'Right', 'Path': 'Break_material/Image/Spring 2.jpg'}
+164.6080 	EXP 	window1: mouseVisible = True
+164.6330 	DEBUG 	Saving data for ETchi ExperimentHandler
+164.6368 	INFO 	saved data to /Users/wangerxiao/Library/Mobile Documents/com~apple~CloudDocs/Temporal spacial/et-project_chi/data/333_ETchi_2023-11-06_13h06.55.719.psydat
+164.6527 	INFO 	saved data to '/Users/wangerxiao/Library/Mobile Documents/com~apple~CloudDocs/Temporal spacial/et-project_chi/data/333_ETchi_2023-11-06_13h06.55.719.csv'

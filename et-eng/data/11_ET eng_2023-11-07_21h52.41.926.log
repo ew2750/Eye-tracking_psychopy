@@ -1,0 +1,88 @@
+1.9191 	ERROR 	Support for the `sounddevice` audio backend is not available this session. Please install `psychopy-sounddevice` and restart the session to enable support.
+6.3456 	INFO 	Loaded monitor calibration from ['2020_04_15 21:52']
+6.3573 	WARNING 	User requested fullscreen with size [1470  956], but screen is actually [1920, 1080]. Using actual size
+6.5625 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+6.5642 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+6.5659 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+6.5685 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+6.5708 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+6.5716 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+6.5730 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+6.5754 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+6.5756 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+6.5759 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+6.5775 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+6.5789 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+6.5803 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+6.5818 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+6.5828 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+6.5845 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+6.5859 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+6.5863 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+6.5870 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+6.5893 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+6.5896 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+6.5899 	DEBUG 	Uploading Texture Font fontname to graphics card
+6.5939 	DEBUG 	Upload of Texture Font fontname complete
+6.6027 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+6.6050 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+6.6071 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+6.6073 	DEBUG 	Uploading Texture Font fontname to graphics card
+6.6094 	DEBUG 	Upload of Texture Font fontname complete
+7.5975 	WARNING 	Couldn't measure a consistent frame rate!
+  - Is your graphics card set to sync to vertical blank?
+  - Are you running other processes on your computer?
+
+7.5980 	EXP 	Created window1 = Window(allowGUI=True, allowStencil=False, autoLog=True, backendConf=UNKNOWN, backgroundFit=<method-wrapper '__getattribute__' of attributeSetter object at 0x7fe978b356d0>, backgroundImage=<method-wrapper '__getattribute__' of attributeSetter object at 0x7fe978b35670>, bitsMode=UNKNOWN, blendMode='avg', bpc=(8, 8, 8), color=array([0, 0, 0]), colorSpace='rgb', depthBits=8, fullscr=<method-wrapper '__getattribute__' of attributeSetter object at 0x7fe978b354f0>, gamma=None, gammaErrorPolicy='raise', lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x7fe9744b8e50>, multiSample=False, name='window1', numSamples=2, pos=[0.0, 0.0], screen=0, size=array([1920, 1080]), stencilBits=0, stereo=False, title='PsychoPy', units='height', useFBO=True, useRetina=False, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+7.5982 	EXP 	window1: mouseVisible = True
+7.5982 	EXP 	window1: backgroundImage = ''
+7.5983 	EXP 	window1: backgroundFit = 'none'
+7.6021 	EXP 	window1: Attempting to measure frame rate of screen (0) ...
+7.6021 	EXP 	window1: recordFrameIntervals = False
+7.6801 	EXP 	window1: recordFrameIntervals = True
+8.5148 	WARNING 	Couldn't measure a consistent frame rate!
+  - Is your graphics card set to sync to vertical blank?
+  - Are you running other processes on your computer?
+
+8.5155 	EXP 	window1: mouseVisible = False
+10.4811 	INFO 	keyboard.Keyboard is using iohub backend.
+10.4811 	EXP 	ET eng: status = STARTED
+10.4815 	EXP 	window1: mouseVisible = True
+10.5178 	EXP 	Created intro_1 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([-1., -1., -1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='NanumGothic', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='intro_1', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text=' Temporal-Spatial Task', units='height', win=Window(...), wrapWidth=1)
+10.5180 	EXP 	window1: mouseVisible = True
+10.5315 	EXP 	Created intro_2 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([-1., -1., -1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='NanumGothic', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='intro_2', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='height', win=Window(...), wrapWidth=1)
+10.5315 	INFO 	keyboard.Keyboard is using iohub backend.
+10.5316 	EXP 	window1: mouseVisible = True
+10.5435 	EXP 	Created Intro_3 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([-1., -1., -1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='NanumGothic', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='Intro_3', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='height', win=Window(...), wrapWidth=1)
+10.5435 	INFO 	keyboard.Keyboard is using iohub backend.
+10.5436 	EXP 	window1: mouseVisible = True
+10.5476 	EXP 	Created Intro_4 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([-1., -1., -1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='NanumGothic', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='Intro_4', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='height', win=Window(...), wrapWidth=1)
+10.5476 	INFO 	keyboard.Keyboard is using iohub backend.
+10.5477 	EXP 	window1: mouseVisible = True
+10.5485 	EXP 	Created pracintro = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([-1., -1., -1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='NanumGothic', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='pracintro', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+10.5485 	INFO 	keyboard.Keyboard is using iohub backend.
+10.5486 	EXP 	window1: mouseVisible = True
+10.5748 	EXP 	Created image = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, draggable=False, flipHoriz=False, flipVert=False, image='default.png', interpolate=True, mask=None, maskParams=None, name='image', opacity=1.0, ori=0.0, pos=array([0., 0.]), size=array([1.7, 0.4]), texRes=128.0, units='height', win=Window(...))
+10.5749 	EXP 	window1: mouseVisible = True
+10.5773 	EXP 	Created early = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([-1., -1., -1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='early', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+10.5773 	INFO 	keyboard.Keyboard is using iohub backend.
+10.5774 	EXP 	window1: mouseVisible = True
+10.5782 	EXP 	Created late = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([-1., -1., -1.]), colorSpace='rgb', contrast=1.0, depth=-2.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='late', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+10.5782 	EXP 	window1: mouseVisible = True
+10.5791 	EXP 	Created pracfeedback = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.1, italic=False, languageStyle='LTR', name='pracfeedback', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+10.5792 	EXP 	window1: mouseVisible = True
+10.5850 	EXP 	Created intro_5 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([-1., -1., -1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='NanumGothic', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='intro_5', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='height', win=Window(...), wrapWidth=1)
+10.5850 	INFO 	keyboard.Keyboard is using iohub backend.
+10.5850 	EXP 	window1: mouseVisible = True
+10.5945 	EXP 	Created main_image = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, image='default.png', interpolate=True, mask=None, maskParams=None, name='main_image', opacity=1.0, ori=0.0, pos=array([0., 0.]), size=array([2. , 0.7]), texRes=128.0, units='height', win=Window(...))
+10.5946 	EXP 	window1: mouseVisible = True
+10.5954 	EXP 	Created main_early1 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([-1., -1., -1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='main_early1', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+10.5954 	INFO 	keyboard.Keyboard is using iohub backend.
+10.5955 	EXP 	window1: mouseVisible = True
+10.5962 	EXP 	Created main_late1 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([-1., -1., -1.]), colorSpace='rgb', contrast=1.0, depth=-3.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='main_late1', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+10.5963 	EXP 	window1: mouseVisible = True
+10.5989 	EXP 	Created fix = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([-1., -1., -1.]), colorSpace='rgb', contrast=1.0, depth=-4.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='fix', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='+', units='height', win=Window(...), wrapWidth=1)
+10.6098 	EXP 	window1: mouseVisible = True
+10.6105 	DEBUG 	Saving data for ET eng ExperimentHandler
+10.6114 	INFO 	saved data to /Users/Tracey/Desktop/Teachers College Columbia/Gordon Lab/Temporal spacial/Psychopy/et_eng/data/11_ET eng_2023-11-07_21h52.41.926.psydat
+10.6116 	INFO 	saved data to '/Users/Tracey/Desktop/Teachers College Columbia/Gordon Lab/Temporal spacial/Psychopy/et_eng/data/11_ET eng_2023-11-07_21h52.41.926.csv'
